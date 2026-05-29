@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fractions (Bhinn) study-notes ki PDF - Hinglish.
+Fractions (Bhinn) study-notes ki PDF - Hinglish, with step-by-step solutions.
 numbers_notes.py ka pure-Python PDF engine reuse karta hai
 (koi external library nahi chahiye), style baaki notes jaisa.
 
@@ -18,13 +18,13 @@ def build_document():
 
     # ---- Title -------------------------------------------------------
     d.title("Fractions (Bhinn)")
-    d.subtitle("Aasan Hinglish Notes, Types, Operations aur Practice Questions")
+    d.subtitle("Hinglish Notes, Types, Operations aur Step-by-Step Solutions")
     d.hline(LEFT, PAGE_W - RIGHT, d.y + 4, NAVY, 1.2)
     d.space(10)
     d.body("Fraction kisi poori cheez ke hisse (part) ko represent karta hai. Is guide "
            "me fraction kya hai, uske types, simplest form, comparison aur sabhi "
            "operations (jod-ghata-guna-bhaag) simple Hinglish me samjhaye gaye hain, "
-           "aur end me 22 practice questions (answer key ke saath) diye gaye hain.",
+           "aur end me 22 practice questions ke STEP-BY-STEP solutions diye gaye hain.",
            color=GREY)
     d.space(6)
 
@@ -104,9 +104,9 @@ def build_document():
     d.space(6)
 
     # ---- Practice Questions -----------------------------------------
-    d.h2("Practice Questions (Khud Try Karo!)")
-    d.body("In 22 questions ko khud solve karne ki koshish karo. Answers neeche answer "
-           "key me diye gaye hain.", color=GREY)
+    d.h2("Practice Questions")
+    d.body("Pehle khud solve karne ki koshish karo. Neeche har question ka step-by-step "
+           "solution diya gaya hai.", color=GREY)
     d.space(3)
 
     questions = [
@@ -137,34 +137,113 @@ def build_document():
         d.label_body(f"Q{i}.", q)
         d.space(2)
 
-    # ---- Answer Key --------------------------------------------------
-    d.h2("Answer Key")
-    answers = [
-        "3   (upar wala number numerator hota hai)",
-        "Improper   (7 > 4)",
-        "Haan   (2/3 = 4/6, dono barabar)",
-        "1/2   (5/10 ko HCF 5 se divide)",
-        "1   (1/2 + 1/2 = 2/2 = 1)",
-        "4/5   (same denominator, numerators jode)",
-        "5/6   (LCM 6: 3/6 + 2/6 = 5/6)",
-        "2/4 = 1/2",
-        "6/12 = 1/2",
-        "2   (1/2 x 4/1 = 4/2 = 2)",
-        "3 1/2   (7 div 2 = 3 remainder 1)",
-        "7/3   ((2x3)+1 = 7)",
-        "0.25",
-        "Wo fraction jisme numerator < denominator ho.",
-        "Numerator 1 wala fraction - jaise 1/5 ya 1/7.",
-        "Haan, sab 1/2 ke barabar hain.",
-        "3/5 bada hai.",
-        "1/2 bada hai.",
-        "2/3   (6/9 ko HCF 3 se divide)",
-        "3   (3/4 x 4 = 12/4 = 3)",
-        "Whole number + proper fraction - jaise 2 1/3.",
-        "1/2   (0.5 = 5/10 = 1/2)",
+    # ---- Step-by-Step Solutions -------------------------------------
+    d.h2("Step-by-Step Solutions")
+
+    # Each item: (short question, [step lines...], final answer)
+    solutions = [
+        ("3/4 me numerator?",
+         ["Fraction me upar wala number numerator hota hai.",
+          "3/4 me upar 3 hai."],
+         "Numerator = 3"),
+        ("7/4 ka type?",
+         ["Numerator = 7, Denominator = 4.",
+          "Yahan numerator (7) > denominator (4)."],
+         "Improper Fraction"),
+        ("2/3 aur 4/6 equivalent?",
+         ["2/3 ke upar-neeche ko 2 se multiply karo.",
+          "(2x2)/(3x2) = 4/6.",
+          "Dono ki value barabar nikli."],
+         "Haan, equivalent hain"),
+        ("5/10 simplest form?",
+         ["HCF(5, 10) = 5 nikalo.",
+          "Upar-neeche ko 5 se divide: (5/5)/(10/5)."],
+         "1/2"),
+        ("1/2 + 1/2 = ?",
+         ["Denominator same (2) hai, to numerators jodo.",
+          "(1+1)/2 = 2/2.",
+          "2/2 simplify -> 1."],
+         "1"),
+        ("3/5 + 1/5 = ?",
+         ["Denominator same (5) hai.",
+          "Numerators jodo: (3+1)/5."],
+         "4/5"),
+        ("1/2 + 1/3 = ?",
+         ["Denominator alag hain -> LCM(2,3) = 6.",
+          "1/2 = 3/6 aur 1/3 = 2/6.",
+          "Ab jodo: 3/6 + 2/6."],
+         "5/6"),
+        ("3/4 - 1/4 = ?",
+         ["Denominator same (4) hai.",
+          "Numerators ghatao: (3-1)/4 = 2/4.",
+          "Simplify: HCF 2 se -> 1/2."],
+         "2/4 = 1/2"),
+        ("2/3 x 3/4 = ?",
+         ["Multiplication: upar x upar, neeche x neeche.",
+          "(2x3)/(3x4) = 6/12.",
+          "Simplify: HCF 6 se -> 1/2."],
+         "6/12 = 1/2"),
+        ("1/2 div 1/4 = ?",
+         ["Division me doosre ka reciprocal lo: 1/4 -> 4/1.",
+          "Ab multiply: 1/2 x 4/1 = 4/2.",
+          "4/2 simplify -> 2."],
+         "2"),
+        ("7/2 -> mixed fraction?",
+         ["Numerator ko denominator se divide: 7 div 2.",
+          "Quotient = 3, Remainder = 1.",
+          "Mixed = quotient + (remainder/denominator)."],
+         "3 1/2"),
+        ("2 1/3 -> improper fraction?",
+         ["Formula: (whole x denominator) + numerator.",
+          "(2 x 3) + 1 = 7.",
+          "Denominator wahi (3) rakho."],
+         "7/3"),
+        ("1/4 -> decimal?",
+         ["Numerator ko denominator se divide: 1 div 4."],
+         "0.25"),
+        ("Proper fraction definition?",
+         ["Jis fraction me numerator chhota ho denominator se."],
+         "Numerator < Denominator (jaise 3/4)"),
+        ("Unit fraction kya hai?",
+         ["Wo fraction jiska numerator 1 ho."],
+         "Jaise 1/5, 1/7"),
+        ("4/8, 1/2, 3/6 equivalent?",
+         ["4/8 ko HCF 4 se simplify -> 1/2.",
+          "3/6 ko HCF 3 se simplify -> 1/2.",
+          "Teeno ki value 1/2 nikli."],
+         "Haan, sab equivalent"),
+        ("2/5 aur 3/5 me bada?",
+         ["Denominator same (5) hai.",
+          "Bada numerator wala bada: 3 > 2."],
+         "3/5 bada hai"),
+        ("1/2 aur 1/3 me bada?",
+         ["Numerator same (1) hai.",
+          "Chhota denominator wala bada: 2 < 3."],
+         "1/2 bada hai"),
+        ("6/9 simplest form?",
+         ["HCF(6, 9) = 3 nikalo.",
+          "Upar-neeche ko 3 se divide: (6/3)/(9/3)."],
+         "2/3"),
+        ("3/4 x 4 = ?",
+         ["4 ko fraction maano: 4/1.",
+          "3/4 x 4/1 = 12/4.",
+          "Simplify: 12/4 = 3."],
+         "3"),
+        ("Mixed fraction kya hai?",
+         ["Whole number + proper fraction milkar banta hai."],
+         "Jaise 2 1/3"),
+        ("0.5 -> fraction?",
+         ["0.5 = 5/10 likho.",
+          "HCF 5 se simplify: (5/5)/(10/5)."],
+         "1/2"),
     ]
-    for i, a in enumerate(answers, start=1):
-        d.bullet(f"Q{i}: {a}")
+
+    for i, (q, steps, ans) in enumerate(solutions, start=1):
+        d.label_body(f"Q{i}.", q)
+        for s in steps:
+            d.bullet(f"Step: {s}")
+        d.label_body("   Answer:", ans)
+        d.space(4)
 
     return d
 

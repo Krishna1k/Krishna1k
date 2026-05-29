@@ -4,10 +4,10 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [8 0 R 9 0 R 10 0 R] /Count 3 >>
+<< /Type /Pages /Kids [10 0 R 11 0 R 12 0 R 13 0 R 14 0 R] /Count 5 >>
 endobj
 3 0 obj
-<< /Length 6474 >>
+<< /Length 6379 >>
 stream
 BT
 /F2 26.00 Tf
@@ -19,7 +19,7 @@ BT
 /F1 13.00 Tf
 0.300 0.300 0.300 rg
 60.00 758.00 Td
-(Aasan Hinglish Notes, Types, Operations aur Practice Questions) Tj
+(Hinglish Notes, Types, Operations aur Step-by-Step Solutions) Tj
 ET
 1.20 w
 0.130 0.200 0.450 RG
@@ -40,367 +40,361 @@ BT
 /F1 11.00 Tf
 0.300 0.300 0.300 rg
 60.00 696.00 Td
-(me samjhaye gaye hain, aur end me 22 practice questions \(answer key ke saath\) diye gaye hain.) Tj
+(me samjhaye gaye hain, aur end me 22 practice questions ke STEP-BY-STEP solutions diye) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 680.00 Td
+(gaye hain.) Tj
 ET
 0.740 0.200 0.200 rg
-60.00 665.00 4.00 16.00 re
+60.00 649.00 4.00 16.00 re
 f
 BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
-72.00 668.00 Td
+72.00 652.00 Td
 (1. Fraction kya hota hai?) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
-60.00 652.00 m 535.28 652.00 l S
+60.00 636.00 m 535.28 636.00 l S
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 642.00 Td
+60.00 626.00 Td
 (Definition:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 642.00 Td
+111.96 626.00 Td
 (Fraction kisi cheez ke barabar hisson me se kuch hisson ko batata hai. Ise p/q form) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 626.00 Td
+60.00 610.00 Td
 (me likha jata hai.) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 610.00 Td
+60.00 594.00 Td
 (Example:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-108.91 610.00 Td
+108.91 594.00 Td
 (3/4 ka matlab - poori cheez ko 4 barabar hisson me baanta, aur usme se 3 hisse liye.) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 594.00 Td
+60.00 578.00 Td
 (Parts:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-91.79 594.00 Td
+91.79 578.00 Td
 () Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 578.00 Td
+64.00 562.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 578.00 Td
+76.00 562.00 Td
 (Numerator \(ansh\) = upar wala number \(kitne hisse liye\). Jaise 3/4 me 3.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 563.00 Td
+64.00 547.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 563.00 Td
+76.00 547.00 Td
 (Denominator \(har\) = neeche wala number \(total kitne hisse\). Jaise 3/4 me 4.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 548.00 Td
+64.00 532.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 548.00 Td
+76.00 532.00 Td
 (Denominator kabhi 0 nahi ho sakta.) Tj
 ET
 0.740 0.200 0.200 rg
-60.00 518.00 4.00 16.00 re
+60.00 502.00 4.00 16.00 re
 f
 BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
-72.00 521.00 Td
+72.00 505.00 Td
 (2. Fractions ke Types) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
-60.00 505.00 m 535.28 505.00 l S
+60.00 489.00 m 535.28 489.00 l S
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 495.00 Td
+64.00 479.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 495.00 Td
+76.00 479.00 Td
 (Proper Fraction: numerator < denominator. Jaise 3/4, 2/5.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 480.00 Td
+64.00 464.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 480.00 Td
+76.00 464.00 Td
 (Improper Fraction: numerator >= denominator. Jaise 7/4, 5/5.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 465.00 Td
+64.00 449.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 465.00 Td
+76.00 449.00 Td
 (Mixed Fraction: whole number + proper fraction. Jaise 1 3/4.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 450.00 Td
+64.00 434.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 450.00 Td
+76.00 434.00 Td
 (Like Fractions: same denominator. Jaise 2/5 aur 3/5.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 435.00 Td
+64.00 419.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 435.00 Td
+76.00 419.00 Td
 (Unlike Fractions: alag denominator. Jaise 1/2 aur 1/3.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 420.00 Td
+64.00 404.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 420.00 Td
+76.00 404.00 Td
 (Equivalent Fractions: value barabar. Jaise 1/2 = 2/4 = 3/6.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 405.00 Td
+64.00 389.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 405.00 Td
+76.00 389.00 Td
 (Unit Fraction: numerator 1 ho. Jaise 1/5, 1/8.) Tj
 ET
 0.740 0.200 0.200 rg
-60.00 375.00 4.00 16.00 re
+60.00 359.00 4.00 16.00 re
 f
 BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
-72.00 378.00 Td
+72.00 362.00 Td
 (3. Equivalent Fractions aur Simplest Form) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
-60.00 362.00 m 535.28 362.00 l S
+60.00 346.00 m 535.28 346.00 l S
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 352.00 Td
+60.00 336.00 Td
 (Equivalent banane:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-157.23 352.00 Td
+157.23 336.00 Td
 (Numerator aur denominator dono ko same number se multiply ya divide karo.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 336.00 Td
+60.00 320.00 Td
 (Jaise 1/2 = \(1x2\)/\(2x2\) = 2/4.) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 320.00 Td
+60.00 304.00 Td
 (Simplest Form:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-137.01 320.00 Td
+137.01 304.00 Td
 (Numerator aur denominator ko unke HCF se divide karo jab tak aur simplify na ho) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 304.00 Td
+60.00 288.00 Td
 (sake.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 288.00 Td
+64.00 272.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 288.00 Td
+76.00 272.00 Td
 (Example: 6/9 -> HCF 3 -> \(6/3\)/\(9/3\) = 2/3 \(simplest form\).) Tj
 ET
 0.740 0.200 0.200 rg
-60.00 258.00 4.00 16.00 re
+60.00 242.00 4.00 16.00 re
 f
 BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
-72.00 261.00 Td
+72.00 245.00 Td
 (4. Fractions ki Comparison) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
-60.00 245.00 m 535.28 245.00 l S
+60.00 229.00 m 535.28 229.00 l S
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 235.00 Td
+64.00 219.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 235.00 Td
+76.00 219.00 Td
 (Same denominator ho to bada numerator wala fraction bada hota hai. Jaise 3/5 > 2/5.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 220.00 Td
+64.00 204.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 220.00 Td
+76.00 204.00 Td
 (Alag denominator ho to LCM lekar same denominator banao, fir compare karo.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 205.00 Td
+64.00 189.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 205.00 Td
+76.00 189.00 Td
 (Same numerator ho to chhota denominator wala bada hota hai. Jaise 1/2 > 1/3.) Tj
 ET
 0.740 0.200 0.200 rg
-60.00 175.00 4.00 16.00 re
+60.00 159.00 4.00 16.00 re
 f
 BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
-72.00 178.00 Td
+72.00 162.00 Td
 (5. Fractions par Operations) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
-60.00 162.00 m 535.28 162.00 l S
+60.00 146.00 m 535.28 146.00 l S
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 152.00 Td
+60.00 136.00 Td
 (\(a\) Addition / Subtraction:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-187.17 152.00 Td
+187.17 136.00 Td
 (Same denominator ho to numerators jodo/ghatao, denominator wahi) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 136.00 Td
+60.00 120.00 Td
 (rakho. Alag ho to pehle LCM se same banao.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 120.00 Td
+64.00 104.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 120.00 Td
+76.00 104.00 Td
 (Example: 1/2 + 1/3 -> LCM 6 -> 3/6 + 2/6 = 5/6) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 105.00 Td
+60.00 89.00 Td
 (\(b\) Multiplication:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-146.19 105.00 Td
+146.19 89.00 Td
 (Numerator x numerator, denominator x denominator. Fir simplify karo.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 89.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 89.00 Td
-(Example: 2/3 x 3/4 = 6/12 = 1/2) Tj
 ET
 endstream
 endobj
@@ -408,82 +402,1040 @@ endobj
 << /Length 5952 >>
 stream
 BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Example: 2/3 x 3/4 = 6/12 = 1/2) Tj
+ET
+BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 790.00 Td
+60.00 775.00 Td
 (\(c\) Division:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-120.50 790.00 Td
+120.50 775.00 Td
 (Doosre fraction ko ulta \(reciprocal\) karke multiply karo.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 774.00 Td
+64.00 759.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 774.00 Td
+76.00 759.00 Td
 (Example: 1/2 div 1/4 = 1/2 x 4/1 = 4/2 = 2) Tj
 ET
 0.740 0.200 0.200 rg
-60.00 744.00 4.00 16.00 re
+60.00 729.00 4.00 16.00 re
 f
 BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
-72.00 747.00 Td
+72.00 732.00 Td
 (6. Conversions) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
-60.00 731.00 m 535.28 731.00 l S
+60.00 716.00 m 535.28 716.00 l S
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 721.00 Td
+60.00 706.00 Td
 (Improper -> Mixed:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-155.67 721.00 Td
+155.67 706.00 Td
 (Numerator ko denominator se divide karo. Quotient = whole part,) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 705.00 Td
+60.00 690.00 Td
 (remainder/denominator = fraction part.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 689.00 Td
+64.00 674.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 689.00 Td
+76.00 674.00 Td
 (Example: 7/2 -> 7 div 2 = 3 remainder 1 -> 3 1/2) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 674.00 Td
+60.00 659.00 Td
 (Mixed -> Improper:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-155.67 674.00 Td
+155.67 659.00 Td
 (\(whole x denominator\) + numerator, denominator wahi.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 643.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 643.00 Td
+(Example: 2 1/3 -> \(2x3\)+1 = 7 -> 7/3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 628.00 Td
+(Fraction -> Decimal:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+161.77 628.00 Td
+(Numerator ko denominator se divide karo. Jaise 1/4 = 0.25.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 597.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 600.00 Td
+(Quick Revision) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 584.00 m 535.28 584.00 l S
+0.930 0.950 1.000 rg
+60.00 484.00 475.28 96.00 re
+f
+0.130 0.200 0.450 rg
+60.00 484.00 4.00 96.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 562.00 Td
+(Proper: upar < neeche \(3/4\)    |    Improper: upar >= neeche \(7/4\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 546.00 Td
+(Add/Subtract: denominator same karo \(LCM\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 530.00 Td
+(Multiply: seedha upar-upar, neeche-neeche.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 514.00 Td
+(Divide: doosre ko ulta karke multiply.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 498.00 Td
+(Simplest form: HCF se divide.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 463.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 466.00 Td
+(Practice Questions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 450.00 m 535.28 450.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 440.00 Td
+(Pehle khud solve karne ki koshish karo. Neeche har question ka step-by-step solution diya gaya) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 424.00 Td
+(hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 405.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 405.00 Td
+(3/4 me numerator kaunsa number hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 387.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 387.00 Td
+(7/4 kis type ka fraction hai \(proper / improper\)?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 369.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 369.00 Td
+(Kya 2/3 aur 4/6 equivalent fractions hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 351.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 351.00 Td
+(5/10 ko simplest form me likho.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 333.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 333.00 Td
+(1/2 + 1/2 = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 315.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 315.00 Td
+(3/5 + 1/5 = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 297.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 297.00 Td
+(1/2 + 1/3 = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 279.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 279.00 Td
+(3/4 - 1/4 = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 261.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 261.00 Td
+(2/3 x 3/4 = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 243.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 243.00 Td
+(1/2 div 1/4 = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 225.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 225.00 Td
+(7/2 ko mixed fraction me likho.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 207.00 Td
+(Q12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 207.00 Td
+(2 1/3 ko improper fraction me likho.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 189.00 Td
+(Q13.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 189.00 Td
+(1/4 ko decimal me likho.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 171.00 Td
+(Q14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 171.00 Td
+(Proper fraction ki definition kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 153.00 Td
+(Q15.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 153.00 Td
+(Unit fraction kya hota hai? Ek example do.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 135.00 Td
+(Q16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 135.00 Td
+(Kya 4/8, 1/2 aur 3/6 sab equivalent hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 117.00 Td
+(Q17.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 117.00 Td
+(2/5 aur 3/5 me se bada kaunsa hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 99.00 Td
+(Q18.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 99.00 Td
+(1/2 aur 1/3 me se bada kaunsa hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 81.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 81.00 Td
+(6/9 ka simplest form kya hai?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 6639 >>
+stream
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 790.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 790.00 Td
+(3/4 x 4 = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 772.00 Td
+(Q21.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 772.00 Td
+(Mixed fraction kya hota hai? Ek example do.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 754.00 Td
+(Q22.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 754.00 Td
+(0.5 ko fraction me likho.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 727.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 730.00 Td
+(Step-by-Step Solutions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 714.00 m 535.28 714.00 l S
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 704.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 704.00 Td
+(3/4 me numerator?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 688.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 688.00 Td
+(Step: Fraction me upar wala number numerator hota hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 673.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 673.00 Td
+(Step: 3/4 me upar 3 hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 658.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 658.00 Td
+(Numerator = 3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 638.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 638.00 Td
+(7/4 ka type?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 622.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 622.00 Td
+(Step: Numerator = 7, Denominator = 4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 607.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 607.00 Td
+(Step: Yahan numerator \(7\) > denominator \(4\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 592.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 592.00 Td
+(Improper Fraction) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 572.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 572.00 Td
+(2/3 aur 4/6 equivalent?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 556.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 556.00 Td
+(Step: 2/3 ke upar-neeche ko 2 se multiply karo.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 541.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 541.00 Td
+(Step: \(2x2\)/\(3x2\) = 4/6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 526.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 526.00 Td
+(Step: Dono ki value barabar nikli.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 511.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 511.00 Td
+(Haan, equivalent hain) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 491.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 491.00 Td
+(5/10 simplest form?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 475.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 475.00 Td
+(Step: HCF\(5, 10\) = 5 nikalo.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 460.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 460.00 Td
+(Step: Upar-neeche ko 5 se divide: \(5/5\)/\(10/5\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 445.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 445.00 Td
+(1/2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 425.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 425.00 Td
+(1/2 + 1/2 = ?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 409.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 409.00 Td
+(Step: Denominator same \(2\) hai, to numerators jodo.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 394.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 394.00 Td
+(Step: \(1+1\)/2 = 2/2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 379.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 379.00 Td
+(Step: 2/2 simplify -> 1.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 364.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 364.00 Td
+(1) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 344.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 344.00 Td
+(3/5 + 1/5 = ?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 328.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 328.00 Td
+(Step: Denominator same \(5\) hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 313.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 313.00 Td
+(Step: Numerators jodo: \(3+1\)/5.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 298.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 298.00 Td
+(4/5) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 278.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 278.00 Td
+(1/2 + 1/3 = ?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 262.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 262.00 Td
+(Step: Denominator alag hain -> LCM\(2,3\) = 6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 247.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 247.00 Td
+(Step: 1/2 = 3/6 aur 1/3 = 2/6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 232.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 232.00 Td
+(Step: Ab jodo: 3/6 + 2/6.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 217.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 217.00 Td
+(5/6) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 197.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 197.00 Td
+(3/4 - 1/4 = ?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 181.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 181.00 Td
+(Step: Denominator same \(4\) hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 166.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 166.00 Td
+(Step: Numerators ghatao: \(3-1\)/4 = 2/4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 151.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 151.00 Td
+(Step: Simplify: HCF 2 se -> 1/2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 136.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 136.00 Td
+(2/4 = 1/2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 116.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 116.00 Td
+(2/3 x 3/4 = ?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 100.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 100.00 Td
+(Step: Multiplication: upar x upar, neeche x neeche.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 85.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 85.00 Td
+(Step: \(2x3\)/\(3x4\) = 6/12.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 6849 >>
+stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Step: Simplify: HCF 6 se -> 1/2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 775.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 775.00 Td
+(6/12 = 1/2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 755.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 755.00 Td
+(1/2 div 1/4 = ?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 739.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 739.00 Td
+(Step: Division me doosre ka reciprocal lo: 1/4 -> 4/1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 724.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 724.00 Td
+(Step: Ab multiply: 1/2 x 4/1 = 4/2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 709.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 709.00 Td
+(Step: 4/2 simplify -> 2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 694.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 694.00 Td
+(2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 674.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 674.00 Td
+(7/2 -> mixed fraction?) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -495,669 +1447,607 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 658.00 Td
-(Example: 2 1/3 -> \(2x3\)+1 = 7 -> 7/3) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 643.00 Td
-(Fraction -> Decimal:) Tj
+(Step: Numerator ko denominator se divide: 7 div 2.) Tj
 ET
 BT
 /F1 11.00 Tf
-0.000 0.000 0.000 rg
-161.77 643.00 Td
-(Numerator ko denominator se divide karo. Jaise 1/4 = 0.25.) Tj
-ET
 0.740 0.200 0.200 rg
-60.00 612.00 4.00 16.00 re
-f
-BT
-/F2 15.00 Tf
-0.130 0.200 0.450 rg
-72.00 615.00 Td
-(Quick Revision) Tj
-ET
-0.60 w
-0.800 0.800 0.800 RG
-60.00 599.00 m 535.28 599.00 l S
-0.930 0.950 1.000 rg
-60.00 499.00 475.28 96.00 re
-f
-0.130 0.200 0.450 rg
-60.00 499.00 4.00 96.00 re
-f
-BT
-/F1 11.00 Tf
-0.130 0.200 0.450 rg
-74.00 577.00 Td
-(Proper: upar < neeche \(3/4\)    |    Improper: upar >= neeche \(7/4\)) Tj
+64.00 643.00 Td
+(-) Tj
 ET
 BT
 /F1 11.00 Tf
-0.130 0.200 0.450 rg
-74.00 561.00 Td
-(Add/Subtract: denominator same karo \(LCM\).) Tj
+0.000 0.000 0.000 rg
+76.00 643.00 Td
+(Step: Quotient = 3, Remainder = 1.) Tj
 ET
 BT
 /F1 11.00 Tf
-0.130 0.200 0.450 rg
-74.00 545.00 Td
-(Multiply: seedha upar-upar, neeche-neeche.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.130 0.200 0.450 rg
-74.00 529.00 Td
-(Divide: doosre ko ulta karke multiply.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.130 0.200 0.450 rg
-74.00 513.00 Td
-(Simplest form: HCF se divide.) Tj
-ET
 0.740 0.200 0.200 rg
-60.00 478.00 4.00 16.00 re
-f
-BT
-/F2 15.00 Tf
-0.130 0.200 0.450 rg
-72.00 481.00 Td
-(Practice Questions \(Khud Try Karo!\)) Tj
-ET
-0.60 w
-0.800 0.800 0.800 RG
-60.00 465.00 m 535.28 465.00 l S
-BT
-/F1 11.00 Tf
-0.300 0.300 0.300 rg
-60.00 455.00 Td
-(In 22 questions ko khud solve karne ki koshish karo. Answers neeche answer key me diye gaye) Tj
+64.00 628.00 Td
+(-) Tj
 ET
 BT
 /F1 11.00 Tf
-0.300 0.300 0.300 rg
-60.00 439.00 Td
-(hain.) Tj
+0.000 0.000 0.000 rg
+76.00 628.00 Td
+(Step: Mixed = quotient + \(remainder/denominator\).) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 420.00 Td
-(Q1.) Tj
+60.00 613.00 Td
+(   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-80.79 420.00 Td
-(3/4 me numerator kaunsa number hai?) Tj
+111.96 613.00 Td
+(3 1/2) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 402.00 Td
-(Q2.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 402.00 Td
-(7/4 kis type ka fraction hai \(proper / improper\)?) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 384.00 Td
-(Q3.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 384.00 Td
-(Kya 2/3 aur 4/6 equivalent fractions hain?) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 366.00 Td
-(Q4.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 366.00 Td
-(5/10 ko simplest form me likho.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 348.00 Td
-(Q5.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 348.00 Td
-(1/2 + 1/2 = ?) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 330.00 Td
-(Q6.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 330.00 Td
-(3/5 + 1/5 = ?) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 312.00 Td
-(Q7.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 312.00 Td
-(1/2 + 1/3 = ?) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 294.00 Td
-(Q8.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 294.00 Td
-(3/4 - 1/4 = ?) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 276.00 Td
-(Q9.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 276.00 Td
-(2/3 x 3/4 = ?) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 258.00 Td
-(Q10.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 258.00 Td
-(1/2 div 1/4 = ?) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 240.00 Td
-(Q11.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 240.00 Td
-(7/2 ko mixed fraction me likho.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 222.00 Td
+60.00 593.00 Td
 (Q12.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 222.00 Td
-(2 1/3 ko improper fraction me likho.) Tj
+86.91 593.00 Td
+(2 1/3 -> improper fraction?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 577.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 577.00 Td
+(Step: Formula: \(whole x denominator\) + numerator.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 562.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 562.00 Td
+(Step: \(2 x 3\) + 1 = 7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 547.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 547.00 Td
+(Step: Denominator wahi \(3\) rakho.) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 204.00 Td
+60.00 532.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 532.00 Td
+(7/3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 512.00 Td
 (Q13.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 204.00 Td
-(1/4 ko decimal me likho.) Tj
+86.91 512.00 Td
+(1/4 -> decimal?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 496.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 496.00 Td
+(Step: Numerator ko denominator se divide: 1 div 4.) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 186.00 Td
+60.00 481.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 481.00 Td
+(0.25) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 461.00 Td
 (Q14.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 186.00 Td
-(Proper fraction ki definition kya hai?) Tj
+86.91 461.00 Td
+(Proper fraction definition?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 445.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 445.00 Td
+(Step: Jis fraction me numerator chhota ho denominator se.) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 168.00 Td
+60.00 430.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 430.00 Td
+(Numerator < Denominator \(jaise 3/4\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 410.00 Td
 (Q15.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 168.00 Td
-(Unit fraction kya hota hai? Ek example do.) Tj
+86.91 410.00 Td
+(Unit fraction kya hai?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 394.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 394.00 Td
+(Step: Wo fraction jiska numerator 1 ho.) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 150.00 Td
+60.00 379.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 379.00 Td
+(Jaise 1/5, 1/7) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 359.00 Td
 (Q16.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 150.00 Td
-(Kya 4/8, 1/2 aur 3/6 sab equivalent hain?) Tj
+86.91 359.00 Td
+(4/8, 1/2, 3/6 equivalent?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 343.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 343.00 Td
+(Step: 4/8 ko HCF 4 se simplify -> 1/2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 328.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 328.00 Td
+(Step: 3/6 ko HCF 3 se simplify -> 1/2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 313.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 313.00 Td
+(Step: Teeno ki value 1/2 nikli.) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 132.00 Td
+60.00 298.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 298.00 Td
+(Haan, sab equivalent) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 278.00 Td
 (Q17.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 132.00 Td
-(2/5 aur 3/5 me se bada kaunsa hai?) Tj
+86.91 278.00 Td
+(2/5 aur 3/5 me bada?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 262.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 262.00 Td
+(Step: Denominator same \(5\) hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 247.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 247.00 Td
+(Step: Bada numerator wala bada: 3 > 2.) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 114.00 Td
+60.00 232.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 232.00 Td
+(3/5 bada hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 212.00 Td
 (Q18.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 114.00 Td
-(1/2 aur 1/3 me se bada kaunsa hai?) Tj
+86.91 212.00 Td
+(1/2 aur 1/3 me bada?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 196.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 196.00 Td
+(Step: Numerator same \(1\) hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 181.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 181.00 Td
+(Step: Chhota denominator wala bada: 2 < 3.) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 96.00 Td
+60.00 166.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 166.00 Td
+(1/2 bada hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 146.00 Td
 (Q19.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 96.00 Td
-(6/9 ka simplest form kya hai?) Tj
+86.91 146.00 Td
+(6/9 simplest form?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 130.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 130.00 Td
+(Step: HCF\(6, 9\) = 3 nikalo.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 115.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 115.00 Td
+(Step: Upar-neeche ko 3 se divide: \(6/3\)/\(9/3\).) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 78.00 Td
+60.00 100.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 100.00 Td
+(2/3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 80.00 Td
 (Q20.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 78.00 Td
+86.91 80.00 Td
 (3/4 x 4 = ?) Tj
 ET
 endstream
 endobj
-5 0 obj
-<< /Length 3972 >>
+7 0 obj
+<< /Length 1662 >>
 stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Step: 4 ko fraction maano: 4/1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 775.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 775.00 Td
+(Step: 3/4 x 4/1 = 12/4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 760.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 760.00 Td
+(Step: Simplify: 12/4 = 3.) Tj
+ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 790.00 Td
+60.00 745.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 745.00 Td
+(3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 725.00 Td
 (Q21.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 790.00 Td
-(Mixed fraction kya hota hai? Ek example do.) Tj
+86.91 725.00 Td
+(Mixed fraction kya hai?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 709.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 709.00 Td
+(Step: Whole number + proper fraction milkar banta hai.) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 772.00 Td
+60.00 694.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 694.00 Td
+(Jaise 2 1/3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 674.00 Td
 (Q22.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 772.00 Td
-(0.5 ko fraction me likho.) Tj
+86.91 674.00 Td
+(0.5 -> fraction?) Tj
 ET
-0.740 0.200 0.200 rg
-60.00 745.00 4.00 16.00 re
-f
-BT
-/F2 15.00 Tf
-0.130 0.200 0.450 rg
-72.00 748.00 Td
-(Answer Key) Tj
-ET
-0.60 w
-0.800 0.800 0.800 RG
-60.00 732.00 m 535.28 732.00 l S
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 722.00 Td
+64.00 658.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 722.00 Td
-(Q1: 3   \(upar wala number numerator hota hai\)) Tj
+76.00 658.00 Td
+(Step: 0.5 = 5/10 likho.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 707.00 Td
+64.00 643.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 707.00 Td
-(Q2: Improper   \(7 > 4\)) Tj
+76.00 643.00 Td
+(Step: HCF 5 se simplify: \(5/5\)/\(10/5\).) Tj
 ET
 BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 692.00 Td
-(-) Tj
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 628.00 Td
+(   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 692.00 Td
-(Q3: Haan   \(2/3 = 4/6, dono barabar\)) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 677.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 677.00 Td
-(Q4: 1/2   \(5/10 ko HCF 5 se divide\)) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 662.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 662.00 Td
-(Q5: 1   \(1/2 + 1/2 = 2/2 = 1\)) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 647.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 647.00 Td
-(Q6: 4/5   \(same denominator, numerators jode\)) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 632.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 632.00 Td
-(Q7: 5/6   \(LCM 6: 3/6 + 2/6 = 5/6\)) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 617.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 617.00 Td
-(Q8: 2/4 = 1/2) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 602.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 602.00 Td
-(Q9: 6/12 = 1/2) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 587.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 587.00 Td
-(Q10: 2   \(1/2 x 4/1 = 4/2 = 2\)) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 572.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 572.00 Td
-(Q11: 3 1/2   \(7 div 2 = 3 remainder 1\)) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 557.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 557.00 Td
-(Q12: 7/3   \(\(2x3\)+1 = 7\)) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 542.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 542.00 Td
-(Q13: 0.25) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 527.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 527.00 Td
-(Q14: Wo fraction jisme numerator < denominator ho.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 512.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 512.00 Td
-(Q15: Numerator 1 wala fraction - jaise 1/5 ya 1/7.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 497.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 497.00 Td
-(Q16: Haan, sab 1/2 ke barabar hain.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 482.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 482.00 Td
-(Q17: 3/5 bada hai.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 467.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 467.00 Td
-(Q18: 1/2 bada hai.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 452.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 452.00 Td
-(Q19: 2/3   \(6/9 ko HCF 3 se divide\)) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 437.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 437.00 Td
-(Q20: 3   \(3/4 x 4 = 12/4 = 3\)) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 422.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 422.00 Td
-(Q21: Whole number + proper fraction - jaise 2 1/3.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 407.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 407.00 Td
-(Q22: 1/2   \(0.5 = 5/10 = 1/2\)) Tj
+111.96 628.00 Td
+(1/2) Tj
 ET
 endstream
 endobj
-6 0 obj
+8 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
 endobj
-7 0 obj
+9 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
 endobj
-8 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 6 0 R /F2 7 0 R >> >> /Contents 3 0 R >>
-endobj
-9 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 6 0 R /F2 7 0 R >> >> /Contents 4 0 R >>
-endobj
 10 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 6 0 R /F2 7 0 R >> >> /Contents 5 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 8 0 R /F2 9 0 R >> >> /Contents 3 0 R >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 8 0 R /F2 9 0 R >> >> /Contents 4 0 R >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 8 0 R /F2 9 0 R >> >> /Contents 5 0 R >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 8 0 R /F2 9 0 R >> >> /Contents 6 0 R >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 8 0 R /F2 9 0 R >> >> /Contents 7 0 R >>
 endobj
 xref
-0 11
+0 15
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
-0000000134 00000 n 
-0000006660 00000 n 
-0000012664 00000 n 
-0000016688 00000 n 
-0000016785 00000 n 
-0000016887 00000 n 
-0000017029 00000 n 
-0000017171 00000 n 
+0000000150 00000 n 
+0000006581 00000 n 
+0000012585 00000 n 
+0000019276 00000 n 
+0000026177 00000 n 
+0000027891 00000 n 
+0000027988 00000 n 
+0000028090 00000 n 
+0000028233 00000 n 
+0000028376 00000 n 
+0000028519 00000 n 
+0000028662 00000 n 
 trailer
-<< /Size 11 /Root 1 0 R >>
+<< /Size 15 /Root 1 0 R >>
 startxref
-17314
+28805
 %%EOF
