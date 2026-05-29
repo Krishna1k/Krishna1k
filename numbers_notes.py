@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Pure-Python PDF generator (no external libraries).
-Creates a study-notes PDF: "Types of Numbers".
+Creates a study-notes PDF: "Numbers ke Prakar" (Types of Numbers) - Hinglish.
 """
 
 # ----------------------------------------------------------------------
@@ -207,18 +207,19 @@ class PDFBuilder:
 
 
 # ----------------------------------------------------------------------
-# Assemble the actual document content
+# Assemble the actual document content (Hinglish)
 # ----------------------------------------------------------------------
 def build_document():
     d = PDFBuilder()
 
-    d.title("Types of Numbers")
-    d.subtitle("Simplified Definitions with Examples & Notes")
+    d.title("Numbers ke Prakar")
+    d.subtitle("Types of Numbers - Aasan Hinglish Notes, Examples aur Practice Q's")
     d.hline(LEFT, PAGE_W - RIGHT, d.y + 4, NAVY, 1.2)
     d.space(10)
-    d.body("In maths, numbers are grouped into different families. Each family is built "
-           "on top of the previous one. This guide explains each type in simple words "
-           "with examples and quick revision notes.", color=GREY)
+    d.body("Maths me numbers ko alag-alag families me baanta jata hai, aur har family "
+           "pichli wali ke upar bani hoti hai. Is guide me har type ko simple Hinglish "
+           "me examples ke saath samjhaya gaya hai, aur end me 22 practice questions "
+           "(answer key ke saath) diye gaye hain.", color=GREY)
     d.space(6)
 
     def section(title, definition, symbol, examples, notes):
@@ -226,121 +227,187 @@ def build_document():
         d.label_body("Definition:", definition)
         if symbol:
             d.label_body("Symbol:", symbol)
-        d.label_body("Examples:", examples)
-        d.label_body("Notes:", "")
+        d.label_body("Example:", examples)
+        d.label_body("Yaad rakho:", "")
         for n in notes:
             d.bullet(n)
         d.space(6)
 
     section(
         "1. Natural Numbers (N)",
-        "Counting numbers that start from 1 and go on forever: 1, 2, 3, 4, ...",
+        "Ginti (counting) wale numbers jo 1 se shuru hote hain aur aage badhte rehte "
+        "hain: 1, 2, 3, 4, ...",
         "N",
-        "1, 2, 3, 4, 5, ...  (e.g. number of students in a class)",
+        "1, 2, 3, 4, 5, ...  (jaise class me students ki sankhya)",
         [
-            "The smallest natural number is 1.",
-            "Zero (0) is NOT a natural number.",
-            "They are always positive whole numbers.",
+            "Sabse chhota natural number 1 hai.",
+            "Zero (0) ek natural number NAHI hai.",
+            "Ye hamesha positive whole numbers hote hain.",
         ],
     )
 
     section(
         "2. Whole Numbers (W)",
-        "All natural numbers together with 0: 0, 1, 2, 3, 4, ...",
+        "Saare natural numbers + 0 milakar: 0, 1, 2, 3, 4, ...",
         "W",
         "0, 1, 2, 3, 4, ...",
         [
             "Whole numbers = Natural numbers + 0.",
-            "The smallest whole number is 0.",
-            "Every natural number is a whole number (but 0 is whole, not natural).",
+            "Sabse chhota whole number 0 hai.",
+            "Har natural number ek whole number hai (par 0 whole hai, natural nahi).",
         ],
     )
 
     section(
         "3. Integers (Z)",
-        "All whole numbers plus their negatives: ..., -3, -2, -1, 0, 1, 2, 3, ...",
+        "Saare whole numbers + unke negatives: ..., -3, -2, -1, 0, 1, 2, 3, ...",
         "Z",
         "-100, -5, -1, 0, 3, 47",
         [
-            "Includes positive numbers, negative numbers and zero.",
-            "There are no fractions or decimals in integers.",
-            "Zero is an integer that is neither positive nor negative.",
+            "Isme positive, negative aur zero teeno aate hain.",
+            "Integers me koi fraction ya decimal nahi hota.",
+            "Zero ek integer hai jo na positive hai na negative.",
         ],
     )
 
     section(
         "4. Rational Numbers (Q)",
-        "Any number that can be written as a fraction p/q, where p and q are integers "
-        "and q is not equal to 0.",
+        "Wo numbers jinhe p/q fraction ke roop me likha ja sake, jahan p aur q integers "
+        "hon aur q zero ke barabar na ho.",
         "Q",
         "1/2, -3/4, 5 (= 5/1), 0.75, 0.333... (= 1/3)",
         [
-            "Decimals that terminate (end) or repeat are rational.",
-            "Every integer is also a rational number.",
-            "The denominator q can never be 0.",
+            "Jo decimals khatam ho jayein (terminating) ya repeat hon, wo rational hain.",
+            "Har integer bhi ek rational number hai.",
+            "Denominator q kabhi 0 nahi ho sakta.",
         ],
     )
 
     section(
         "5. Irrational Numbers",
-        "Numbers that CANNOT be written as a simple fraction p/q. Their decimal part "
-        "goes on forever without repeating.",
+        "Wo numbers jinhe simple fraction p/q me NAHI likha ja sakta. Inka decimal part "
+        "kabhi khatam nahi hota aur repeat bhi nahi karta.",
         "",
         "pi = 3.14159..., sqrt(2) = 1.41421..., e = 2.71828...",
         [
-            "They are non-terminating and non-repeating decimals.",
-            "Square roots of non-perfect squares are irrational (sqrt2, sqrt3, sqrt5).",
-            "pi and e are the most famous irrational numbers.",
+            "Ye non-terminating aur non-repeating decimals hote hain.",
+            "Non-perfect squares ke square root irrational hote hain (sqrt2, sqrt3, sqrt5).",
+            "pi aur e sabse famous irrational numbers hain.",
         ],
     )
 
     section(
         "6. Real Numbers (R)",
-        "All rational and irrational numbers together. Any number that can be placed "
-        "on the number line is a real number.",
+        "Saare rational aur irrational numbers milakar. Jo bhi number number-line par "
+        "rakha ja sake, wo real number hai.",
         "R",
         "-2, 0, 1/2, 7.5, sqrt(2), pi",
         [
             "Real numbers = Rational numbers + Irrational numbers.",
-            "Almost every number you use day to day is a real number.",
-            "Numbers like sqrt(-1) are NOT real - they are called imaginary numbers.",
+            "Roz-marra ke lagbhag saare numbers real numbers hote hain.",
+            "sqrt(-1) jaise numbers real NAHI hote - unhe imaginary numbers kehte hain.",
         ],
     )
 
     section(
-        "7. Even and Odd Numbers",
-        "Even numbers are exactly divisible by 2; odd numbers are not divisible by 2.",
+        "7. Even aur Odd Numbers",
+        "Even numbers 2 se poori tarah divide ho jate hain; odd numbers 2 se divide "
+        "nahi hote.",
         "",
         "Even: 2, 4, 6, 8, 10  |  Odd: 1, 3, 5, 7, 9",
         [
-            "Even numbers end in 0, 2, 4, 6 or 8.",
-            "Odd numbers end in 1, 3, 5, 7 or 9.",
-            "Zero (0) is an even number.",
+            "Even numbers ke end me 0, 2, 4, 6 ya 8 aata hai.",
+            "Odd numbers ke end me 1, 3, 5, 7 ya 9 aata hai.",
+            "Zero (0) ek even number hai.",
         ],
     )
 
     section(
-        "8. Prime and Composite Numbers",
-        "A prime number has exactly two factors (1 and itself). A composite number "
-        "has more than two factors.",
+        "8. Prime aur Composite Numbers",
+        "Prime number ke exactly do factors hote hain (1 aur khud wo number). Composite "
+        "number ke do se zyada factors hote hain.",
         "",
         "Prime: 2, 3, 5, 7, 11  |  Composite: 4, 6, 8, 9, 10",
         [
-            "2 is the only even prime number.",
-            "1 is neither prime nor composite.",
-            "Smallest prime is 2; smallest composite is 4.",
+            "2 hi ekmatra even prime number hai.",
+            "1 na prime hai na composite.",
+            "Sabse chhota prime 2 hai; sabse chhota composite 4 hai.",
         ],
     )
 
     d.h2("Quick Revision Summary")
-    d.body("The number families fit inside one another like this:", color=GREY)
+    d.body("Number families ek dusre ke andar aise fit hoti hain:", color=GREY)
     d.space(2)
     d.box_note([
         "Natural  <  Whole  <  Integers  <  Rational  <  Real",
         "",
-        "Irrational numbers are also Real, but separate from Rational.",
-        "Real Numbers = Rational + Irrational  (everything on the number line).",
+        "Irrational numbers bhi Real hain, par Rational se alag.",
+        "Real Numbers = Rational + Irrational  (number line ke saare numbers).",
     ])
+    d.space(6)
+
+    # ---- Practice Questions -----------------------------------------
+    d.h2("Practice Questions (Khud Try Karo!)")
+    d.body("In 22 questions ko khud solve karne ki koshish karo. Answers neeche answer "
+           "key me diye gaye hain.", color=GREY)
+    d.space(3)
+
+    questions = [
+        "Sabse chhota natural number kaunsa hai?",
+        "Sabse chhota whole number kaunsa hai?",
+        "Kya 0 ek natural number hai? (Haan/Nahi)",
+        "Kya 0 ek whole number hai? (Haan/Nahi)",
+        "-5 kis type ka number hai (natural / whole / integer)?",
+        "Kya har natural number ek whole number hota hai?",
+        "3/4 kis type ka number hai?",
+        "sqrt(2) rational hai ya irrational?",
+        "pi (3.14159...) rational hai ya irrational?",
+        "7 ko p/q form me likho.",
+        "Kya 0.75 rational hai? (Haan/Nahi)",
+        "Sabse chhota prime number kaunsa hai?",
+        "Kya 1 prime hai ya composite?",
+        "2 ke alawa koi aur even prime number hai? (Haan/Nahi)",
+        "4, 6 aur 8 - ye prime hain ya composite?",
+        "Kya 0 even hai ya odd?",
+        "17 prime hai ya composite?",
+        "Real numbers kis-kis se milkar bante hain?",
+        "Kya sqrt(-1) ek real number hai?",
+        "-3, 0 aur 5 - ye sab kis ek hi category me aate hain?",
+        "9 ke saare factors likho. Kya 9 composite hai?",
+        "0.333... (repeating) rational hai ya irrational?",
+    ]
+    for i, q in enumerate(questions, start=1):
+        d.label_body(f"Q{i}.", q)
+        d.space(2)
+
+    # ---- Answer Key --------------------------------------------------
+    d.h2("Answer Key")
+    answers = [
+        "1   (sabse chhota natural number)",
+        "0   (sabse chhota whole number)",
+        "Nahi   (0 natural number nahi hai)",
+        "Haan   (0 whole number hai)",
+        "Integer   (negative hone ke kaaran natural/whole nahi)",
+        "Haan   (par 0 whole hai, natural nahi)",
+        "Rational number   (p/q form me likha ja sakta hai)",
+        "Irrational   (p/q form me nahi likh sakte)",
+        "Irrational   (non-terminating, non-repeating)",
+        "7/1",
+        "Haan   (0.75 terminating decimal hai)",
+        "2",
+        "Dono nahi - 1 na prime hai na composite",
+        "Nahi - 2 hi ekmatra even prime hai",
+        "Composite   (sabke 2 se zyada factors hain)",
+        "Even   (0 even number hai)",
+        "Prime   (factors sirf 1 aur 17)",
+        "Rational + Irrational numbers",
+        "Nahi   (ye imaginary number hai)",
+        "Integers",
+        "Factors: 1, 3, 9 - Haan, 9 composite hai (2 se zyada factors)",
+        "Rational   (repeating decimal = 1/3)",
+    ]
+    for i, a in enumerate(answers, start=1):
+        d.bullet(f"Q{i}: {a}")
 
     return d
 

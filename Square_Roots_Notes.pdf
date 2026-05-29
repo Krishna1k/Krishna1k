@@ -4,22 +4,22 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [7 0 R 8 0 R] /Count 2 >>
+<< /Type /Pages /Kids [8 0 R 9 0 R 10 0 R] /Count 3 >>
 endobj
 3 0 obj
-<< /Length 5976 >>
+<< /Length 6036 >>
 stream
 BT
 /F2 26.00 Tf
 0.130 0.200 0.450 rg
 60.00 790.00 Td
-(Square Roots) Tj
+(Square Roots \(Vargmool\)) Tj
 ET
 BT
 /F1 13.00 Tf
 0.300 0.300 0.300 rg
 60.00 758.00 Td
-(Simple Notes, Examples, Methods & Q\\&A \(100 - 200\)) Tj
+(Aasan Hinglish Notes, Methods, Examples aur Practice Questions) Tj
 ET
 1.20 w
 0.130 0.200 0.450 RG
@@ -28,19 +28,19 @@ BT
 /F1 11.00 Tf
 0.300 0.300 0.300 rg
 60.00 728.00 Td
-(A square root is the reverse of squaring a number. This guide explains the idea in simple words) Tj
+(Square root, square \(varg\) ka ulta hota hai. Is guide me concept ko simple Hinglish me examples) Tj
 ET
 BT
 /F1 11.00 Tf
 0.300 0.300 0.300 rg
 60.00 712.00 Td
-(with examples, the main methods to find square roots, and ends with a set of solved questions for) Tj
+(ke saath samjhaya gaya hai, square root nikalne ke methods diye gaye hain, aur end me 22) Tj
 ET
 BT
 /F1 11.00 Tf
 0.300 0.300 0.300 rg
 60.00 696.00 Td
-(numbers between 100 and 200.) Tj
+(practice questions \(answer key ke saath\) hain.) Tj
 ET
 0.740 0.200 0.200 rg
 60.00 665.00 4.00 16.00 re
@@ -49,7 +49,7 @@ BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
 72.00 668.00 Td
-(1. What is a Square Root?) Tj
+(1. Square Root kya hota hai?) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
@@ -64,13 +64,13 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 111.96 642.00 Td
-(The square root of a number is the value which, when multiplied by itself, gives that) Tj
+(Kisi number ka square root wo value hai jise khud se multiply karne par wahi number) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 60.00 626.00 Td
-(number. It is the opposite \(inverse\) of squaring.) Tj
+(mil jaye. Ye squaring ka ulta \(inverse\) hai.) Tj
 ET
 BT
 /F2 11.00 Tf
@@ -82,7 +82,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 102.79 610.00 Td
-(The radical sign  sqrt\( \)  is used. Example: sqrt\(25\).) Tj
+(Radical sign  sqrt\( \)  use hota hai. Jaise sqrt\(25\).) Tj
 ET
 BT
 /F2 11.00 Tf
@@ -106,7 +106,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 578.00 Td
-(sqrt\(25\) = 5   because 5 x 5 = 25) Tj
+(sqrt\(25\) = 5   kyunki 5 x 5 = 25) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -118,7 +118,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 563.00 Td
-(sqrt\(81\) = 9   because 9 x 9 = 81) Tj
+(sqrt\(81\) = 9   kyunki 9 x 9 = 81) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -130,7 +130,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 548.00 Td
-(Squaring:  6 x 6 = 36   ->   Square root:  sqrt\(36\) = 6) Tj
+(Square:  6 x 6 = 36   ->   Square root:  sqrt\(36\) = 6) Tj
 ET
 0.740 0.200 0.200 rg
 60.00 518.00 4.00 16.00 re
@@ -154,7 +154,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 111.96 495.00 Td
-(A perfect square is a number whose square root is a whole number.) Tj
+(Perfect square wo number hota hai jiska square root ek pura \(whole\) number ho.) Tj
 ET
 BT
 /F2 11.00 Tf
@@ -172,12 +172,12 @@ BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
 60.00 463.00 Td
-(Notes:) Tj
+(Yaad rakho:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-94.85 463.00 Td
+122.37 463.00 Td
 () Tj
 ET
 BT
@@ -190,7 +190,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 447.00 Td
-(Square roots of perfect squares are exact whole numbers.) Tj
+(Perfect squares ke square root exact whole numbers hote hain.) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -202,13 +202,13 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 432.00 Td
-(Numbers like 2, 3, 5, 7 are NOT perfect squares; their roots are non-ending decimals) Tj
+(2, 3, 5, 7 jaise numbers perfect square nahi hain; inke root non-ending decimals \(irrational\)) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 417.00 Td
-(\(irrational\), e.g. sqrt\(2\) = 1.414...) Tj
+(hote hain, jaise sqrt\(2\) = 1.414...) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -220,7 +220,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 402.00 Td
-(A perfect square never ends in 2, 3, 7 or 8.) Tj
+(Perfect square kabhi 2, 3, 7 ya 8 par khatam nahi hota.) Tj
 ET
 0.740 0.200 0.200 rg
 60.00 372.00 4.00 16.00 re
@@ -229,7 +229,7 @@ BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
 72.00 375.00 Td
-(3. Methods to Find a Square Root) Tj
+(3. Square Root Nikalne ke Methods) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
@@ -244,13 +244,13 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 177.36 349.00 Td
-(Break the number into prime factors, make pairs, and take one factor) Tj
+(Number ko prime factors me todo, pairs banao, aur har pair me se ek) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 60.00 333.00 Td
-(from each pair.) Tj
+(factor lo.) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -262,7 +262,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 317.00 Td
-(Example: 144 = 2x2 x 2x2 x 3x3  ->  take 2 x 2 x 3 = 12, so sqrt\(144\) = 12) Tj
+(Example: 144 = 2x2 x 2x2 x 3x3  ->  2 x 2 x 3 = 12, to sqrt\(144\) = 12) Tj
 ET
 BT
 /F2 11.00 Tf
@@ -274,13 +274,13 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 148.64 302.00 Td
-(Used for large numbers and non-perfect squares to get the answer step by) Tj
+(Bade numbers aur non-perfect squares ke liye step-by-step answer \(decimals) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 60.00 286.00 Td
-(step \(even in decimals\).) Tj
+(me bhi\) nikalne ke liye.) Tj
 ET
 BT
 /F2 11.00 Tf
@@ -292,7 +292,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 133.35 270.00 Td
-(Find the two nearest perfect squares to guess the approximate value.) Tj
+(Do nazdeeki perfect squares dekh kar approximate value guess karo.) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -304,7 +304,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 254.00 Td
-(Example: sqrt\(150\) lies between sqrt\(144\)=12 and sqrt\(169\)=13, so it is about 12.2) Tj
+(Example: sqrt\(150\), sqrt\(144\)=12 aur sqrt\(169\)=13 ke beech hai, to lagbhag 12.2) Tj
 ET
 0.740 0.200 0.200 rg
 60.00 224.00 4.00 16.00 re
@@ -313,7 +313,7 @@ BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
 72.00 227.00 Td
-(4. Useful Properties) Tj
+(4. Kaam ki Properties) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
@@ -352,7 +352,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 171.00 Td
-(sqrt\(0\) = 0  and  sqrt\(1\) = 1) Tj
+(sqrt\(0\) = 0  aur  sqrt\(1\) = 1) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -364,7 +364,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 156.00 Td
-(A negative number has no real square root.) Tj
+(Negative number ka koi real square root nahi hota.) Tj
 ET
 0.740 0.200 0.200 rg
 60.00 126.00 4.00 16.00 re
@@ -373,7 +373,7 @@ BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
 72.00 129.00 Td
-(5. Perfect Squares Between 100 and 200) Tj
+(5. 100 se 200 ke Beech Perfect Squares) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
@@ -382,12 +382,12 @@ BT
 /F1 11.00 Tf
 0.300 0.300 0.300 rg
 60.00 103.00 Td
-(There are only five perfect squares in this range:) Tj
+(Is range me sirf paanch perfect squares hain:) Tj
 ET
 endstream
 endobj
 4 0 obj
-<< /Length 4459 >>
+<< /Length 5814 >>
 stream
 0.930 0.950 1.000 rg
 60.00 700.00 475.28 96.00 re
@@ -432,22 +432,519 @@ BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
 72.00 682.00 Td
-(6. Questions & Answers \(100 - 200\)) Tj
+(6. Practice Questions \(Khud Try Karo!\)) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
 60.00 666.00 m 535.28 666.00 l S
 BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 656.00 Td
+(In 22 questions ko khud solve karne ki koshish karo. Answers neeche answer key me diye gaye) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 640.00 Td
+(hain.) Tj
+ET
+BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 656.00 Td
+60.00 621.00 Td
 (Q1.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-80.79 656.00 Td
-(What is sqrt\(100\)?) Tj
+80.79 621.00 Td
+(sqrt\(49\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 603.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 603.00 Td
+(sqrt\(64\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 585.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 585.00 Td
+(sqrt\(81\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 567.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 567.00 Td
+(sqrt\(100\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 549.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 549.00 Td
+(sqrt\(121\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 531.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 531.00 Td
+(sqrt\(144\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 513.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 513.00 Td
+(sqrt\(169\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 495.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 495.00 Td
+(sqrt\(196\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 477.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 477.00 Td
+(sqrt\(225\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 459.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 459.00 Td
+(sqrt\(256\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 441.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 441.00 Td
+(Kya 150 ek perfect square hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 423.00 Td
+(Q12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 423.00 Td
+(sqrt\(180\) kin do whole numbers ke beech aata hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 405.00 Td
+(Q13.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 405.00 Td
+(sqrt\(36\) + sqrt\(64\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 387.00 Td
+(Q14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 387.00 Td
+(Ek square park ka area 196 sq m hai. Uski side kitni hogi?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 369.00 Td
+(Q15.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 369.00 Td
+(100 se 200 ke beech kaunse perfect squares hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 351.00 Td
+(Q16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 351.00 Td
+(sqrt\(2\) rational hai ya irrational?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 333.00 Td
+(Q17.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 333.00 Td
+(sqrt\(400\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 315.00 Td
+(Q18.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 315.00 Td
+(sqrt\(1\) = ? aur sqrt\(0\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 297.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 297.00 Td
+(Kya negative number ka real square root hota hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 279.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 279.00 Td
+(sqrt\(9 x 16\) = ?   \(property use karo\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 261.00 Td
+(Q21.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 261.00 Td
+(sqrt\(625\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 243.00 Td
+(Q22.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 243.00 Td
+(12 x 12 = 144, to sqrt\(144\) = ?) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 216.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 219.00 Td
+(7. Answer Key) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 203.00 m 535.28 203.00 l S
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 193.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 193.00 Td
+(Q1: 7   \(7 x 7 = 49\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 178.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 178.00 Td
+(Q2: 8   \(8 x 8 = 64\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 163.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 163.00 Td
+(Q3: 9   \(9 x 9 = 81\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 148.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 148.00 Td
+(Q4: 10  \(10 x 10 = 100\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 133.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 133.00 Td
+(Q5: 11  \(11 x 11 = 121\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 118.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 118.00 Td
+(Q6: 12  \(12 x 12 = 144\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 103.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 103.00 Td
+(Q7: 13  \(13 x 13 = 169\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 88.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 88.00 Td
+(Q8: 14  \(14 x 14 = 196\)) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 2210 >>
+stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Q9: 15  \(15 x 15 = 225\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 775.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 775.00 Td
+(Q10: 16  \(16 x 16 = 256\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 760.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 760.00 Td
+(Q11: Nahi   \(sqrt\(150\) ~ 12.25, whole number nahi\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 745.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 745.00 Td
+(Q12: 13 aur 14 ke beech   \(13^2 = 169, 14^2 = 196\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 730.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 730.00 Td
+(Q13: 14   \(6 + 8 = 14\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 715.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 715.00 Td
+(Q14: 14 metre   \(sqrt\(196\) = 14\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 700.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 700.00 Td
+(Q15: 100, 121, 144, 169 aur 196) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 685.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 685.00 Td
+(Q16: Irrational) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 670.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 670.00 Td
+(Q17: 20  \(20 x 20 = 400\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 655.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 655.00 Td
+(Q18: sqrt\(1\) = 1 aur sqrt\(0\) = 0) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -459,269 +956,76 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 640.00 Td
-(Ans: 10   \(because 10 x 10 = 100\)) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 622.00 Td
-(Q2.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 622.00 Td
-(What is sqrt\(121\)?) Tj
+(Q19: Nahi   \(negative ka real square root nahi hota\)) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 606.00 Td
+64.00 625.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 606.00 Td
-(Ans: 11   \(because 11 x 11 = 121\)) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 588.00 Td
-(Q3.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 588.00 Td
-(What is sqrt\(144\)?) Tj
+76.00 625.00 Td
+(Q20: 12   \(sqrt\(9\) x sqrt\(16\) = 3 x 4 = 12\)) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 572.00 Td
+64.00 610.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 572.00 Td
-(Ans: 12   \(because 12 x 12 = 144\)) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 554.00 Td
-(Q4.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 554.00 Td
-(What is sqrt\(169\)?) Tj
+76.00 610.00 Td
+(Q21: 25  \(25 x 25 = 625\)) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 538.00 Td
+64.00 595.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 538.00 Td
-(Ans: 13   \(because 13 x 13 = 169\)) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 520.00 Td
-(Q5.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 520.00 Td
-(What is sqrt\(196\)?) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 504.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 504.00 Td
-(Ans: 14   \(because 14 x 14 = 196\)) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 486.00 Td
-(Q6.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 486.00 Td
-(Which numbers between 100 and 200 are perfect squares?) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 470.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 470.00 Td
-(Ans: 100, 121, 144, 169 and 196.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 452.00 Td
-(Q7.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 452.00 Td
-(Is 150 a perfect square?) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 436.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 436.00 Td
-(Ans: No. sqrt\(150\) is about 12.25, which is not a whole number.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 418.00 Td
-(Q8.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 418.00 Td
-(Between which two whole numbers does sqrt\(180\) lie?) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 402.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 402.00 Td
-(Ans: Between 13 and 14 \(since 13x13 = 169 and 14x14 = 196\).) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 384.00 Td
-(Q9.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 384.00 Td
-(Find the value of sqrt\(169\) + sqrt\(144\).) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 368.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 368.00 Td
-(Ans: 13 + 12 = 25.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 350.00 Td
-(Q10.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 350.00 Td
-(A square park has an area of 196 square metres. Find the length of one side.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 334.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 334.00 Td
-(Ans: Side = sqrt\(196\) = 14 metres.) Tj
-ET
-0.930 0.950 1.000 rg
-60.00 272.00 475.28 48.00 re
-f
-0.130 0.200 0.450 rg
-60.00 272.00 4.00 48.00 re
-f
-BT
-/F1 11.00 Tf
-0.130 0.200 0.450 rg
-74.00 302.00 Td
-(Quick tip: To check if a number is a perfect square, find its square root.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.130 0.200 0.450 rg
-74.00 286.00 Td
-(If the root is a whole number, it is a perfect square; otherwise it is not.) Tj
+76.00 595.00 Td
+(Q22: 12) Tj
 ET
 endstream
 endobj
-5 0 obj
+6 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
 endobj
-6 0 obj
+7 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
 endobj
-7 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 3 0 R >>
-endobj
 8 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 6 0 R /F2 7 0 R >> >> /Contents 3 0 R >>
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 6 0 R /F2 7 0 R >> >> /Contents 4 0 R >>
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 6 0 R /F2 7 0 R >> >> /Contents 5 0 R >>
 endobj
 xref
-0 9
+0 11
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
-0000000127 00000 n 
-0000006155 00000 n 
-0000010666 00000 n 
-0000010763 00000 n 
-0000010865 00000 n 
-0000011007 00000 n 
+0000000134 00000 n 
+0000006222 00000 n 
+0000012088 00000 n 
+0000014350 00000 n 
+0000014447 00000 n 
+0000014549 00000 n 
+0000014691 00000 n 
+0000014833 00000 n 
 trailer
-<< /Size 9 /Root 1 0 R >>
+<< /Size 11 /Root 1 0 R >>
 startxref
-11149
+14976
 %%EOF
