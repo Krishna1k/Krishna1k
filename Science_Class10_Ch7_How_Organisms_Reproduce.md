@@ -1,0 +1,97 @@
+# Class 10 Science — Chapter 7
+
+## How do Organisms Reproduce? (Hinglish Notes)
+
+> **Colour Legend:** 🔴 = **Core Basics (prerequisite — Miss Mat Karna)** &nbsp;|&nbsp; 🟢 = **Board exam me baar-baar aata hai**
+
+📥 **PDF download:** [`Science_Class10_Ch7_How_Organisms_Reproduce.pdf`](./Science_Class10_Ch7_How_Organisms_Reproduce.pdf)
+
+---
+
+# 🔴 PART A — CORE BASICS (MISS MAT KARNA)
+
+### 🔴 1. Reproduction kya hai
+- 🔴 Apne jaise naye jeev paida karna (species continuity). Individual ke liye zaroori **nahi**, **species** ke survival ke liye zaroori.
+
+### 🔴 2. Cell + DNA
+- 🔴 Naye cell division se. **DNA** = jeev ki blueprint (nucleus me). **Chromosome** = DNA+protein.
+
+### 🔴 3. Plant ke bhaag
+- 🔴 **Flower** = reproductive bhaag. 4 bhaag: Sepal, Petal, Stamen (male), Carpel (female). Seed→paudha, fruit dhakta.
+
+### 🔴 4. Male/Female idea
+- 🔴 **Gamete** (male=sperm/pollen, female=egg). **Fertilisation** = gamete milan → **zygote**.
+
+### 🔴 5. Variation
+- 🔴 Ek species me thoda antar. Sexual me jyada (2 parent DNA), asexual me kam (copy).
+
+---
+
+# PART B — CHAPTER KA MAIN CONTENT
+
+### 1. 🟢 Reproduction aur DNA copying
+- 🟢 DNA copy banti; chhoti errors = **variation** (evolution + survival me useful).
+
+### 2. 🟢 Asexual Reproduction (1 parent) — TOP EXAM AREA
+- 🟢 1 parent, no gamete, offspring = **clone**, variation kam.
+- 🟢 **Fission:** Binary (Amoeba), Multiple (Plasmodium).
+- 🟢 **Budding:** Hydra, Yeast. **Fragmentation:** Spirogyra. **Regeneration:** Planaria.
+- 🟢 **Vegetative propagation:** aloo (tana), Bryophyllum (patti); artificial — cutting/layering/grafting/tissue culture. Faayda: tez, same quality, bina-seed waale (kela, gulab).
+- 🟢 **Spore formation:** Rhizopus (sporangia me spore).
+
+### 3. 🟢 Sexual Reproduction in Plants — VERY IMPORTANT
+- 🟢 **Stamen (male)** = Anther (pollen) + Filament. **Carpel (female)** = Stigma + Style + **Ovary (ovule)**.
+- 🟢 Bisexual (hibiscus) vs Unisexual (papaya).
+- 🟢 **Pollination** = pollen anther→stigma (self/cross). **Fertilisation:** pollen tube → ovule → zygote.
+- 🟢 **Ovule→Seed, Ovary→Fruit, Zygote→embryo.** **Germination** = seed se paudha.
+
+### 4. 🟢 Sexual Reproduction in Humans — VERY IMPORTANT
+- 🟢 **Puberty:** reproductive organs kaam shuru; secondary sexual characters (ladke daadhi/awaaz, ladki breast/menstruation).
+- 🟢 **Male:** **Testes** (sperm + testosterone) scrotum me (thanda temp); vas deferens → semen → urethra.
+- 🟢 **Female:** **Ovary** (egg + oestrogen); **Fallopian tube** (fertilisation yahin); **Uterus** (embryo develop).
+- 🟢 Zygote → uterus me **implantation** → **placenta** se oxygen+bhojan.
+
+### 5. 🟢 Menstruation
+- 🟢 Egg fertilise nahi → uterus lining toot kar bahar (~28 din cycle). Matlab = **pregnancy nahi hui**.
+
+### 6. 🟢 Reproductive Health
+- 🟢 **Contraception:** barrier (condom — STD se bhi bachav), hormonal (pills), IUCD (Copper-T), surgical (vasectomy/tubectomy).
+- 🟢 **STD:** Gonorrhoea/Syphilis (bacteria), HIV-AIDS/warts (virus). **Female foeticide** galat (sex ratio bigadta).
+
+---
+
+# PART C — SOLVED EXAMPLES (HARDEST → EASIEST)
+
+### ⭐ Example 1 (HARDEST) — Sexual repro in plant
+Pollination → pollen stigma par → **pollen tube** style se ovary tak → male+female gamete → **zygote** → embryo. Ovule→seed, Ovary→fruit. Seed germinate → paudha.
+
+### Example 2 — Asexual types match
+Amoeba (binary fission), Plasmodium (multiple fission), Hydra (budding), Spirogyra (fragmentation), Rhizopus (spore).
+
+### Example 3 — Variation in sexual repro
+2 parents DNA mix + copy errors → har offspring alag → badalte environment me kuch survive → evolution/survival.
+
+### Example 4 — Testes bahar kyun
+Sperm ke liye body se **kam (thanda) temperature** chahiye → testes scrotum me bahar.
+
+### Example 5 (EASIEST) — Phool male/female
+Male = Stamen (anther+filament). Female = Carpel (stigma+style+ovary).
+
+---
+
+# PART D — SELF TEST (EASY → HARD)
+
+**EASY:** (1) Reproduction kyun zaroori (individual/species)? (2) Binary vs multiple fission. (3) Phool male/female bhaag. (4) Menstruation kya batata?
+
+**MEDIUM:** (5) Asexual 4 types + example. (6) Vegetative propagation + 2 faayde. (7) Pollination 2 types. (8) Contraception 3 tareeke.
+
+**HARD:** (9) Pollination se fruit banne tak. (10) Female reproductive system + fertilisation kahan + placenta. (11) Variation sexual me jyada kyun + faayda. (12) STD + female foeticide.
+
+## ✅ Answer Hints
+1. Species survival ke liye. 2. Binary 1→2 (Amoeba), multiple 1→bahut (Plasmodium). 3. Stamen/carpel. 4. Pregnancy nahi hui.
+5. Fission/budding/fragmentation/spore. 6. Tana/patti se; tez+same quality. 7. Self vs cross. 8. Condom/pills/vasectomy.
+9. Pollen tube→fertilisation→zygote; ovule=seed, ovary=fruit. 10. Ovary→fallopian (fertilisation)→uterus; placenta nutrition. 11. 2 parent DNA mix; survival/evolution. 12. STD condom se bachav; foeticide galat.
+
+---
+> _"Padhai tabhi pakki jab khud likh ke test do." — All the best, Krishna!_
+> Generated by Kiro for Krishna1k
