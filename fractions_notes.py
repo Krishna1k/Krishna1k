@@ -103,6 +103,77 @@ def build_document():
     ])
     d.space(6)
 
+    # ---- Solved Examples (teaching) ---------------------------------
+    d.h2("Solved Examples - Samjho Kaise Solve Karte Hain")
+    d.body("Neeche 10 examples step-by-step solve karke dikhaye gaye hain, taaki har "
+           "type ka method clear ho jaye (jod, ghata, guna, bhaag, negative, mixed).",
+           color=GREY)
+    d.space(3)
+
+    # Each item: (problem, [step lines...], final answer)
+    examples = [
+        ("Example 1:  2/3 + 1/4  (unlike addition)",
+         ["Denominator alag hain -> LCM(3, 4) = 12.",
+          "Dono ko 12 wale denominator me badlo:",
+          "2/3 = 8/12 (upar-neeche x4),  1/4 = 3/12 (x3).",
+          "Numerators jodo: 8/12 + 3/12 = 11/12."],
+         "11/12"),
+        ("Example 2:  5/6 - 1/4  (unlike subtraction)",
+         ["LCM(6, 4) = 12.",
+          "5/6 = 10/12 (x2),  1/4 = 3/12 (x3).",
+          "Ghatao: 10/12 - 3/12 = 7/12."],
+         "7/12"),
+        ("Example 3:  2/3 x 4/5  (multiplication)",
+         ["Upar x upar: 2 x 4 = 8.",
+          "Neeche x neeche: 3 x 5 = 15.",
+          "= 8/15. HCF(8,15)=1, isliye already simplest."],
+         "8/15"),
+        ("Example 4:  2/4 x 6/5 x -2/7  (negative, 3 fractions)",
+         ["Sign dekho: ek hi negative hai -> answer NEGATIVE hoga.",
+          "Numerators multiply: 2 x 6 x 2 = 24.",
+          "Denominators multiply: 4 x 5 x 7 = 140.",
+          "= -24/140.",
+          "Simplify: HCF(24,140) = 4 -> -24/4 / 140/4."],
+         "-6/35"),
+        ("Example 5:  3/4 div 2/5  (division)",
+         ["Division me doosre ka reciprocal lo: 2/5 -> 5/2.",
+          "Ab multiply: 3/4 x 5/2 = 15/8.",
+          "15/8 improper hai -> mixed = 1 7/8."],
+         "15/8  (ya 1 7/8)"),
+        ("Example 6:  1 1/2 + 2 1/3  (mixed addition)",
+         ["Pehle improper banao: 1 1/2 = 3/2,  2 1/3 = 7/3.",
+          "LCM(2,3) = 6 -> 3/2 = 9/6,  7/3 = 14/6.",
+          "Jodo: 9/6 + 14/6 = 23/6.",
+          "Mixed me: 23/6 = 3 5/6."],
+         "23/6  (ya 3 5/6)"),
+        ("Example 7:  18/24 ko simplest form me likho",
+         ["HCF(18, 24) = 6 nikalo.",
+          "Upar-neeche ko 6 se divide: 18/6 = 3,  24/6 = 4."],
+         "3/4"),
+        ("Example 8:  3/4 aur 5/6 me bada kaunsa?  (compare)",
+         ["LCM(4, 6) = 12.",
+          "3/4 = 9/12,  5/6 = 10/12.",
+          "10/12 > 9/12."],
+         "5/6 bada hai"),
+        ("Example 9:  -3/5 x 10  (negative x whole number)",
+         ["10 ko fraction maano: 10/1.",
+          "-3/5 x 10/1 = -30/5.",
+          "-30/5 = -6."],
+         "-6"),
+        ("Example 10:  20 ka 3/4  (kisi quantity ka fraction)",
+         ["'ka' / 'of' ka matlab multiply hota hai.",
+          "3/4 x 20 = 3/4 x 20/1 = 60/4.",
+          "60/4 = 15."],
+         "15"),
+    ]
+
+    for q, steps, ans in examples:
+        d.label_body(q, "")
+        for s in steps:
+            d.bullet(f"Step: {s}")
+        d.label_body("   Answer:", ans)
+        d.space(5)
+
     # ---- Practice Questions -----------------------------------------
     d.h2("Practice Questions")
     d.body("Pehle khud solve karne ki koshish karo. Neeche har question ka step-by-step "
