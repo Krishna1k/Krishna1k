@@ -1,0 +1,2594 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Length 6319 >>
+stream
+BT
+/F2 26.00 Tf
+0.130 0.200 0.450 rg
+60.00 790.00 Td
+(Linear Equations in Two Variables) Tj
+ET
+BT
+/F1 13.00 Tf
+0.300 0.300 0.300 rg
+60.00 758.00 Td
+(Chapter 3 - Hinglish Notes, Methods, Examples + Solutions) Tj
+ET
+1.20 w
+0.130 0.200 0.450 RG
+60.00 742.00 m 535.28 742.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 728.00 Td
+(Ye Chapter 3 \(Pair of Linear Equations in Two Variables\) ka complete guide hai. Pehle red-page) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 712.00 Td
+(ke core basics \(jo Class 7-8-9 me padhe\), fir chapter ka main content - graphical, substitution aur) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 696.00 Td
+(elimination methods + a1/a2 conditions. End me solved examples aur 20 practice questions ke) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 680.00 Td
+(step-by-step solutions hain.) Tj
+ET
+0.000 0.500 0.180 rg
+76.00 658.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 660.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 660.00 Td
+(* aise green tag wale topics exams me baar-baar aate hain) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 630.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 633.00 Td
+(PART A - Core Basics \(Miss Mat Karna\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 617.00 m 535.28 617.00 l S
+0.740 0.200 0.200 rg
+60.00 596.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 599.00 Td
+(1. Variable aur Equation) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 583.00 m 535.28 583.00 l S
+0.000 0.500 0.180 rg
+76.00 571.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 573.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 573.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 558.00 Td
+(Variable:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+106.46 558.00 Td
+(Unknown number, jaise x ya y.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 542.00 Td
+(Equation:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+109.53 542.00 Td
+(Aisa statement jisme '=' \(barabar\) ka chinh ho.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 526.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 526.00 Td
+(Example: 2x + 3 = 7 ek equation hai.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 496.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 499.00 Td
+(2. Linear Equation in ONE Variable) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 483.00 m 535.28 483.00 l S
+0.000 0.500 0.180 rg
+76.00 471.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 473.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 473.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 458.00 Td
+(Form:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+91.78 458.00 Td
+(ax + b = 0  \(sirf ek variable, power 1\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 442.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 442.00 Td
+(Example: 3x - 6 = 0  ->  x = 2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 427.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 427.00 Td
+(Ise sirf EK hi solution milta hai.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 397.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 400.00 Td
+(3. Linear Equation in TWO Variables) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 384.00 m 535.28 384.00 l S
+0.000 0.500 0.180 rg
+76.00 372.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 374.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 374.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 359.00 Td
+(Form:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+91.78 359.00 Td
+(ax + by + c = 0  \(do variables, dono ki power 1\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 343.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 343.00 Td
+(Example: 2x + 3y = 12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 328.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 328.00 Td
+(Iske INFINITE \(anant\) solutions hote hain - har x ke liye ek y.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 298.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 301.00 Td
+(4. Solution Kya Hai?) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 285.00 m 535.28 285.00 l S
+0.000 0.500 0.180 rg
+76.00 273.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 275.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 275.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 260.00 Td
+(Definition:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 260.00 Td
+(Wo \(x, y\) jodi jo equation ko sahi \(satisfy\) kare.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 244.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 244.00 Td
+(Example: x + y = 5 ke liye \(2, 3\) solution hai, kyunki 2 + 3 = 5.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 214.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 217.00 Td
+(5. Graph Basics) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 201.00 m 535.28 201.00 l S
+0.000 0.500 0.180 rg
+76.00 189.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 191.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 191.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 176.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 176.00 Td
+(X-axis = horizontal \(leti\), Y-axis = vertical \(khadi\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 161.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 161.00 Td
+(Dono ORIGIN \(0, 0\) par milte hain. Point ko \(x, y\) likhte hain.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 146.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 146.00 Td
+(Linear equation ka graph hamesha ek SEEDHI LINE hoti hai.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 116.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 119.00 Td
+(6. Ratio \(a1/a2 type\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 103.00 m 535.28 103.00 l S
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 93.00 Td
+(Ratio:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+91.79 93.00 Td
+(Do numbers ki tulna, jaise 2/4 = 1/2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 77.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 77.00 Td
+(Is chapter me coefficients ke ratio compare karenge: a1/a2, b1/b2, c1/c2.) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 6707 >>
+stream
+0.740 0.200 0.200 rg
+60.00 775.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 778.00 Td
+(7. Simple Equation Solve Karna) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 762.00 m 535.28 762.00 l S
+0.000 0.500 0.180 rg
+76.00 750.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 752.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 752.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 737.00 Td
+(Transposition:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+132.14 737.00 Td
+(Ek side ki cheez doosri side le jao to uska sign badal jata hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 721.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 721.00 Td
+(Example: 2x = 18  ->  x = 18/2 = 9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 706.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 706.00 Td
+(Jo jod raha tha wo ghatne lagta hai; jo guna kar raha tha wo bhaag.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 676.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 679.00 Td
+(PART B - Chapter 3 ka Main Content) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 663.00 m 535.28 663.00 l S
+0.740 0.200 0.200 rg
+60.00 642.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 645.00 Td
+(8. Pair of Linear Equations) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 629.00 m 535.28 629.00 l S
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 619.00 Td
+(Matlab:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+99.13 619.00 Td
+(Do linear equations jo ek saath \(simultaneously\) di gayi hon, jaise:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 603.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 603.00 Td
+(a1 x + b1 y + c1 = 0) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 588.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 588.00 Td
+(a2 x + b2 y + c2 = 0) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 573.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 573.00 Td
+(Inhe ek saath solve karke wo \(x, y\) dhoondte hain jo DONO ko satisfy kare.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 543.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 546.00 Td
+(9. Graphical Method \(3 Cases\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 530.00 m 535.28 530.00 l S
+0.000 0.500 0.180 rg
+76.00 518.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 520.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 520.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 505.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 505.00 Td
+(Dono equations ki seedhi lines banao aur dekho wo kaise milti hain:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 490.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 490.00 Td
+(Case 1: Lines ek point par CUT karein -> 1 unique solution.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 475.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 475.00 Td
+(Case 2: Lines PARALLEL hon -> koi solution nahi \(no solution\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 460.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 460.00 Td
+(Case 3: Lines bilkul UPAR-UPAR \(coincident\) -> infinite solutions.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 430.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 433.00 Td
+(10. Conditions for Solutions \(a1/a2 Rule\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 417.00 m 535.28 417.00 l S
+0.000 0.500 0.180 rg
+76.00 405.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 407.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 407.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 392.00 Td
+(Ye sabse important exam point hai. Coefficients ke ratio se solution ka type pata chalta hai:) Tj
+ET
+0.930 0.950 1.000 rg
+60.00 316.00 475.28 64.00 re
+f
+0.130 0.200 0.450 rg
+60.00 316.00 4.00 64.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 362.00 Td
+(a1/a2 != b1/b2          -> Unique solution \(lines intersect\)  [Consistent]) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 346.00 Td
+(a1/a2 = b1/b2 != c1/c2  -> No solution \(parallel lines\)       [Inconsistent]) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 330.00 Td
+(a1/a2 = b1/b2 = c1/c2   -> Infinite solutions \(coincident\)    [Consistent]) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 310.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 310.00 Td
+(Consistent = solution hai; Inconsistent = koi solution nahi.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 280.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 283.00 Td
+(11. Substitution Method) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 267.00 m 535.28 267.00 l S
+0.000 0.500 0.180 rg
+76.00 255.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 257.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 257.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 242.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 242.00 Td
+(Step 1: Ek equation se ek variable ko doosre ke roop me likho \(jaise x = ...\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 227.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 227.00 Td
+(Step 2: Use doosri equation me substitute \(daal\) karo -> ek variable bachega.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 212.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 212.00 Td
+(Step 3: Use solve karo, fir value wapas daal kar doosra variable nikalo.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 182.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 185.00 Td
+(12. Elimination Method) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 169.00 m 535.28 169.00 l S
+0.000 0.500 0.180 rg
+76.00 157.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 159.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 159.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 144.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 144.00 Td
+(Step 1: Coefficients barabar karne ke liye equations ko number se multiply karo.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 129.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 129.00 Td
+(Step 2: Dono equations ko jodo ya ghatao taaki ek variable HAT \(eliminate\) jaye.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 114.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 114.00 Td
+(Step 3: Bache hue variable ko solve karo, fir doosra nikalo.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 84.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 87.00 Td
+(13. Word Problems) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 71.00 m 535.28 71.00 l S
+endstream
+endobj
+5 0 obj
+<< /Length 6618 >>
+stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Sentences ko x aur y me likho \(do unknowns -> do equations banao\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 775.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 775.00 Td
+(Fir substitution ya elimination se solve karo.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 760.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 760.00 Td
+(Common types: numbers ka sum/difference, age problems, cost of items.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 730.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 733.00 Td
+(Quick Revision) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 717.00 m 535.28 717.00 l S
+0.930 0.950 1.000 rg
+60.00 617.00 475.28 96.00 re
+f
+0.130 0.200 0.450 rg
+60.00 617.00 4.00 96.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 695.00 Td
+(One variable -> 1 solution;  Two variables -> infinite \(akeli eq\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 679.00 Td
+(Solution = \(x, y\) jo equation satisfy kare.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 663.00 Td
+(a1/a2 != b1/b2 -> unique;  =b1/b2 !=c1/c2 -> none;  all equal -> infinite.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 647.00 Td
+(Methods: Graphical, Substitution, Elimination.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 631.00 Td
+(Linear graph hamesha seedhi line.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 596.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 599.00 Td
+(Solved Examples - Samjho Kaise Solve Karte Hain) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 583.00 m 535.28 583.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 573.00 Td
+(Neeche 10 examples step-by-step solve karke dikhaye gaye hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 554.00 Td
+(Example 1 \(Substitution\):  x + y = 5,  x - y = 1) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+282.86 554.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 538.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 538.00 Td
+(Step: Eq1 se: x = 5 - y.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 523.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 523.00 Td
+(Step: Eq2 me daalo: \(5 - y\) - y = 1 -> 5 - 2y = 1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 508.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 508.00 Td
+(Step: 2y = 4 -> y = 2.  Fir x = 5 - 2 = 3.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 493.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 493.00 Td
+(x = 3, y = 2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 472.00 Td
+(Example 2 \(Elimination\):  2x + 3y = 12,  2x - y = 4) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+303.64 472.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 456.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 456.00 Td
+(Step: Dono me 2x same hai, to ghatao \(Eq1 - Eq2\):) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 441.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 441.00 Td
+(Step: \(2x + 3y\) - \(2x - y\) = 12 - 4 -> 4y = 8 -> y = 2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 426.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 426.00 Td
+(Step: 2x - 2 = 4 -> 2x = 6 -> x = 3.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 411.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 411.00 Td
+(x = 3, y = 2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 390.00 Td
+(Example 3 \(Condition\):  2x + 3y - 5 = 0,  4x + 6y - 10 = 0) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+336.98 390.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 374.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 374.00 Td
+(Step: a1/a2 = 2/4 = 1/2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 359.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 359.00 Td
+(Step: b1/b2 = 3/6 = 1/2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 344.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 344.00 Td
+(Step: c1/c2 = -5/-10 = 1/2.  Teeno barabar.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 329.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 329.00 Td
+(Infinite solutions \(coincident lines\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 308.00 Td
+(Example 4 \(Condition\):  x + 2y - 4 = 0,  2x + 4y - 12 = 0) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+330.86 308.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 292.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 292.00 Td
+(Step: a1/a2 = 1/2,  b1/b2 = 2/4 = 1/2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 277.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 277.00 Td
+(Step: c1/c2 = -4/-12 = 1/3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 262.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 262.00 Td
+(Step: a1/a2 = b1/b2 but != c1/c2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 247.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 247.00 Td
+(No solution \(parallel lines\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 226.00 Td
+(Example 5 \(Condition\):  x + y - 5 = 0,  x - y - 1 = 0) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+303.64 226.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 210.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 210.00 Td
+(Step: a1/a2 = 1/1 = 1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 195.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 195.00 Td
+(Step: b1/b2 = 1/\(-1\) = -1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 180.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 180.00 Td
+(Step: 1 != -1, to a1/a2 != b1/b2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 165.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 165.00 Td
+(Unique solution \(intersecting\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 144.00 Td
+(Example 6 \(One variable\):  3x - 6 = 0) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+243.11 144.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 128.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 128.00 Td
+(Step: 3x = 6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 113.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 113.00 Td
+(Step: x = 6/3.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 98.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 98.00 Td
+(x = 2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 77.00 Td
+(Example 7 \(Transposition\):  2x = 18) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+236.99 77.00 Td
+() Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 6544 >>
+stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Step: x = 18 / 2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 775.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 775.00 Td
+(x = 9) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 754.00 Td
+(Example 8 \(Check solution\):  Kya \(2, 3\) x + y = 5 ka solution hai?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+379.14 754.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 738.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 738.00 Td
+(Step: x=2, y=3 daalo: 2 + 3 = 5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 723.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 723.00 Td
+(Step: Equation satisfy ho gayi.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 708.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 708.00 Td
+(Haan, solution hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 687.00 Td
+(Example 9 \(Word problem\):  Do numbers ka sum 10, difference 4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+384.00 687.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 671.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 671.00 Td
+(Step: Maano numbers x aur y: x + y = 10,  x - y = 4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 656.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 656.00 Td
+(Step: Jodo: 2x = 14 -> x = 7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 641.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 641.00 Td
+(Step: y = 10 - 7 = 3.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 626.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 626.00 Td
+(Numbers = 7 aur 3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 605.00 Td
+(Example 10 \(Substitution\):  y = 2x,  x + y = 9) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+279.20 605.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 589.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 589.00 Td
+(Step: y = 2x ko doosri me daalo: x + 2x = 9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 574.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 574.00 Td
+(Step: 3x = 9 -> x = 3.  Fir y = 2\(3\) = 6.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 559.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 559.00 Td
+(x = 3, y = 6) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 529.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 532.00 Td
+(Practice Questions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 516.00 m 535.28 516.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 506.00 Td
+(Pehle khud solve karne ki koshish karo. Neeche har question ka step-by-step solution diya gaya) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 490.00 Td
+(hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 471.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 471.00 Td
+(Linear equation in two variables ka general form kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 453.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 453.00 Td
+(ax + b = 0 ke kitne solutions hote hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 435.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 435.00 Td
+(2x + 3y = 12 ke kitne solutions hote hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 417.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 417.00 Td
+(Kya \(1, 4\) equation x + y = 5 ka solution hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 399.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 399.00 Td
+(Solve karo: x + y = 7,  x - y = 3.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 381.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 381.00 Td
+(Substitution se solve: y = 2x,  x + y = 9.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 363.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 363.00 Td
+(a1/a2 != b1/b2 ho to kitne solutions?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 345.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 345.00 Td
+(a1/a2 = b1/b2 != c1/c2 ho to kya hota hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 327.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 327.00 Td
+(a1/a2 = b1/b2 = c1/c2 ho to kitne solutions?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 309.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 309.00 Td
+(Linear equation ka graph kaisa hota hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 291.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 291.00 Td
+(Origin ke coordinates kya hote hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 273.00 Td
+(Q12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 273.00 Td
+(Solve karo: 2x = 16.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 255.00 Td
+(Q13.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 255.00 Td
+(Parallel lines wale system ko consistent kehte hain ya inconsistent?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 237.00 Td
+(Q14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 237.00 Td
+(Coincident lines ke kitne solutions hote hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 219.00 Td
+(Q15.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 219.00 Td
+(Elimination se solve: x + y = 10,  x - y = 2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 201.00 Td
+(Q16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 201.00 Td
+(3x - 9 = 0 ka solution kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 183.00 Td
+(Q17.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 183.00 Td
+(Intersecting lines ke kitne solutions hote hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 165.00 Td
+(Q18.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 165.00 Td
+(X-axis aur Y-axis kahan milte hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 147.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 147.00 Td
+(Do numbers ka sum 12 aur difference 2 hai. Numbers batao.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 129.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 129.00 Td
+(Solve karo: 5x = 35.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 102.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 105.00 Td
+(Step-by-Step Solutions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 89.00 m 535.28 89.00 l S
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 79.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 79.00 Td
+(General form?) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 6544 >>
+stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Step: Do variables, power 1, '=' ke saath.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 775.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 775.00 Td
+(ax + by + c = 0) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 755.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 755.00 Td
+(ax + b = 0 ke solutions?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 739.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 739.00 Td
+(Step: Ek variable, power 1 -> ek hi value milti hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 724.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 724.00 Td
+(1 \(unique\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 704.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 704.00 Td
+(2x + 3y = 12 ke solutions?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 688.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 688.00 Td
+(Step: Two variables -> har x ke liye ek y.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 673.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 673.00 Td
+(Infinite) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 653.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 653.00 Td
+(Kya \(1, 4\) x + y = 5 ka solution?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 637.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 637.00 Td
+(Step: x=1, y=4: 1 + 4 = 5. Satisfy.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 622.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 622.00 Td
+(Haan) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 602.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 602.00 Td
+(x + y = 7, x - y = 3?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 586.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 586.00 Td
+(Step: Jodo: 2x = 10 -> x = 5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 571.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 571.00 Td
+(Step: y = 7 - 5 = 2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 556.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 556.00 Td
+(x=5, y=2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 536.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 536.00 Td
+(y = 2x, x + y = 9?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 520.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 520.00 Td
+(Step: x + 2x = 9 -> 3x = 9 -> x = 3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 505.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 505.00 Td
+(Step: y = 2\(3\) = 6.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 490.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 490.00 Td
+(x=3, y=6) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 470.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 470.00 Td
+(a1/a2 != b1/b2?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 454.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 454.00 Td
+(Step: Lines intersect karti hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 439.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 439.00 Td
+(Unique solution) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 419.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 419.00 Td
+(a1/a2 = b1/b2 != c1/c2?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 403.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 403.00 Td
+(Step: Lines parallel hoti hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 388.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 388.00 Td
+(No solution \(inconsistent\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 368.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 368.00 Td
+(a1/a2 = b1/b2 = c1/c2?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 352.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 352.00 Td
+(Step: Lines coincident \(upar-upar\) hoti hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 337.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 337.00 Td
+(Infinite solutions) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 317.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 317.00 Td
+(Linear equation ka graph?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 301.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 301.00 Td
+(Step: Degree 1 -> seedhi line.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 286.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 286.00 Td
+(Straight line) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 266.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 266.00 Td
+(Origin ke coordinates?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 250.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 250.00 Td
+(Step: X aur Y axis jahan milte hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 235.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 235.00 Td
+(\(0, 0\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 215.00 Td
+(Q12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 215.00 Td
+(2x = 16?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 199.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 199.00 Td
+(Step: x = 16/2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 184.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 184.00 Td
+(x = 8) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 164.00 Td
+(Q13.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 164.00 Td
+(Parallel lines -> consistent ya inconsistent?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 148.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 148.00 Td
+(Step: Koi solution nahi hota.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 133.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 133.00 Td
+(Inconsistent) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 113.00 Td
+(Q14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 113.00 Td
+(Coincident lines ke solutions?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 97.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 97.00 Td
+(Step: Lines bilkul same hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 82.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 82.00 Td
+(Infinite) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 2973 >>
+stream
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 790.00 Td
+(Q15.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 790.00 Td
+(x + y = 10, x - y = 2?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 774.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 774.00 Td
+(Step: Jodo: 2x = 12 -> x = 6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 759.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 759.00 Td
+(Step: y = 10 - 6 = 4.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 744.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 744.00 Td
+(x=6, y=4) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 724.00 Td
+(Q16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 724.00 Td
+(3x - 9 = 0?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 708.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 708.00 Td
+(Step: 3x = 9 -> x = 9/3.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 693.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 693.00 Td
+(x = 3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 673.00 Td
+(Q17.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 673.00 Td
+(Intersecting lines ke solutions?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 657.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 657.00 Td
+(Step: Ek hi point par milti hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 642.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 642.00 Td
+(1 \(unique\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 622.00 Td
+(Q18.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 622.00 Td
+(X-axis aur Y-axis kahan milte?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 606.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 606.00 Td
+(Step: Dono ka milan bindu = origin.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 591.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 591.00 Td
+(Origin \(0,0\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 571.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 571.00 Td
+(Sum 12, difference 2?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 555.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 555.00 Td
+(Step: x + y = 12, x - y = 2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 540.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 540.00 Td
+(Step: Jodo: 2x = 14 -> x = 7, y = 5.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 525.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 525.00 Td
+(7 aur 5) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 505.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 505.00 Td
+(5x = 35?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 489.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 489.00 Td
+(Step: x = 35/5.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 474.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 474.00 Td
+(x = 7) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+10 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 3 0 R >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 4 0 R >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 5 0 R >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 6 0 R >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 7 0 R >>
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000157 00000 n 
+0000006528 00000 n 
+0000013287 00000 n 
+0000019957 00000 n 
+0000026553 00000 n 
+0000033149 00000 n 
+0000036174 00000 n 
+0000036271 00000 n 
+0000036374 00000 n 
+0000036518 00000 n 
+0000036662 00000 n 
+0000036806 00000 n 
+0000036950 00000 n 
+0000037094 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+37238
+%%EOF
