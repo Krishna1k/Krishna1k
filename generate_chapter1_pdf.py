@@ -110,6 +110,14 @@ Core basics (RED) ko miss mat karna!
 @@    Non-terminating non-repeating = na khatam na pattern:
 @@    sqrt2 = 1.41421356... (ye IRRATIONAL hota hai)
 
+
+@@ 11) CO-PRIME NUMBERS
+@@    Co-prime = do numbers jinka HCF = 1 (1 ke alawa
+@@    koi common factor nahi).
+@@    Example: 8 aur 15 -> common factor sirf 1 -> co-prime.
+@@    (Dono ka khud prime hona zaroori nahi - 8,15 dono
+@@     composite hain par phir bhi co-prime hain.)
+
 <<<PAGEBREAK>>>
 
 ==========================================
@@ -178,6 +186,52 @@ TOPIC 2: HCF AND LCM BY PRIME FACTORISATION
 @@   of the two numbers. (3 numbers pe ye rule nahi chalta.)
 
 
+   EXAMPLE 4: Ek diya ho toh doosra nikaalo
+
+     Do numbers ka HCF = 9, LCM = 90, ek number = 18.
+     Doosra number = ?
+
+     HCF x LCM = number1 x number2
+     9 x 90 = 18 x number2
+     810 = 18 x number2
+     number2 = 810 / 18 = 45
+
+
+TOPIC 2B: HCF / LCM WORD PROBLEMS (EXAM IMPORTANT)
+--------------------------------------------------
+
+   PEHCHAAN (kaunsa use karna hai):
+@@   - "Ek saath", "together", "same time" -> LCM
+@@   - "Sabse bada", "maximum", "largest" -> HCF
+
+
+   EXAMPLE 5: Bells (ek saath bajna) -> LCM
+
+     Teen ghantiyan 6, 12 aur 18 second pe bajti hain.
+     Kab dobara ek saath bajengi?
+
+     -> LCM of 6, 12, 18
+        6  = 2 x 3
+        12 = 2^2 x 3
+        18 = 2 x 3^2
+        LCM = 2^2 x 3^2 = 36
+
+     Answer: 36 second baad ek saath bajengi.
+
+
+   EXAMPLE 6: Sabse badi tape (exact measure) -> HCF
+
+     Do rassiyan 18 m aur 24 m hain. Sabse badi tape
+     jo dono ko exact (poora) naap sake?
+
+     -> HCF of 18, 24
+        18 = 2 x 3^2
+        24 = 2^3 x 3
+        HCF = 2 x 3 = 6
+
+     Answer: 6 m ki tape.
+
+
 TOPIC 3: IRRATIONAL NUMBERS (sqrt2 is irrational)
 -------------------------------------------------
 
@@ -209,6 +263,16 @@ TOPIC 3: IRRATIONAL NUMBERS (sqrt2 is irrational)
      CONCLUSION: Assumption galat. sqrt2 IRRATIONAL hai.
 
 
+   EXAMPLE 7: sqrt3 bhi irrational hai (same method)
+
+     1. Maan le sqrt3 = p/q (HCF=1, q!=0)
+     2. 3 q^2 = p^2  ->  3 divides p^2  ->  3 divides p
+     3. p = 3c  ->  3 q^2 = 9 c^2  ->  q^2 = 3 c^2
+        ->  3 divides q
+     4. p,q dono ko 3 divide kar raha -> HCF=1 toot gaya
+     5. Contradiction -> sqrt3 IRRATIONAL hai.
+
+
    QUICK RESULTS (yaad rakh):
      - sqrt(p) irrational hota hai jab p prime ho.
      - Rational + Irrational = Irrational
@@ -235,6 +299,12 @@ Q AND A TIME
        baare mein kya rule hai?
 
    Q6. 3 + 2 x sqrt(5) ko irrational dikhao.
+
+   Q7. WORD PROBLEM: Do ghantiyan 8 aur 12 minute pe
+       bajti hain. Kab dobara ek saath bajengi?
+       (HCF ya LCM use hoga?)
+
+   Q8. CORE CHECK: 14 aur 25 co-prime hain ya nahi? Kyun?
 
 
 ==========================================

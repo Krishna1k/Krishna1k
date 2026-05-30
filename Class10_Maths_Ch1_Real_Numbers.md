@@ -58,6 +58,11 @@ LCM = do numbers ka sabse **chhota common multiple**.
 - Non-terminating repeating = pattern repeat: 0.333...
 - Non-terminating non-repeating = na khatam na pattern: √2 = 1.41421356... (ye **irrational**)
 
+🔴 **11) Co-prime Numbers**
+Co-prime = do numbers jinka **HCF = 1** (1 ke alawa koi common factor nahi).
+Example: 8 aur 15 → common factor sirf 1 → co-prime.
+(Dono ka khud prime hona zaroori nahi — 8 aur 15 dono composite hain par phir bhi co-prime.)
+
 ---
 
 # CHAPTER 1 — ASLI CONTENT
@@ -110,6 +115,39 @@ Verify: HCF × LCM = 4 × 9696 = 38784 ; 96 × 404 = 38784 ✓
 
 > 🔴 *[CORE]* Sirf 2 numbers ke liye: **HCF × LCM = product of the two numbers**. (3 numbers pe ye rule nahi chalta.)
 
+**Example 4:** Ek diya ho toh doosra nikaalo
+Do numbers ka HCF = 9, LCM = 90, ek number = 18. Doosra = ?
+```
+HCF × LCM = number1 × number2
+9 × 90 = 18 × number2
+810 = 18 × number2
+number2 = 810 / 18 = 45
+```
+
+## Topic 2B: HCF / LCM Word Problems (EXAM IMPORTANT)
+
+**Pehchaan — kaunsa use karna hai:**
+> 🔴 *[CORE]* "Ek saath / together / same time" → **LCM**
+> 🔴 *[CORE]* "Sabse bada / maximum / largest" → **HCF**
+
+**Example 5:** Bells (ek saath bajna) → LCM
+Teen ghantiyan 6, 12, 18 second pe bajti hain. Kab dobara ek saath bajengi?
+```
+LCM of 6, 12, 18:
+6 = 2×3, 12 = 2²×3, 18 = 2×3²
+LCM = 2² × 3² = 36
+```
+**Answer: 36 second baad ek saath.**
+
+**Example 6:** Sabse badi tape (exact measure) → HCF
+Do rassiyan 18 m aur 24 m. Sabse badi tape jo dono ko exact naap sake?
+```
+HCF of 18, 24:
+18 = 2×3², 24 = 2³×3
+HCF = 2 × 3 = 6
+```
+**Answer: 6 m ki tape.**
+
 ## Topic 3: Irrational Numbers (√2 is irrational)
 
 > 🔴 *[CORE]* √2 = "woh number jisko square karne pe 2 aaye". (Root symbol RED page point 5.)
@@ -129,6 +167,13 @@ Verify: HCF × LCM = 4 × 9696 = 38784 ; 96 × 404 = 38784 ✓
 
 **Conclusion:** Assumption galat. **√2 irrational hai.** ∎
 
+**Example 7:** √3 bhi irrational hai (same method)
+1. Maan le √3 = p/q (HCF=1, q≠0)
+2. `3q² = p²` → 3 divides p² → 3 divides p
+3. p = 3c → `3q² = 9c²` → `q² = 3c²` → 3 divides q
+4. p, q dono ko 3 divide kar raha → HCF=1 toot gaya → **Contradiction**
+5. So **√3 irrational hai.** ∎
+
 **Quick results (yaad rakh):**
 - √p irrational hota hai jab p prime ho.
 - Rational + Irrational = Irrational
@@ -144,6 +189,8 @@ Verify: HCF × LCM = 4 × 9696 = 38784 ; 96 × 404 = 38784 ✓
 **Q4.** 🔴 CORE CHECK: 1 prime hai ya composite? Kyun?
 **Q5.** 🔴 CORE CHECK: 5/0 ka answer kya hai? p/q mein q ke baare mein kya rule hai?
 **Q6.** 3 + 2√5 ko irrational dikhao.
+**Q7.** Word problem: Do ghantiyan 8 aur 12 minute pe bajti hain. Kab dobara ek saath bajengi? (HCF ya LCM?)
+**Q8.** 🔴 CORE CHECK: 14 aur 25 co-prime hain ya nahi? Kyun?
 
 ---
 
