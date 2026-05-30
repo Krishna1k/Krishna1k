@@ -20,9 +20,10 @@ def build_document():
     d.hline(LEFT, PAGE_W - RIGHT, d.y + 4, NAVY, 1.2)
     d.space(10)
     d.body("Square root, square (varg) ka ulta hota hai. Is guide me concept ko simple "
-           "Hinglish me examples ke saath samjhaya gaya hai, square root nikalne ke "
-           "methods diye gaye hain, aur end me 22 practice questions (answer key ke "
-           "saath) hain.", color=GREY)
+           "Hinglish me samjhaya gaya hai, methods diye gaye hain, fir 10 SOLVED "
+           "EXAMPLES (sabse HARD se sabse EASY tak, har level cover karte hue), aur end "
+           "me 22 practice questions ke STEP-BY-STEP solutions diye gaye hain.",
+           color=GREY)
     d.space(6)
 
     # ---- What is a square root --------------------------------------
@@ -83,10 +84,73 @@ def build_document():
     ])
     d.space(6)
 
+    # ---- Solved Examples (hardest -> easiest) -----------------------
+    d.h2("6. Solved Examples - Hard se Easy (Sab Levels)")
+    d.body("Neeche 10 examples step-by-step solve karke dikhaye gaye hain - sabse "
+           "MUSHKIL se shuru karke sabse AASAN tak, taaki har type ka method clear ho "
+           "jaye.", color=GREY)
+    d.space(3)
+
+    examples = [
+        ("Example 1 (Hardest):  Long Division se sqrt(5476)",
+         ["Right se do-do digit ke pair banao: 54 | 76.",
+          "Pehla pair 54: sabse bada n jiska n^2 <= 54 -> 7 (49). Remainder = 5.",
+          "Next pair niche lao: 5 76 -> 576.",
+          "Quotient (7) ko double karo = 14. '14_' x _ <= 576 dhoondo.",
+          "144 x 4 = 576 (exact!). Dusra digit = 4.",
+          "Quotient = 74."],
+         "sqrt(5476) = 74"),
+        ("Example 2 (Hard):  Decimal ka root - sqrt(0.0144)",
+         ["0.0144 ko fraction banao: 144 / 10000.",
+          "sqrt(144) = 12,  sqrt(10000) = 100.",
+          "= 12 / 100."],
+         "sqrt(0.0144) = 0.12"),
+        ("Example 3 (Hard):  Surd simplify - sqrt(72)",
+         ["72 ko perfect square x baaki me todo: 72 = 36 x 2.",
+          "sqrt(72) = sqrt(36) x sqrt(2) = 6 x sqrt(2)."],
+         "6 sqrt(2)  (lagbhag 8.49)"),
+        ("Example 4 (Medium-hard):  Prime factorisation - sqrt(1296)",
+         ["1296 = 2 x 2 x 2 x 2 x 3 x 3 x 3 x 3 = 2^4 x 3^4.",
+          "Pairs banao: (2x2)(2x2) aur (3x3)(3x3).",
+          "Har pair me se ek lo: 2^2 x 3^2 = 4 x 9."],
+         "sqrt(1296) = 36"),
+        ("Example 5 (Medium-hard):  Property - sqrt(144 x 25)",
+         ["Rule: sqrt(a x b) = sqrt(a) x sqrt(b).",
+          "= sqrt(144) x sqrt(25) = 12 x 5."],
+         "sqrt(144 x 25) = 60"),
+        ("Example 6 (Medium):  Prime factorisation - sqrt(324)",
+         ["324 = 4 x 81 = 2^2 x 3^4.",
+          "Har pair me se ek lo: 2 x 3^2 = 2 x 9."],
+         "sqrt(324) = 18"),
+        ("Example 7 (Medium):  Estimation - sqrt(50) kin ke beech?",
+         ["Nazdeeki perfect squares: 7^2 = 49 aur 8^2 = 64.",
+          "50, 49 aur 64 ke beech hai -> answer 7 aur 8 ke beech."],
+         "Lagbhag 7.07 (7 aur 8 ke beech)"),
+        ("Example 8 (Easy-medium):  Fraction - sqrt(49/64)",
+         ["Rule: sqrt(a/b) = sqrt(a) / sqrt(b).",
+          "= sqrt(49) / sqrt(64) = 7 / 8."],
+         "sqrt(49/64) = 7/8"),
+        ("Example 9 (Easy):  Perfect square - sqrt(169)",
+         ["Koi number dhoondo jiska square 169 ho.",
+          "13 x 13 = 169."],
+         "sqrt(169) = 13"),
+        ("Example 10 (Easiest):  sqrt(0) aur sqrt(1)",
+         ["0 x 0 = 0  ->  sqrt(0) = 0.",
+          "1 x 1 = 1  ->  sqrt(1) = 1."],
+         "sqrt(0) = 0,  sqrt(1) = 1"),
+    ]
+
+    for q, steps, ans in examples:
+        d.label_body(q, "")
+        for s in steps:
+            d.bullet(f"Step: {s}")
+        d.label_body("   Answer:", ans)
+        d.space(5)
+
     # ---- Practice Questions -----------------------------------------
-    d.h2("6. Practice Questions (Khud Try Karo!)")
-    d.body("In 22 questions ko khud solve karne ki koshish karo. Answers neeche answer "
-           "key me diye gaye hain.", color=GREY)
+    d.h2("7. Practice Questions")
+    d.body("Pehle khud solve karne ki koshish karo. Neeche har question ka step-by-step "
+           "solution diya gaya hai.", color=GREY)
     d.space(3)
 
     questions = [
@@ -117,34 +181,60 @@ def build_document():
         d.label_body(f"Q{i}.", q)
         d.space(2)
 
-    # ---- Answer Key --------------------------------------------------
-    d.h2("7. Answer Key")
-    answers = [
-        "7   (7 x 7 = 49)",
-        "8   (8 x 8 = 64)",
-        "9   (9 x 9 = 81)",
-        "10  (10 x 10 = 100)",
-        "11  (11 x 11 = 121)",
-        "12  (12 x 12 = 144)",
-        "13  (13 x 13 = 169)",
-        "14  (14 x 14 = 196)",
-        "15  (15 x 15 = 225)",
-        "16  (16 x 16 = 256)",
-        "Nahi   (sqrt(150) ~ 12.25, whole number nahi)",
-        "13 aur 14 ke beech   (13^2 = 169, 14^2 = 196)",
-        "14   (6 + 8 = 14)",
-        "14 metre   (sqrt(196) = 14)",
-        "100, 121, 144, 169 aur 196",
-        "Irrational",
-        "20  (20 x 20 = 400)",
-        "sqrt(1) = 1 aur sqrt(0) = 0",
-        "Nahi   (negative ka real square root nahi hota)",
-        "12   (sqrt(9) x sqrt(16) = 3 x 4 = 12)",
-        "25  (25 x 25 = 625)",
-        "12",
+    # ---- Step-by-Step Solutions -------------------------------------
+    d.h2("8. Step-by-Step Solutions")
+    solutions = [
+        ("sqrt(49)", ["Koi number dhoondo jiska square 49 ho.", "7 x 7 = 49."], "7"),
+        ("sqrt(64)", ["8 x 8 = 64."], "8"),
+        ("sqrt(81)", ["9 x 9 = 81."], "9"),
+        ("sqrt(100)", ["10 x 10 = 100."], "10"),
+        ("sqrt(121)", ["11 x 11 = 121."], "11"),
+        ("sqrt(144)", ["12 x 12 = 144."], "12"),
+        ("sqrt(169)", ["13 x 13 = 169."], "13"),
+        ("sqrt(196)", ["14 x 14 = 196."], "14"),
+        ("sqrt(225)", ["15 x 15 = 225."], "15"),
+        ("sqrt(256)", ["16 x 16 = 256."], "16"),
+        ("Kya 150 perfect square hai?",
+         ["12^2 = 144 aur 13^2 = 169.", "150 in dono ke beech hai, koi whole root nahi.",
+          "sqrt(150) ~ 12.25."],
+         "Nahi"),
+        ("sqrt(180) kin do whole numbers ke beech?",
+         ["13^2 = 169 aur 14^2 = 196.", "180 in dono ke beech aata hai."],
+         "13 aur 14 ke beech"),
+        ("sqrt(36) + sqrt(64)",
+         ["sqrt(36) = 6,  sqrt(64) = 8.", "6 + 8."],
+         "14"),
+        ("Square park ka area 196 sq m, side?",
+         ["Square ka area = side x side, to side = sqrt(area).", "side = sqrt(196)."],
+         "14 metre"),
+        ("100 se 200 ke beech perfect squares?",
+         ["10^2=100, 11^2=121, 12^2=144, 13^2=169, 14^2=196."],
+         "100, 121, 144, 169, 196"),
+        ("sqrt(2) rational ya irrational?",
+         ["sqrt(2) = 1.41421... non-terminating aur non-repeating hai."],
+         "Irrational"),
+        ("sqrt(400)", ["20 x 20 = 400."], "20"),
+        ("sqrt(1) aur sqrt(0)",
+         ["1 x 1 = 1  aur  0 x 0 = 0."],
+         "sqrt(1) = 1,  sqrt(0) = 0"),
+        ("Negative number ka real square root?",
+         ["Kisi bhi real number ka square negative nahi hota.",
+          "Isliye negative ka real square root possible nahi."],
+         "Nahi hota"),
+        ("sqrt(9 x 16)  (property)",
+         ["Rule: sqrt(a x b) = sqrt(a) x sqrt(b).", "= sqrt(9) x sqrt(16) = 3 x 4."],
+         "12"),
+        ("sqrt(625)", ["25 x 25 = 625."], "25"),
+        ("12 x 12 = 144, to sqrt(144)?",
+         ["sqrt square ka ulta hai; 12 ka square 144 hai."],
+         "12"),
     ]
-    for i, a in enumerate(answers, start=1):
-        d.bullet(f"Q{i}: {a}")
+    for i, (q, steps, ans) in enumerate(solutions, start=1):
+        d.label_body(f"Q{i}.", q)
+        for s in steps:
+            d.bullet(f"Step: {s}")
+        d.label_body("   Answer:", ans)
+        d.space(4)
 
     return d
 
