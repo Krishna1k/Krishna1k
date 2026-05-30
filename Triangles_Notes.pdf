@@ -1,0 +1,2393 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Length 5942 >>
+stream
+BT
+/F2 26.00 Tf
+0.130 0.200 0.450 rg
+60.00 790.00 Td
+(Triangles) Tj
+ET
+BT
+/F1 13.00 Tf
+0.300 0.300 0.300 rg
+60.00 758.00 Td
+(Chapter 6 - Hinglish Notes, Theorems, Examples + Solutions) Tj
+ET
+1.20 w
+0.130 0.200 0.450 RG
+60.00 742.00 m 535.28 742.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 728.00 Td
+(Ye Chapter 6 \(Triangles\) ka complete guide hai. Pehle red-page ke core basics, fir chapter ka) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 712.00 Td
+(main content - similar triangles, criteria \(AA/SSS/SAS\), BPT/Thales aur Pythagoras. End me) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 696.00 Td
+(solved examples aur 20 practice questions ke step-by-step solutions hain.) Tj
+ET
+0.000 0.500 0.180 rg
+76.00 674.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 676.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 676.00 Td
+(* aise green tag wale topics exams me baar-baar aate hain) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 646.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 649.00 Td
+(PART A - Core Basics \(Miss Mat Karna\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 633.00 m 535.28 633.00 l S
+0.740 0.200 0.200 rg
+60.00 612.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 615.00 Td
+(1. Triangle) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 599.00 m 535.28 599.00 l S
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 589.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 589.00 Td
+(3 side aur 3 angle hote hain.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 574.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 574.00 Td
+(Teeno angle ka sum hamesha = 180 degree.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 544.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 547.00 Td
+(2. Ratio aur Proportion) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 531.00 m 535.28 531.00 l S
+0.000 0.500 0.180 rg
+76.00 519.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 521.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 521.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 506.00 Td
+(Ratio:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+91.79 506.00 Td
+(Do cheezon ki tulna, jaise 4/6 = 2/3.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 490.00 Td
+(Proportion:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+116.86 490.00 Td
+(Do ratio barabar hon, jaise a/b = c/d.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 459.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 462.00 Td
+(3. Congruent vs Similar \(Bahut Important Fark\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 446.00 m 535.28 446.00 l S
+0.000 0.500 0.180 rg
+76.00 434.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 436.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 436.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 421.00 Td
+(Congruent:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+117.47 421.00 Td
+(Bilkul same - shape AUR size dono same.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 405.00 Td
+(Similar:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+99.72 405.00 Td
+(Same shape, par size alag \(sides PROPORTIONAL\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 389.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 389.00 Td
+(Yaad: photo aur uski zoom copy = similar \(shape same, size alag\).) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 359.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 362.00 Td
+(4. Corresponding \(Aamne-saamne wale\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 346.00 m 535.28 346.00 l S
+0.000 0.500 0.180 rg
+76.00 334.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 336.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 336.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 321.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 321.00 Td
+(Similar triangles me corresponding angles equal hote hain.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 306.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 306.00 Td
+(Aur corresponding sides proportional hote hain.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 291.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 291.00 Td
+(Order important hai: ABC ~ PQR  ->  A=P, B=Q, C=R.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 261.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 264.00 Td
+(5. Parallel Lines \(||\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 248.00 m 535.28 248.00 l S
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 238.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 238.00 Td
+(Do lines jo kabhi nahi milti. Symbol: ||.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 223.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 223.00 Td
+(BPT \(Thales\) theorem inhi par based hai.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 193.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 196.00 Td
+(6. Square / Square Root) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 180.00 m 535.28 180.00 l S
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 170.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 170.00 Td
+(a^2 = a x a. sqrt\(25\) = 5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 155.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 155.00 Td
+(Pythagoras theorem me squares use hote hain.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 125.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 128.00 Td
+(7. Proportion Solve Karna \(Cross Multiply\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 112.00 m 535.28 112.00 l S
+0.000 0.500 0.180 rg
+76.00 100.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 102.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 102.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 87.00 Td
+(Rule:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+88.73 87.00 Td
+(a/b = c/d  ->  a x d = b x c.) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 5991 >>
+stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Isi cross-multiply se unknown side nikalti hai.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 760.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 763.00 Td
+(PART B - Chapter 6 ka Main Content) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 747.00 m 535.28 747.00 l S
+0.740 0.200 0.200 rg
+60.00 726.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 729.00 Td
+(8. Similar Triangles) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 713.00 m 535.28 713.00 l S
+0.000 0.500 0.180 rg
+76.00 701.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 703.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 703.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 688.00 Td
+(Definition:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 688.00 Td
+(Do triangles similar hote hain jab unke corresponding angles equal hon AUR) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 672.00 Td
+(corresponding sides ek hi ratio \(proportional\) me hon.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 656.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 656.00 Td
+(Symbol: ~ \(jaise ABC ~ PQR\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 641.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 641.00 Td
+(Sides: AB/PQ = BC/QR = CA/RP.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 611.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 614.00 Td
+(9. Similarity ke Criteria) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 598.00 m 535.28 598.00 l S
+0.000 0.500 0.180 rg
+76.00 586.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 588.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 588.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 573.00 Td
+(AA \(ya AAA\):) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+127.86 573.00 Td
+(Do angles equal ho to triangles similar hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 557.00 Td
+(SSS:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+88.13 557.00 Td
+(Teeno corresponding sides ka ratio same ho.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 541.00 Td
+(SAS:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+88.13 541.00 Td
+(Do sides proportional + unke beech ka angle equal ho.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 510.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 513.00 Td
+(10. Basic Proportionality Theorem \(BPT / Thales\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 497.00 m 535.28 497.00 l S
+0.000 0.500 0.180 rg
+76.00 485.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 487.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 487.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 472.00 Td
+(Statement:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+116.25 472.00 Td
+(Agar ek line triangle ki ek side ke parallel ho aur baaki do sides ko cut kare, to wo) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 456.00 Td
+(unhe SAME ratio me divide karti hai.) Tj
+ET
+0.930 0.950 1.000 rg
+60.00 398.00 475.28 48.00 re
+f
+0.130 0.200 0.450 rg
+60.00 398.00 4.00 48.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 428.00 Td
+(Agar DE || BC ho, to:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 412.00 Td
+(AD / DB = AE / EC) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 392.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 392.00 Td
+(Converse: agar AD/DB = AE/EC ho, to DE || BC.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 362.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 365.00 Td
+(11. Pythagoras Theorem) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 349.00 m 535.28 349.00 l S
+0.000 0.500 0.180 rg
+76.00 337.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 339.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 339.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 324.00 Td
+(Right-angle triangle me:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+179.82 324.00 Td
+() Tj
+ET
+0.930 0.950 1.000 rg
+60.00 250.00 475.28 64.00 re
+f
+0.130 0.200 0.450 rg
+60.00 250.00 4.00 64.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 296.00 Td
+(\(Hypotenuse\)^2 = \(Base\)^2 + \(Perpendicular\)^2) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 280.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 264.00 Td
+(Hypotenuse = right angle ke saamne wali sabse lambi side.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 244.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 244.00 Td
+(Converse: agar c^2 = a^2 + b^2 ho, to triangle right-angled hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 229.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 229.00 Td
+(Famous triplets: \(3,4,5\), \(5,12,13\), \(8,15,17\).) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 199.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 202.00 Td
+(12. Areas of Similar Triangles) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 186.00 m 535.28 186.00 l S
+0.000 0.500 0.180 rg
+76.00 174.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 176.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 176.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 161.00 Td
+(Rule:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+88.73 161.00 Td
+(Do similar triangles ke areas ka ratio = unki corresponding sides ke ratio ka SQUARE.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 145.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 145.00 Td
+(Area1 / Area2 = \(side1 / side2\)^2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 130.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 130.00 Td
+(Example: sides ratio 2:3 -> areas ratio 4:9.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 100.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 103.00 Td
+(Quick Revision) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 87.00 m 535.28 87.00 l S
+endstream
+endobj
+5 0 obj
+<< /Length 6543 >>
+stream
+0.930 0.950 1.000 rg
+60.00 700.00 475.28 96.00 re
+f
+0.130 0.200 0.450 rg
+60.00 700.00 4.00 96.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 778.00 Td
+(Similar: angles equal + sides proportional \(~\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 762.00 Td
+(Criteria: AA, SSS, SAS.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 746.00 Td
+(BPT: DE || BC -> AD/DB = AE/EC.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 730.00 Td
+(Pythagoras: hyp^2 = base^2 + perp^2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 714.00 Td
+(Areas ratio = \(sides ratio\)^2.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 679.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 682.00 Td
+(Solved Examples - Samjho Kaise Solve Karte Hain) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 666.00 m 535.28 666.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 656.00 Td
+(Neeche 10 examples step-by-step solve karke dikhaye gaye hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 637.00 Td
+(Example 1 \(Pythagoras\):  base=3, perpendicular=4, hypotenuse?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+381.00 637.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 621.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 621.00 Td
+(Step: hyp^2 = base^2 + perp^2 = 3^2 + 4^2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 606.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 606.00 Td
+(Step: = 9 + 16 = 25.  hyp = sqrt\(25\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 591.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 591.00 Td
+(Hypotenuse = 5) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 570.00 Td
+(Example 2 \(Pythagoras\):  hypotenuse=13, base=5, perpendicular?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+387.12 570.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 554.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 554.00 Td
+(Step: 13^2 = 5^2 + p^2 -> 169 = 25 + p^2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 539.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 539.00 Td
+(Step: p^2 = 144 -> p = sqrt\(144\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 524.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 524.00 Td
+(Perpendicular = 12) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 503.00 Td
+(Example 3 \(Converse\):  Kya 6, 8, 10 right triangle banata hai?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+364.48 503.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 487.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 487.00 Td
+(Step: Sabse badi side = 10. Check: 6^2 + 8^2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 472.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 472.00 Td
+(Step: = 36 + 64 = 100 = 10^2. Sahi!) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 457.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 457.00 Td
+(Haan, right-angled) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 436.00 Td
+(Example 4 \(Similarity\):  2 triangles me 2-2 angles equal hain.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+359.55 436.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 420.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 420.00 Td
+(Step: Do angles equal -> AA criterion lagta hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 405.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 405.00 Td
+(Triangles similar hain \(AA\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 384.00 Td
+(Example 5 \(BPT\):  DE || BC, AD=2, DB=3, AE=4 -> EC?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+337.17 384.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 368.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 368.00 Td
+(Step: BPT: AD/DB = AE/EC.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 353.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 353.00 Td
+(Step: 2/3 = 4/EC -> EC = \(4 x 3\)/2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 338.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 338.00 Td
+(EC = 6) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 317.00 Td
+(Example 6 \(Similar sides\):  Similar triangles, sides 4 & 6 correspond. 5 ke corresponding?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+499.54 317.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 301.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 301.00 Td
+(Step: Ratio = 4/6 = 2/3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 286.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 286.00 Td
+(Step: 5 ko ratio se: 5 x \(3/2\) = 7.5.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 271.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 271.00 Td
+(7.5) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 250.00 Td
+(Example 7 \(Area ratio\):  Similar triangles, sides ratio 2:3. Areas ratio?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+400.50 250.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 234.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 234.00 Td
+(Step: Areas ratio = \(sides ratio\)^2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 219.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 219.00 Td
+(Step: = 2^2 : 3^2 = 4 : 9.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 204.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 204.00 Td
+(4 : 9) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 183.00 Td
+(Example 8 \(Cross multiply\):  a/4 = 6/8, a?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+265.11 183.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 167.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 167.00 Td
+(Step: Cross multiply: a x 8 = 4 x 6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 152.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 152.00 Td
+(Step: 8a = 24 -> a = 24/8.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 137.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 137.00 Td
+(a = 3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 116.00 Td
+(Example 9 \(Similar sides\):  ABC ~ PQR, sides 3,4,5 aur 6,8,?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+361.70 116.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 100.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 100.00 Td
+(Step: Ratio = 3/6 = 1/2 \(har side\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 85.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 85.00 Td
+(Step: 5 ke corresponding: 5 x 2 = 10.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 6355 >>
+stream
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 790.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 790.00 Td
+(10) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 769.00 Td
+(Example 10 \(Area\):  Areas ratio 9:16 ho to sides ratio?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+328.40 769.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 753.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 753.00 Td
+(Step: Sides ratio = sqrt\(areas ratio\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 738.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 738.00 Td
+(Step: = sqrt\(9\) : sqrt\(16\) = 3 : 4.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 723.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 723.00 Td
+(3 : 4) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 693.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 696.00 Td
+(Practice Questions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 680.00 m 535.28 680.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 670.00 Td
+(Pehle khud solve karne ki koshish karo. Neeche har question ka step-by-step solution diya gaya) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 654.00 Td
+(hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 635.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 635.00 Td
+(Triangle ke teeno angles ka sum kitna hota hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 617.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 617.00 Td
+(Similar triangles ki 2 conditions kya hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 599.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 599.00 Td
+(Congruent aur Similar me kya antar hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 581.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 581.00 Td
+(Similarity ke 3 criteria ke naam batao.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 563.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 563.00 Td
+(BPT \(Thales\) theorem kya kehta hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 545.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 545.00 Td
+(Pythagoras theorem likho.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 527.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 527.00 Td
+(Right triangle: base=6, perpendicular=8, hypotenuse?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 509.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 509.00 Td
+(Kya 5, 12, 13 ek right triangle hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 491.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 491.00 Td
+(Similar triangles ki sides ratio 3:4 -> areas ratio?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 473.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 473.00 Td
+(AA criterion me kitne angles equal chahiye?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 455.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 455.00 Td
+(DE || BC, AD/DB = AE/EC - ye kaunsa theorem hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 437.00 Td
+(Q12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 437.00 Td
+(Hypotenuse=10, base=6, perpendicular?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 419.00 Td
+(Q13.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 419.00 Td
+(Do similar triangles ki corresponding sides 4 aur 8 -> ratio?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 401.00 Td
+(Q14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 401.00 Td
+(Areas ratio 9:16 ho to sides ratio kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 383.00 Td
+(Q15.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 383.00 Td
+(Pythagoras theorem kis type ke triangle me lagta hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 365.00 Td
+(Q16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 365.00 Td
+(SSS similarity criterion kya kehta hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 347.00 Td
+(Q17.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 347.00 Td
+(SAS similarity me kya-kya chahiye?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 329.00 Td
+(Q18.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 329.00 Td
+(Triangle me sabse lambi side kis angle ke saamne hoti hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 311.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 311.00 Td
+(Similar triangles ka symbol kya hota hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 293.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 293.00 Td
+(Kya 9, 12, 15 right triangle hai?) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 266.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 269.00 Td
+(Step-by-Step Solutions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 253.00 m 535.28 253.00 l S
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 243.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 243.00 Td
+(Teeno angles ka sum?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 227.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 227.00 Td
+(Step: Angle sum property.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 212.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 212.00 Td
+(180 degree) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 192.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 192.00 Td
+(Similar triangles ki 2 conditions?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 176.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 176.00 Td
+(Step: Angles + sides dekho.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 161.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 161.00 Td
+(Angles equal + sides proportional) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 141.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 141.00 Td
+(Congruent vs Similar?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 125.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 125.00 Td
+(Step: Size ka farak dekho.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 110.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 110.00 Td
+(Congruent = same size; Similar = size alag) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 90.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 90.00 Td
+(Similarity ke 3 criteria?) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 6560 >>
+stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Step: Standard criteria.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 775.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 775.00 Td
+(AA, SSS, SAS) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 755.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 755.00 Td
+(BPT kya kehta hai?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 739.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 739.00 Td
+(Step: Parallel line baaki sides ko same ratio me baantti hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 724.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 724.00 Td
+(DE || BC -> AD/DB = AE/EC) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 704.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 704.00 Td
+(Pythagoras theorem?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 688.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 688.00 Td
+(Step: Right triangle me.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 673.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 673.00 Td
+(hyp^2 = base^2 + perp^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 653.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 653.00 Td
+(base=6, perp=8, hyp?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 637.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 637.00 Td
+(Step: hyp^2 = 36 + 64 = 100.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 622.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 622.00 Td
+(Step: hyp = sqrt\(100\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 607.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 607.00 Td
+(10) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 587.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 587.00 Td
+(Kya 5,12,13 right triangle?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 571.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 571.00 Td
+(Step: 5^2 + 12^2 = 25 + 144 = 169 = 13^2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 556.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 556.00 Td
+(Haan) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 536.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 536.00 Td
+(Sides ratio 3:4 -> areas ratio?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 520.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 520.00 Td
+(Step: \(sides ratio\)^2 = 3^2 : 4^2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 505.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 505.00 Td
+(9 : 16) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 485.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 485.00 Td
+(AA me kitne angles equal?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 469.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 469.00 Td
+(Step: Do angles kaafi hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 454.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 454.00 Td
+(2 angles) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 434.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 434.00 Td
+(DE||BC, AD/DB=AE/EC kaunsa theorem?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 418.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 418.00 Td
+(Step: Basic Proportionality.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 403.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 403.00 Td
+(BPT \(Thales\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 383.00 Td
+(Q12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 383.00 Td
+(hyp=10, base=6, perp?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 367.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 367.00 Td
+(Step: 100 = 36 + p^2 -> p^2 = 64.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 352.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 352.00 Td
+(8) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 332.00 Td
+(Q13.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 332.00 Td
+(Sides 4 aur 8 -> ratio?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 316.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 316.00 Td
+(Step: 4/8 simplify.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 301.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 301.00 Td
+(1 : 2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 281.00 Td
+(Q14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 281.00 Td
+(Areas ratio 9:16 -> sides ratio?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 265.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 265.00 Td
+(Step: sqrt\(9\):sqrt\(16\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 250.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 250.00 Td
+(3 : 4) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 230.00 Td
+(Q15.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 230.00 Td
+(Pythagoras kis triangle me?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 214.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 214.00 Td
+(Step: Right angle wala.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 199.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 199.00 Td
+(Right-angled triangle) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 179.00 Td
+(Q16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 179.00 Td
+(SSS similarity?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 163.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 163.00 Td
+(Step: Teeno sides ka ratio same.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 148.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 148.00 Td
+(Teeno corresponding sides proportional) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 128.00 Td
+(Q17.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 128.00 Td
+(SAS similarity me?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 112.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 112.00 Td
+(Step: 2 sides + beech ka angle.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 97.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 97.00 Td
+(2 sides proportional + included angle equal) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 77.00 Td
+(Q18.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 77.00 Td
+(Sabse lambi side kis angle ke saamne?) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 1218 >>
+stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Step: Bade angle ke saamne badi side.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 775.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 775.00 Td
+(Sabse bade angle ke saamne) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 755.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 755.00 Td
+(Similar triangles ka symbol?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 739.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 739.00 Td
+(Step: Tilde symbol.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 724.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 724.00 Td
+(~) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 704.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 704.00 Td
+(Kya 9,12,15 right triangle?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 688.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 688.00 Td
+(Step: 9^2 + 12^2 = 81 + 144 = 225 = 15^2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 673.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 673.00 Td
+(Haan) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+10 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 3 0 R >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 4 0 R >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 5 0 R >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 6 0 R >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 7 0 R >>
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000157 00000 n 
+0000006151 00000 n 
+0000012194 00000 n 
+0000018789 00000 n 
+0000025196 00000 n 
+0000031808 00000 n 
+0000033078 00000 n 
+0000033175 00000 n 
+0000033278 00000 n 
+0000033422 00000 n 
+0000033566 00000 n 
+0000033710 00000 n 
+0000033854 00000 n 
+0000033998 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+34142
+%%EOF
