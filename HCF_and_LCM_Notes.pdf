@@ -4,10 +4,10 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R] /Count 6 >>
+<< /Type /Pages /Kids [12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R] /Count 7 >>
 endobj
 3 0 obj
-<< /Length 6365 >>
+<< /Length 6528 >>
 stream
 BT
 /F2 26.00 Tf
@@ -48,819 +48,816 @@ BT
 60.00 680.00 Td
 (STEP-BY-STEP solutions diye gaye hain.) Tj
 ET
+0.000 0.500 0.180 rg
+76.00 658.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 660.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 660.00 Td
+(* aise green tag wale topics exams me baar-baar aate hain) Tj
+ET
 0.740 0.200 0.200 rg
-60.00 649.00 4.00 16.00 re
+60.00 630.00 4.00 16.00 re
 f
 BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
-72.00 652.00 Td
+72.00 633.00 Td
 (1. Quick Recap: Factor aur Multiple) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
-60.00 636.00 m 535.28 636.00 l S
+60.00 617.00 m 535.28 617.00 l S
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 626.00 Td
+60.00 607.00 Td
 (Factor:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-97.29 626.00 Td
+97.29 607.00 Td
 (Wo number jo kisi dusre number ko poora-poora divide kare \(remainder zero\). Jaise 12) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 610.00 Td
+60.00 591.00 Td
 (ke factors = 1, 2, 3, 4, 6, 12.) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 594.00 Td
+60.00 575.00 Td
 (Multiple:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-104.01 594.00 Td
+104.01 575.00 Td
 (Kisi number ko 1, 2, 3, ... se multiply karne par jo aaye. Jaise 4 ke multiples = 4, 8, 12,) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 578.00 Td
+60.00 559.00 Td
 (16, 20 ...) Tj
 ET
 0.740 0.200 0.200 rg
-60.00 547.00 4.00 16.00 re
+60.00 528.00 4.00 16.00 re
 f
 BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
-72.00 550.00 Td
+72.00 531.00 Td
 (2. HCF \(Highest Common Factor\)) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
-60.00 534.00 m 535.28 534.00 l S
+60.00 515.00 m 535.28 515.00 l S
+0.000 0.500 0.180 rg
+76.00 503.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 505.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 505.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 524.00 Td
+60.00 490.00 Td
 (Definition:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 524.00 Td
+111.96 490.00 Td
 (Wo sabse bada number jo do ya zyada numbers ko exactly divide kar de. Ise GCD) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 508.00 Td
+60.00 474.00 Td
 (\(Greatest Common Divisor\) bhi kehte hain.) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 492.00 Td
+60.00 458.00 Td
 (Example:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-108.91 492.00 Td
+108.91 458.00 Td
 (12 aur 18 ka HCF:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 476.00 Td
+64.00 442.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 476.00 Td
+76.00 442.00 Td
 (12 = 2 x 2 x 3) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 461.00 Td
+64.00 427.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 461.00 Td
+76.00 427.00 Td
 (18 = 2 x 3 x 3) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 446.00 Td
+64.00 412.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 446.00 Td
+76.00 412.00 Td
 (Common factors = 2 x 3 = 6, isliye HCF = 6) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 431.00 Td
+60.00 397.00 Td
 (Yaad rakho:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-122.37 431.00 Td
+122.37 397.00 Td
 () Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 415.00 Td
+64.00 381.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 415.00 Td
+76.00 381.00 Td
 (HCF hamesha sabse chhote number se chhota ya barabar hota hai.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 400.00 Td
+64.00 366.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 400.00 Td
+76.00 366.00 Td
 (Co-prime numbers \(jaise 8 aur 9\) ka HCF 1 hota hai.) Tj
 ET
 0.740 0.200 0.200 rg
-60.00 370.00 4.00 16.00 re
+60.00 336.00 4.00 16.00 re
 f
 BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
-72.00 373.00 Td
+72.00 339.00 Td
 (3. LCM \(Least Common Multiple\)) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
-60.00 357.00 m 535.28 357.00 l S
+60.00 323.00 m 535.28 323.00 l S
+0.000 0.500 0.180 rg
+76.00 311.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 313.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 313.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 347.00 Td
+60.00 298.00 Td
 (Definition:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 347.00 Td
+111.96 298.00 Td
 (Wo sabse chhota number jo do ya zyada numbers se exactly divide ho jaye \(sabse) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 331.00 Td
+60.00 282.00 Td
 (chhota common multiple\).) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 315.00 Td
+60.00 266.00 Td
 (Example:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-108.91 315.00 Td
+108.91 266.00 Td
 (4 aur 6 ka LCM:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 299.00 Td
+64.00 250.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 299.00 Td
+76.00 250.00 Td
 (4 ke multiples = 4, 8, 12, 16, 20 ...) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 284.00 Td
+64.00 235.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 284.00 Td
+76.00 235.00 Td
 (6 ke multiples = 6, 12, 18, 24 ...) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 269.00 Td
+64.00 220.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 269.00 Td
+76.00 220.00 Td
 (Sabse chhota common multiple = 12, isliye LCM = 12) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 254.00 Td
+60.00 205.00 Td
 (Yaad rakho:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-122.37 254.00 Td
+122.37 205.00 Td
 () Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 238.00 Td
+64.00 189.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 238.00 Td
+76.00 189.00 Td
 (LCM hamesha sabse bade number se bada ya barabar hota hai.) Tj
 ET
 0.740 0.200 0.200 rg
-60.00 208.00 4.00 16.00 re
+60.00 159.00 4.00 16.00 re
 f
 BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
-72.00 211.00 Td
+72.00 162.00 Td
 (4. HCF aur LCM Nikalne ke Methods) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
-60.00 195.00 m 535.28 195.00 l S
+60.00 146.00 m 535.28 146.00 l S
+0.000 0.500 0.180 rg
+76.00 134.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 136.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 136.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 185.00 Td
+60.00 121.00 Td
 (\(a\) Prime Factorisation:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-177.36 185.00 Td
+177.36 121.00 Td
 (Har number ko prime factors me todo.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 169.00 Td
+64.00 105.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 169.00 Td
+76.00 105.00 Td
 (HCF = common prime factors ka product \(lowest power lo\).) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 154.00 Td
+64.00 90.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 154.00 Td
+76.00 90.00 Td
 (LCM = saare prime factors ka product \(highest power lo\).) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 139.00 Td
+64.00 75.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 139.00 Td
+76.00 75.00 Td
 (Example: 12 = 2^2 x 3 aur 18 = 2 x 3^2  ->  HCF = 2 x 3 = 6, LCM = 2^2 x 3^2 = 36) Tj
 ET
+endstream
+endobj
+4 0 obj
+<< /Length 6524 >>
+stream
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 124.00 Td
+60.00 790.00 Td
 (\(b\) Division Method \(HCF ke liye\):) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-228.08 124.00 Td
+228.08 790.00 Td
 (Bade number ko chhote se divide karo, fir divisor ko remainder) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 108.00 Td
+60.00 774.00 Td
 (se divide karo, aise repeat karo jab tak remainder 0 na ho. Last divisor hi HCF hai.) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 92.00 Td
+60.00 758.00 Td
 (\(c\) Common Division \(LCM ke liye\):) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-236.01 92.00 Td
+236.01 758.00 Td
 (Saare numbers ko common prime se step-by-step divide) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 76.00 Td
+60.00 742.00 Td
 (karo, fir saare divisors ko multiply kar do.) Tj
 ET
-endstream
-endobj
-4 0 obj
-<< /Length 6381 >>
-stream
 0.740 0.200 0.200 rg
-60.00 775.00 4.00 16.00 re
+60.00 711.00 4.00 16.00 re
 f
 BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
-72.00 778.00 Td
+72.00 714.00 Td
 (5. HCF aur LCM ka Relationship) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
-60.00 762.00 m 535.28 762.00 l S
+60.00 698.00 m 535.28 698.00 l S
+0.000 0.500 0.180 rg
+76.00 686.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 688.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 688.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
 BT
 /F1 11.00 Tf
 0.300 0.300 0.300 rg
-60.00 752.00 Td
+60.00 673.00 Td
 (Kisi bhi do numbers ke liye ye rule hamesha sahi hota hai:) Tj
 ET
 0.930 0.950 1.000 rg
-60.00 660.00 475.28 80.00 re
+60.00 581.00 475.28 80.00 re
 f
 0.130 0.200 0.450 rg
-60.00 660.00 4.00 80.00 re
+60.00 581.00 4.00 80.00 re
 f
 BT
 /F1 11.00 Tf
 0.130 0.200 0.450 rg
-74.00 722.00 Td
+74.00 643.00 Td
 (HCF x LCM = Pehla number x Dusra number) Tj
 ET
 BT
 /F1 11.00 Tf
 0.130 0.200 0.450 rg
-74.00 706.00 Td
+74.00 627.00 Td
 () Tj
 ET
 BT
 /F1 11.00 Tf
 0.130 0.200 0.450 rg
-74.00 690.00 Td
+74.00 611.00 Td
 (Example \(12 aur 18\):) Tj
 ET
 BT
 /F1 11.00 Tf
 0.130 0.200 0.450 rg
-74.00 674.00 Td
+74.00 595.00 Td
 (HCF x LCM = 6 x 36 = 216   aur   12 x 18 = 216   \(dono barabar\)) Tj
 ET
 0.740 0.200 0.200 rg
-60.00 639.00 4.00 16.00 re
+60.00 560.00 4.00 16.00 re
 f
 BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
-72.00 642.00 Td
+72.00 563.00 Td
 (6. HCF vs LCM \(Main Antar\)) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
-60.00 626.00 m 535.28 626.00 l S
+60.00 547.00 m 535.28 547.00 l S
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 616.00 Td
+64.00 537.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 616.00 Td
+76.00 537.00 Td
 (HCF ka relation FACTORS se hai; LCM ka relation MULTIPLES se.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 601.00 Td
+64.00 522.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 601.00 Td
+76.00 522.00 Td
 (HCF = sabse bada common factor; LCM = sabse chhota common multiple.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 586.00 Td
+64.00 507.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 586.00 Td
+76.00 507.00 Td
 (HCF <= chhota number; LCM >= bada number.) Tj
 ET
 0.740 0.200 0.200 rg
-60.00 556.00 4.00 16.00 re
+60.00 477.00 4.00 16.00 re
 f
 BT
 /F2 15.00 Tf
 0.130 0.200 0.450 rg
-72.00 559.00 Td
+72.00 480.00 Td
+(6B. Fractions ka HCF aur LCM) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 464.00 m 535.28 464.00 l S
+0.000 0.500 0.180 rg
+76.00 452.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 454.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 454.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 439.00 Td
+(HCF of fractions:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+145.58 439.00 Td
+(HCF\(numerators\) / LCM\(denominators\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 423.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 423.00 Td
+(Example: 2/3 aur 4/9 ka HCF = HCF\(2,4\) / LCM\(3,9\) = 2/9.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 408.00 Td
+(LCM of fractions:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+146.20 408.00 Td
+(LCM\(numerators\) / HCF\(denominators\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 392.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 392.00 Td
+(Example: 2/3 aur 4/9 ka LCM = LCM\(2,4\) / HCF\(3,9\) = 4/3.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 362.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 365.00 Td
+(6C. Word Problems - Kab HCF, Kab LCM?) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 349.00 m 535.28 349.00 l S
+0.000 0.500 0.180 rg
+76.00 337.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 339.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 339.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 324.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 324.00 Td
+('Saath bajna / ek saath milna / ghoom kar same point' -> LCM.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 309.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 309.00 Td
+('Sabse chhoti quantity jo sabse divide ho jaye' -> LCM.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 294.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 294.00 Td
+('Sabse bada number / greatest length jo poora baant de' -> HCF.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 279.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 279.00 Td
+('Max barabar groups / max students me equal baatna' -> HCF.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 249.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 252.00 Td
 (7. Solved Examples - Samjho Kaise Solve Karte Hain) Tj
 ET
 0.60 w
 0.800 0.800 0.800 RG
-60.00 543.00 m 535.28 543.00 l S
+60.00 236.00 m 535.28 236.00 l S
 BT
 /F1 11.00 Tf
 0.300 0.300 0.300 rg
-60.00 533.00 Td
+60.00 226.00 Td
 (Neeche 10 examples step-by-step solve karke dikhaye gaye hain, taaki HCF/LCM ke saare) Tj
 ET
 BT
 /F1 11.00 Tf
 0.300 0.300 0.300 rg
-60.00 517.00 Td
+60.00 210.00 Td
 (methods clear ho jayein \(prime factorisation, division method, relationship aur word problems\).) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 498.00 Td
+60.00 191.00 Td
 (Example 1:  12 aur 18 ka HCF  \(Prime Factorisation\)) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-319.19 498.00 Td
+319.19 191.00 Td
 () Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 482.00 Td
+64.00 175.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 482.00 Td
+76.00 175.00 Td
 (Step: 12 = 2 x 2 x 3) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 467.00 Td
+64.00 160.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 467.00 Td
+76.00 160.00 Td
 (Step: 18 = 2 x 3 x 3) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 452.00 Td
+64.00 145.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 452.00 Td
+76.00 145.00 Td
 (Step: Common factors chuno \(jo dono me hain\): ek 2 aur ek 3.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 437.00 Td
+64.00 130.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 437.00 Td
+76.00 130.00 Td
 (Step: HCF = 2 x 3) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 422.00 Td
+60.00 115.00 Td
 (   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 422.00 Td
+111.96 115.00 Td
 (HCF = 6) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 401.00 Td
+60.00 94.00 Td
 (Example 2:  12 aur 18 ka LCM  \(Prime Factorisation\)) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-319.81 401.00 Td
+319.81 94.00 Td
 () Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 385.00 Td
+64.00 78.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 385.00 Td
+76.00 78.00 Td
 (Step: 12 = 2^2 x 3) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 370.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 370.00 Td
-(Step: 18 = 2 x 3^2) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 355.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 355.00 Td
-(Step: Har prime ki HIGHEST power lo: 2^2 aur 3^2.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 340.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 340.00 Td
-(Step: LCM = 2^2 x 3^2 = 4 x 9) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 325.00 Td
-(   Answer:) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-111.96 325.00 Td
-(LCM = 36) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 304.00 Td
-(Example 3:  24 aur 36 ka HCF) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-211.01 304.00 Td
-() Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 288.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 288.00 Td
-(Step: 24 = 2^3 x 3) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 273.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 273.00 Td
-(Step: 36 = 2^2 x 3^2) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 258.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 258.00 Td
-(Step: Common primes ki LOWEST power: 2^2 aur 3.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 243.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 243.00 Td
-(Step: HCF = 2^2 x 3 = 4 x 3) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 228.00 Td
-(   Answer:) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-111.96 228.00 Td
-(HCF = 12) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 207.00 Td
-(Example 4:  48 aur 36 ka HCF  \(Division Method\)) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-302.69 207.00 Td
-() Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 191.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 191.00 Td
-(Step: Bade ko chhote se divide: 48 div 36 = 1, remainder 12.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 176.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 176.00 Td
-(Step: Ab divisor \(36\) ko remainder \(12\) se: 36 div 12 = 3, remainder 0.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 161.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 161.00 Td
-(Step: Remainder 0 aa gaya -> last divisor hi HCF hai.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 146.00 Td
-(   Answer:) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-111.96 146.00 Td
-(HCF = 12) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 125.00 Td
-(Example 5:  8, 12, 16 ka LCM  \(Common Division\)) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-307.58 125.00 Td
-() Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 109.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 109.00 Td
-(Step: 2 | 8, 12, 16   ->   4, 6, 8) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 94.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 94.00 Td
-(Step: 2 | 4, 6, 8     ->   2, 3, 4) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 79.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 79.00 Td
-(Step: 2 | 2, 3, 4     ->   1, 3, 2) Tj
 ET
 endstream
 endobj
 5 0 obj
-<< /Length 6518 >>
+<< /Length 6993 >>
 stream
 BT
 /F1 11.00 Tf
@@ -872,7 +869,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 790.00 Td
-(Step: 3 | 1, 3, 2     ->   1, 1, 2) Tj
+(Step: 18 = 2 x 3^2) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -884,7 +881,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 775.00 Td
-(Step: 2 | 1, 1, 2     ->   1, 1, 1) Tj
+(Step: Har prime ki HIGHEST power lo: 2^2 aur 3^2.) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -896,7 +893,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 760.00 Td
-(Step: Saare divisors multiply: 2 x 2 x 2 x 3 x 2) Tj
+(Step: LCM = 2^2 x 3^2 = 4 x 9) Tj
 ET
 BT
 /F2 11.00 Tf
@@ -908,18 +905,18 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 111.96 745.00 Td
-(LCM = 48) Tj
+(LCM = 36) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
 60.00 724.00 Td
-(Example 6:  10 aur 15 ka LCM) Tj
+(Example 3:  24 aur 36 ka HCF) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-211.62 724.00 Td
+211.01 724.00 Td
 () Tj
 ET
 BT
@@ -932,7 +929,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 708.00 Td
-(Step: 10 = 2 x 5) Tj
+(Step: 24 = 2^3 x 3) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -944,7 +941,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 693.00 Td
-(Step: 15 = 3 x 5) Tj
+(Step: 36 = 2^2 x 3^2) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -956,7 +953,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 678.00 Td
-(Step: Saare primes \(highest power\): 2, 3, 5.) Tj
+(Step: Common primes ki LOWEST power: 2^2 aur 3.) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -968,7 +965,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 663.00 Td
-(Step: LCM = 2 x 3 x 5) Tj
+(Step: HCF = 2^2 x 3 = 4 x 3) Tj
 ET
 BT
 /F2 11.00 Tf
@@ -980,18 +977,18 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 111.96 648.00 Td
-(LCM = 30) Tj
+(HCF = 12) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
 60.00 627.00 Td
-(Example 7:  HCF=6, LCM=36, ek number=12 -> dusra?) Tj
+(Example 4:  48 aur 36 ka HCF  \(Division Method\)) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-333.90 627.00 Td
+302.69 627.00 Td
 () Tj
 ET
 BT
@@ -1004,7 +1001,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 611.00 Td
-(Step: Rule: HCF x LCM = dono numbers ka product.) Tj
+(Step: Bade ko chhote se divide: 48 div 36 = 1, remainder 12.) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -1016,7 +1013,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 596.00 Td
-(Step: 6 x 36 = 12 x dusra   ->   216 = 12 x dusra.) Tj
+(Step: Ab divisor \(36\) ko remainder \(12\) se: 36 div 12 = 3, remainder 0.) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -1028,7 +1025,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 581.00 Td
-(Step: dusra = 216 / 12) Tj
+(Step: Remainder 0 aa gaya -> last divisor hi HCF hai.) Tj
 ET
 BT
 /F2 11.00 Tf
@@ -1040,18 +1037,18 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 111.96 566.00 Td
-(Dusra number = 18) Tj
+(HCF = 12) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
 60.00 545.00 Td
-(Example 8:  Bells 9 aur 12 min par bajti hain, saath kab?) Tj
+(Example 5:  8, 12, 16 ka LCM  \(Common Division\)) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-338.19 545.00 Td
+307.58 545.00 Td
 () Tj
 ET
 BT
@@ -1064,7 +1061,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 529.00 Td
-(Step: 'Saath bajna' matlab LCM nikalo.) Tj
+(Step: 2 | 8, 12, 16   ->   4, 6, 8) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -1076,7 +1073,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 514.00 Td
-(Step: 9 = 3^2,  12 = 2^2 x 3.) Tj
+(Step: 2 | 4, 6, 8     ->   2, 3, 4) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -1088,1205 +1085,199 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 499.00 Td
-(Step: LCM = 2^2 x 3^2) Tj
+(Step: 2 | 2, 3, 4     ->   1, 3, 2) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 484.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 484.00 Td
+(Step: 3 | 1, 3, 2     ->   1, 1, 2) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 469.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 469.00 Td
+(Step: 2 | 1, 1, 2     ->   1, 1, 1) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 454.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 454.00 Td
+(Step: Saare divisors multiply: 2 x 2 x 2 x 3 x 2) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 484.00 Td
+60.00 439.00 Td
 (   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 484.00 Td
-(36 minute baad) Tj
+111.96 439.00 Td
+(LCM = 48) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 463.00 Td
-(Example 9:  Sabse bada number jo 28 aur 42 ko divide kare) Tj
+60.00 418.00 Td
+(Example 6:  10 aur 15 ka LCM) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-355.32 463.00 Td
+211.62 418.00 Td
 () Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 447.00 Td
+64.00 402.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 447.00 Td
-(Step: 'Sabse bada divide karne wala' = HCF.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 432.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 432.00 Td
-(Step: 28 = 2^2 x 7,  42 = 2 x 3 x 7.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 417.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 417.00 Td
-(Step: Common = 2 x 7) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 402.00 Td
-(   Answer:) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-111.96 402.00 Td
-(HCF = 14) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 381.00 Td
-(Example 10:  8 aur 9 ka HCF aur LCM  \(co-prime\)) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-306.35 381.00 Td
-() Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 365.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 365.00 Td
-(Step: 8 = 2^3,  9 = 3^2.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 350.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 350.00 Td
-(Step: Koi common prime factor nahi -> HCF = 1.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 335.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 335.00 Td
-(Step: LCM = dono ka product = 8 x 9) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 320.00 Td
-(   Answer:) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-111.96 320.00 Td
-(HCF = 1,  LCM = 72) Tj
-ET
-0.740 0.200 0.200 rg
-60.00 290.00 4.00 16.00 re
-f
-BT
-/F2 15.00 Tf
-0.130 0.200 0.450 rg
-72.00 293.00 Td
-(8. Practice Questions) Tj
-ET
-0.60 w
-0.800 0.800 0.800 RG
-60.00 277.00 m 535.28 277.00 l S
-BT
-/F1 11.00 Tf
-0.300 0.300 0.300 rg
-60.00 267.00 Td
-(Pehle khud solve karne ki koshish karo. Neeche har question ka step-by-step solution diya gaya) Tj
-ET
-BT
-/F1 11.00 Tf
-0.300 0.300 0.300 rg
-60.00 251.00 Td
-(hai.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 232.00 Td
-(Q1.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 232.00 Td
-(12 aur 16 ka HCF nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 214.00 Td
-(Q2.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 214.00 Td
-(6 aur 9 ka LCM nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 196.00 Td
-(Q3.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 196.00 Td
-(24 aur 36 ka HCF nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 178.00 Td
-(Q4.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 178.00 Td
-(8 aur 12 ka LCM nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 160.00 Td
-(Q5.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 160.00 Td
-(15 aur 25 ka HCF nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 142.00 Td
-(Q6.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 142.00 Td
-(10 aur 15 ka LCM nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 124.00 Td
-(Q7.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 124.00 Td
-(18 aur 27 ka HCF nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 106.00 Td
-(Q8.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 106.00 Td
-(9 aur 12 ka LCM nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 88.00 Td
-(Q9.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 88.00 Td
-(20 aur 30 ka HCF nikalo.) Tj
-ET
-endstream
-endobj
-6 0 obj
-<< /Length 6387 >>
-stream
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 790.00 Td
-(Q10.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 790.00 Td
-(4, 5 aur 6 ka LCM nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 772.00 Td
-(Q11.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 772.00 Td
-(16 aur 24 ka HCF nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 754.00 Td
-(Q12.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 754.00 Td
-(14 aur 21 ka LCM nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 736.00 Td
-(Q13.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 736.00 Td
-(7 aur 14 ka HCF nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 718.00 Td
-(Q14.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 718.00 Td
-(3, 6 aur 9 ka LCM nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 700.00 Td
-(Q15.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 700.00 Td
-(36 aur 48 ka HCF nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 682.00 Td
-(Q16.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 682.00 Td
-(5 aur 7 ka LCM nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 664.00 Td
-(Q17.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 664.00 Td
-(Do numbers ka HCF 4 aur LCM 48 hai. Ek number 16 hai, dusra number batao.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 646.00 Td
-(Q18.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 646.00 Td
-(Do ghantiyan 9 aur 12 minute ke interval par bajti hain. Kitne minute baad saath bajengi?) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 628.00 Td
-(Q19.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 628.00 Td
-(Sabse bada number jo 28 aur 42 dono ko exactly divide kare?) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 610.00 Td
-(Q20.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 610.00 Td
-(8 aur 10 ka LCM nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 592.00 Td
-(Q21.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 592.00 Td
-(30 aur 45 ka HCF nikalo.) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 574.00 Td
-(Q22.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 574.00 Td
-(6, 8 aur 12 ka LCM nikalo.) Tj
-ET
-0.740 0.200 0.200 rg
-60.00 547.00 4.00 16.00 re
-f
-BT
-/F2 15.00 Tf
-0.130 0.200 0.450 rg
-72.00 550.00 Td
-(9. Step-by-Step Solutions) Tj
-ET
-0.60 w
-0.800 0.800 0.800 RG
-60.00 534.00 m 535.28 534.00 l S
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 524.00 Td
-(Q1.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 524.00 Td
-(12 aur 16 ka HCF) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 508.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 508.00 Td
-(Step: 12 = 2 x 2 x 3 = 2^2 x 3) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 493.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 493.00 Td
-(Step: 16 = 2 x 2 x 2 x 2 = 2^4) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 478.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 478.00 Td
-(Step: Common \(lowest power\) = 2^2) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 463.00 Td
-(   Answer:) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-111.96 463.00 Td
-(HCF = 4) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 443.00 Td
-(Q2.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 443.00 Td
-(6 aur 9 ka LCM) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 427.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 427.00 Td
-(Step: 6 = 2 x 3) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 412.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 412.00 Td
-(Step: 9 = 3^2) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 397.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 397.00 Td
-(Step: Highest powers: 2 aur 3^2 -> 2 x 3^2) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 382.00 Td
-(   Answer:) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-111.96 382.00 Td
-(LCM = 18) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 362.00 Td
-(Q3.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 362.00 Td
-(24 aur 36 ka HCF) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 346.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 346.00 Td
-(Step: 24 = 2^3 x 3) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 331.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 331.00 Td
-(Step: 36 = 2^2 x 3^2) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 316.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 316.00 Td
-(Step: Common \(lowest\) = 2^2 x 3) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 301.00 Td
-(   Answer:) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-111.96 301.00 Td
-(HCF = 12) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 281.00 Td
-(Q4.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 281.00 Td
-(8 aur 12 ka LCM) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 265.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 265.00 Td
-(Step: 8 = 2^3) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 250.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 250.00 Td
-(Step: 12 = 2^2 x 3) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 235.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 235.00 Td
-(Step: Highest powers: 2^3 x 3) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 220.00 Td
-(   Answer:) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-111.96 220.00 Td
-(LCM = 24) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 200.00 Td
-(Q5.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 200.00 Td
-(15 aur 25 ka HCF) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 184.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 184.00 Td
-(Step: 15 = 3 x 5) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 169.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 169.00 Td
-(Step: 25 = 5^2) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 154.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 154.00 Td
-(Step: Common = 5) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 139.00 Td
-(   Answer:) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-111.96 139.00 Td
-(HCF = 5) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 119.00 Td
-(Q6.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 119.00 Td
-(10 aur 15 ka LCM) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 103.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 103.00 Td
+76.00 402.00 Td
 (Step: 10 = 2 x 5) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 88.00 Td
+64.00 387.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 88.00 Td
+76.00 387.00 Td
 (Step: 15 = 3 x 5) Tj
 ET
-endstream
-endobj
-7 0 obj
-<< /Length 6548 >>
-stream
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 790.00 Td
+64.00 372.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 790.00 Td
-(Step: Saare primes: 2 x 3 x 5) Tj
+76.00 372.00 Td
+(Step: Saare primes \(highest power\): 2, 3, 5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 357.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 357.00 Td
+(Step: LCM = 2 x 3 x 5) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 775.00 Td
+60.00 342.00 Td
 (   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 775.00 Td
+111.96 342.00 Td
 (LCM = 30) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 755.00 Td
-(Q7.) Tj
+60.00 321.00 Td
+(Example 7:  HCF=6, LCM=36, ek number=12 -> dusra?) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-80.79 755.00 Td
-(18 aur 27 ka HCF) Tj
+333.90 321.00 Td
+() Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 739.00 Td
+64.00 305.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 739.00 Td
-(Step: 18 = 2 x 3^2) Tj
+76.00 305.00 Td
+(Step: Rule: HCF x LCM = dono numbers ka product.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 724.00 Td
+64.00 290.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 724.00 Td
-(Step: 27 = 3^3) Tj
+76.00 290.00 Td
+(Step: 6 x 36 = 12 x dusra   ->   216 = 12 x dusra.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.740 0.200 0.200 rg
-64.00 709.00 Td
+64.00 275.00 Td
 (-) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-76.00 709.00 Td
-(Step: Common \(lowest\) = 3^2) Tj
+76.00 275.00 Td
+(Step: dusra = 216 / 12) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 694.00 Td
+60.00 260.00 Td
 (   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 694.00 Td
-(HCF = 9) Tj
+111.96 260.00 Td
+(Dusra number = 18) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 674.00 Td
-(Q8.) Tj
+60.00 239.00 Td
+(Example 8:  Bells 9 aur 12 min par bajti hain, saath kab?) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-80.79 674.00 Td
-(9 aur 12 ka LCM) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 658.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 658.00 Td
-(Step: 9 = 3^2) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 643.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 643.00 Td
-(Step: 12 = 2^2 x 3) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 628.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 628.00 Td
-(Step: Highest powers: 2^2 x 3^2) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 613.00 Td
-(   Answer:) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-111.96 613.00 Td
-(LCM = 36) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 593.00 Td
-(Q9.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-80.79 593.00 Td
-(20 aur 30 ka HCF) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 577.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 577.00 Td
-(Step: 20 = 2^2 x 5) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 562.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 562.00 Td
-(Step: 30 = 2 x 3 x 5) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 547.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 547.00 Td
-(Step: Common \(lowest\) = 2 x 5) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 532.00 Td
-(   Answer:) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-111.96 532.00 Td
-(HCF = 10) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 512.00 Td
-(Q10.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 512.00 Td
-(4, 5 aur 6 ka LCM) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 496.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 496.00 Td
-(Step: 4 = 2^2,  5 = 5,  6 = 2 x 3) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 481.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 481.00 Td
-(Step: Highest powers: 2^2, 3, 5) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 466.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 466.00 Td
-(Step: LCM = 2^2 x 3 x 5) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 451.00 Td
-(   Answer:) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-111.96 451.00 Td
-(LCM = 60) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 431.00 Td
-(Q11.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 431.00 Td
-(16 aur 24 ka HCF) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 415.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 415.00 Td
-(Step: 16 = 2^4) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 400.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 400.00 Td
-(Step: 24 = 2^3 x 3) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 385.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 385.00 Td
-(Step: Common \(lowest\) = 2^3) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 370.00 Td
-(   Answer:) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-111.96 370.00 Td
-(HCF = 8) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 350.00 Td
-(Q12.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 350.00 Td
-(14 aur 21 ka LCM) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 334.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 334.00 Td
-(Step: 14 = 2 x 7) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 319.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 319.00 Td
-(Step: 21 = 3 x 7) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 304.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 304.00 Td
-(Step: Saare primes: 2 x 3 x 7) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 289.00 Td
-(   Answer:) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-111.96 289.00 Td
-(LCM = 42) Tj
-ET
-BT
-/F2 11.00 Tf
-0.000 0.000 0.000 rg
-60.00 269.00 Td
-(Q13.) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-86.91 269.00 Td
-(7 aur 14 ka HCF) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 253.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 253.00 Td
-(Step: 7 = 7 \(prime\)) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 238.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 238.00 Td
-(Step: 14 = 2 x 7) Tj
+338.19 239.00 Td
+() Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2298,31 +1289,1037 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 223.00 Td
-(Step: Common = 7) Tj
+(Step: 'Saath bajna' matlab LCM nikalo.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 208.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 208.00 Td
+(Step: 9 = 3^2,  12 = 2^2 x 3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 193.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 193.00 Td
+(Step: LCM = 2^2 x 3^2) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 208.00 Td
+60.00 178.00 Td
 (   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 208.00 Td
-(HCF = 7) Tj
+111.96 178.00 Td
+(36 minute baad) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 188.00 Td
+60.00 157.00 Td
+(Example 9:  Sabse bada number jo 28 aur 42 ko divide kare) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+355.32 157.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 141.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 141.00 Td
+(Step: 'Sabse bada divide karne wala' = HCF.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 126.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 126.00 Td
+(Step: 28 = 2^2 x 7,  42 = 2 x 3 x 7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 111.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 111.00 Td
+(Step: Common = 2 x 7) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 96.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 96.00 Td
+(HCF = 14) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 6239 >>
+stream
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 790.00 Td
+(Example 10:  8 aur 9 ka HCF aur LCM  \(co-prime\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+306.35 790.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 774.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 774.00 Td
+(Step: 8 = 2^3,  9 = 3^2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 759.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 759.00 Td
+(Step: Koi common prime factor nahi -> HCF = 1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 744.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 744.00 Td
+(Step: LCM = dono ka product = 8 x 9) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 729.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 729.00 Td
+(HCF = 1,  LCM = 72) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 699.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 702.00 Td
+(8. Practice Questions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 686.00 m 535.28 686.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 676.00 Td
+(Pehle khud solve karne ki koshish karo. Neeche har question ka step-by-step solution diya gaya) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 660.00 Td
+(hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 641.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 641.00 Td
+(12 aur 16 ka HCF nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 623.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 623.00 Td
+(6 aur 9 ka LCM nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 605.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 605.00 Td
+(24 aur 36 ka HCF nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 587.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 587.00 Td
+(8 aur 12 ka LCM nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 569.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 569.00 Td
+(15 aur 25 ka HCF nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 551.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 551.00 Td
+(10 aur 15 ka LCM nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 533.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 533.00 Td
+(18 aur 27 ka HCF nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 515.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 515.00 Td
+(9 aur 12 ka LCM nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 497.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 497.00 Td
+(20 aur 30 ka HCF nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 479.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 479.00 Td
+(4, 5 aur 6 ka LCM nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 461.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 461.00 Td
+(16 aur 24 ka HCF nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 443.00 Td
+(Q12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 443.00 Td
+(14 aur 21 ka LCM nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 425.00 Td
+(Q13.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 425.00 Td
+(7 aur 14 ka HCF nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 407.00 Td
 (Q14.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 188.00 Td
-(3, 6 aur 9 ka LCM) Tj
+86.91 407.00 Td
+(3, 6 aur 9 ka LCM nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 389.00 Td
+(Q15.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 389.00 Td
+(36 aur 48 ka HCF nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 371.00 Td
+(Q16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 371.00 Td
+(5 aur 7 ka LCM nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 353.00 Td
+(Q17.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 353.00 Td
+(Do numbers ka HCF 4 aur LCM 48 hai. Ek number 16 hai, dusra number batao.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 335.00 Td
+(Q18.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 335.00 Td
+(Do ghantiyan 9 aur 12 minute ke interval par bajti hain. Kitne minute baad saath bajengi?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 317.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 317.00 Td
+(Sabse bada number jo 28 aur 42 dono ko exactly divide kare?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 299.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 299.00 Td
+(8 aur 10 ka LCM nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 281.00 Td
+(Q21.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 281.00 Td
+(30 aur 45 ka HCF nikalo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 263.00 Td
+(Q22.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 263.00 Td
+(6, 8 aur 12 ka LCM nikalo.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 236.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 239.00 Td
+(9. Step-by-Step Solutions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 223.00 m 535.28 223.00 l S
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 213.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 213.00 Td
+(12 aur 16 ka HCF) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 197.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 197.00 Td
+(Step: 12 = 2 x 2 x 3 = 2^2 x 3) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 182.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 182.00 Td
+(Step: 16 = 2 x 2 x 2 x 2 = 2^4) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 167.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 167.00 Td
+(Step: Common \(lowest power\) = 2^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 152.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 152.00 Td
+(HCF = 4) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 132.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 132.00 Td
+(6 aur 9 ka LCM) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 116.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 116.00 Td
+(Step: 6 = 2 x 3) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 101.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 101.00 Td
+(Step: 9 = 3^2) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 86.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 86.00 Td
+(Step: Highest powers: 2 aur 3^2 -> 2 x 3^2) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 6521 >>
+stream
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 790.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 790.00 Td
+(LCM = 18) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 770.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 770.00 Td
+(24 aur 36 ka HCF) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 754.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 754.00 Td
+(Step: 24 = 2^3 x 3) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 739.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 739.00 Td
+(Step: 36 = 2^2 x 3^2) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 724.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 724.00 Td
+(Step: Common \(lowest\) = 2^2 x 3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 709.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 709.00 Td
+(HCF = 12) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 689.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 689.00 Td
+(8 aur 12 ka LCM) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 673.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 673.00 Td
+(Step: 8 = 2^3) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 658.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 658.00 Td
+(Step: 12 = 2^2 x 3) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 643.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 643.00 Td
+(Step: Highest powers: 2^3 x 3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 628.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 628.00 Td
+(LCM = 24) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 608.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 608.00 Td
+(15 aur 25 ka HCF) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 592.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 592.00 Td
+(Step: 15 = 3 x 5) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 577.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 577.00 Td
+(Step: 25 = 5^2) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 562.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 562.00 Td
+(Step: Common = 5) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 547.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 547.00 Td
+(HCF = 5) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 527.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 527.00 Td
+(10 aur 15 ka LCM) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 511.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 511.00 Td
+(Step: 10 = 2 x 5) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 496.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 496.00 Td
+(Step: 15 = 3 x 5) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 481.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 481.00 Td
+(Step: Saare primes: 2 x 3 x 5) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 466.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 466.00 Td
+(LCM = 30) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 446.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 446.00 Td
+(18 aur 27 ka HCF) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 430.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 430.00 Td
+(Step: 18 = 2 x 3^2) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 415.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 415.00 Td
+(Step: 27 = 3^3) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 400.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 400.00 Td
+(Step: Common \(lowest\) = 3^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 385.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 385.00 Td
+(HCF = 9) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 365.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 365.00 Td
+(9 aur 12 ka LCM) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 349.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 349.00 Td
+(Step: 9 = 3^2) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 334.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 334.00 Td
+(Step: 12 = 2^2 x 3) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 319.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 319.00 Td
+(Step: Highest powers: 2^2 x 3^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 304.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 304.00 Td
+(LCM = 36) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 284.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 284.00 Td
+(20 aur 30 ka HCF) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 268.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 268.00 Td
+(Step: 20 = 2^2 x 5) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 253.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 253.00 Td
+(Step: 30 = 2 x 3 x 5) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 238.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 238.00 Td
+(Step: Common \(lowest\) = 2 x 5) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 223.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 223.00 Td
+(HCF = 10) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 203.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 203.00 Td
+(4, 5 aur 6 ka LCM) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 187.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 187.00 Td
+(Step: 4 = 2^2,  5 = 5,  6 = 2 x 3) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2334,7 +2331,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 172.00 Td
-(Step: 3 = 3,  6 = 2 x 3,  9 = 3^2) Tj
+(Step: Highest powers: 2^2, 3, 5) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2346,43 +2343,43 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 157.00 Td
-(Step: Highest powers: 2, 3^2) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 142.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 142.00 Td
-(Step: LCM = 2 x 3^2) Tj
+(Step: LCM = 2^2 x 3 x 5) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 127.00 Td
+60.00 142.00 Td
 (   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 127.00 Td
-(LCM = 18) Tj
+111.96 142.00 Td
+(LCM = 60) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 107.00 Td
-(Q15.) Tj
+60.00 122.00 Td
+(Q11.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 107.00 Td
-(36 aur 48 ka HCF) Tj
+86.91 122.00 Td
+(16 aur 24 ka HCF) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 106.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 106.00 Td
+(Step: 16 = 2^4) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2394,7 +2391,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 91.00 Td
-(Step: 36 = 2^2 x 3^2) Tj
+(Step: 24 = 2^3 x 3) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2406,48 +2403,48 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 76.00 Td
-(Step: 48 = 2^4 x 3) Tj
+(Step: Common \(lowest\) = 2^3) Tj
 ET
 endstream
 endobj
 8 0 obj
-<< /Length 5574 >>
+<< /Length 6698 >>
 stream
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 790.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 790.00 Td
-(Step: Common \(lowest\) = 2^2 x 3) Tj
-ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 775.00 Td
+60.00 790.00 Td
 (   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 775.00 Td
-(HCF = 12) Tj
+111.96 790.00 Td
+(HCF = 8) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 755.00 Td
-(Q16.) Tj
+60.00 770.00 Td
+(Q12.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 755.00 Td
-(5 aur 7 ka LCM) Tj
+86.91 770.00 Td
+(14 aur 21 ka LCM) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 754.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 754.00 Td
+(Step: 14 = 2 x 7) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2459,7 +2456,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 739.00 Td
-(Step: 5 aur 7 dono prime \(co-prime\) hain) Tj
+(Step: 21 = 3 x 7) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2471,43 +2468,43 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 724.00 Td
-(Step: Koi common factor nahi) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 709.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 709.00 Td
-(Step: LCM = 5 x 7) Tj
+(Step: Saare primes: 2 x 3 x 7) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 694.00 Td
+60.00 709.00 Td
 (   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 694.00 Td
-(LCM = 35) Tj
+111.96 709.00 Td
+(LCM = 42) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 674.00 Td
-(Q17.) Tj
+60.00 689.00 Td
+(Q13.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 674.00 Td
-(HCF=4, LCM=48, ek number=16 -> dusra?) Tj
+86.91 689.00 Td
+(7 aur 14 ka HCF) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 673.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 673.00 Td
+(Step: 7 = 7 \(prime\)) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2519,7 +2516,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 658.00 Td
-(Step: Rule: HCF x LCM = pehla x dusra) Tj
+(Step: 14 = 2 x 7) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2531,43 +2528,43 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 643.00 Td
-(Step: 4 x 48 = 16 x dusra -> 192 = 16 x dusra) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 628.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 628.00 Td
-(Step: dusra = 192 / 16) Tj
+(Step: Common = 7) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 613.00 Td
+60.00 628.00 Td
 (   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 613.00 Td
-(Dusra number = 12) Tj
+111.96 628.00 Td
+(HCF = 7) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 593.00 Td
-(Q18.) Tj
+60.00 608.00 Td
+(Q14.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 593.00 Td
-(Bells 9 aur 12 min, saath kab?) Tj
+86.91 608.00 Td
+(3, 6 aur 9 ka LCM) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 592.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 592.00 Td
+(Step: 3 = 3,  6 = 2 x 3,  9 = 3^2) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2579,7 +2576,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 577.00 Td
-(Step: 'Saath bajna' = LCM nikalo) Tj
+(Step: Highest powers: 2, 3^2) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2591,43 +2588,43 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 562.00 Td
-(Step: 9 = 3^2,  12 = 2^2 x 3) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 547.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 547.00 Td
-(Step: LCM = 2^2 x 3^2) Tj
+(Step: LCM = 2 x 3^2) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 532.00 Td
+60.00 547.00 Td
 (   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 532.00 Td
-(36 minute baad) Tj
+111.96 547.00 Td
+(LCM = 18) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 512.00 Td
-(Q19.) Tj
+60.00 527.00 Td
+(Q15.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 512.00 Td
-(Sabse bada number jo 28 aur 42 ko divide kare) Tj
+86.91 527.00 Td
+(36 aur 48 ka HCF) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 511.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 511.00 Td
+(Step: 36 = 2^2 x 3^2) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2639,7 +2636,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 496.00 Td
-(Step: Ye HCF hota hai) Tj
+(Step: 48 = 2^4 x 3) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2651,43 +2648,43 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 481.00 Td
-(Step: 28 = 2^2 x 7,  42 = 2 x 3 x 7) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 466.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 466.00 Td
-(Step: Common = 2 x 7) Tj
+(Step: Common \(lowest\) = 2^2 x 3) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 451.00 Td
+60.00 466.00 Td
 (   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 451.00 Td
-(HCF = 14) Tj
+111.96 466.00 Td
+(HCF = 12) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 431.00 Td
-(Q20.) Tj
+60.00 446.00 Td
+(Q16.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 431.00 Td
-(8 aur 10 ka LCM) Tj
+86.91 446.00 Td
+(5 aur 7 ka LCM) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 430.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 430.00 Td
+(Step: 5 aur 7 dono prime \(co-prime\) hain) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2699,7 +2696,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 415.00 Td
-(Step: 8 = 2^3) Tj
+(Step: Koi common factor nahi) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2711,43 +2708,43 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 400.00 Td
-(Step: 10 = 2 x 5) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 385.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 385.00 Td
-(Step: Highest powers: 2^3 x 5) Tj
+(Step: LCM = 5 x 7) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 370.00 Td
+60.00 385.00 Td
 (   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 370.00 Td
-(LCM = 40) Tj
+111.96 385.00 Td
+(LCM = 35) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 350.00 Td
-(Q21.) Tj
+60.00 365.00 Td
+(Q17.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 350.00 Td
-(30 aur 45 ka HCF) Tj
+86.91 365.00 Td
+(HCF=4, LCM=48, ek number=16 -> dusra?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 349.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 349.00 Td
+(Step: Rule: HCF x LCM = pehla x dusra) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2759,7 +2756,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 334.00 Td
-(Step: 30 = 2 x 3 x 5) Tj
+(Step: 4 x 48 = 16 x dusra -> 192 = 16 x dusra) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2771,43 +2768,43 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 319.00 Td
-(Step: 45 = 3^2 x 5) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 304.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 304.00 Td
-(Step: Common \(lowest\) = 3 x 5) Tj
+(Step: dusra = 192 / 16) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 289.00 Td
+60.00 304.00 Td
 (   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 289.00 Td
-(HCF = 15) Tj
+111.96 304.00 Td
+(Dusra number = 12) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 269.00 Td
-(Q22.) Tj
+60.00 284.00 Td
+(Q18.) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-86.91 269.00 Td
-(6, 8 aur 12 ka LCM) Tj
+86.91 284.00 Td
+(Bells 9 aur 12 min, saath kab?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 268.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 268.00 Td
+(Step: 'Saath bajna' = LCM nikalo) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2819,7 +2816,7 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 253.00 Td
-(Step: 6 = 2 x 3,  8 = 2^3,  12 = 2^2 x 3) Tj
+(Step: 9 = 3^2,  12 = 2^2 x 3) Tj
 ET
 BT
 /F1 11.00 Tf
@@ -2831,79 +2828,317 @@ BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
 76.00 238.00 Td
-(Step: Highest powers: 2^3, 3) Tj
-ET
-BT
-/F1 11.00 Tf
-0.740 0.200 0.200 rg
-64.00 223.00 Td
-(-) Tj
-ET
-BT
-/F1 11.00 Tf
-0.000 0.000 0.000 rg
-76.00 223.00 Td
-(Step: LCM = 2^3 x 3) Tj
+(Step: LCM = 2^2 x 3^2) Tj
 ET
 BT
 /F2 11.00 Tf
 0.000 0.000 0.000 rg
-60.00 208.00 Td
+60.00 223.00 Td
 (   Answer:) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-111.96 208.00 Td
-(LCM = 24) Tj
+111.96 223.00 Td
+(36 minute baad) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 203.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 203.00 Td
+(Sabse bada number jo 28 aur 42 ko divide kare) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 187.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 187.00 Td
+(Step: Ye HCF hota hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 172.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 172.00 Td
+(Step: 28 = 2^2 x 7,  42 = 2 x 3 x 7) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 157.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 157.00 Td
+(Step: Common = 2 x 7) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 142.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 142.00 Td
+(HCF = 14) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 122.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 122.00 Td
+(8 aur 10 ka LCM) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 106.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 106.00 Td
+(Step: 8 = 2^3) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 91.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 91.00 Td
+(Step: 10 = 2 x 5) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 76.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 76.00 Td
+(Step: Highest powers: 2^3 x 5) Tj
 ET
 endstream
 endobj
 9 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+<< /Length 1624 >>
+stream
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 790.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 790.00 Td
+(LCM = 40) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 770.00 Td
+(Q21.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 770.00 Td
+(30 aur 45 ka HCF) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 754.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 754.00 Td
+(Step: 30 = 2 x 3 x 5) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 739.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 739.00 Td
+(Step: 45 = 3^2 x 5) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 724.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 724.00 Td
+(Step: Common \(lowest\) = 3 x 5) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 709.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 709.00 Td
+(HCF = 15) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 689.00 Td
+(Q22.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 689.00 Td
+(6, 8 aur 12 ka LCM) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 673.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 673.00 Td
+(Step: 6 = 2 x 3,  8 = 2^3,  12 = 2^2 x 3) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 658.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 658.00 Td
+(Step: Highest powers: 2^3, 3) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 643.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 643.00 Td
+(Step: LCM = 2^3 x 3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 628.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 628.00 Td
+(LCM = 24) Tj
+ET
+endstream
 endobj
 10 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
 endobj
 11 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 3 0 R >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
 endobj
 12 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 4 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 10 0 R /F2 11 0 R >> >> /Contents 3 0 R >>
 endobj
 13 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 5 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 10 0 R /F2 11 0 R >> >> /Contents 4 0 R >>
 endobj
 14 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 6 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 10 0 R /F2 11 0 R >> >> /Contents 5 0 R >>
 endobj
 15 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 7 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 10 0 R /F2 11 0 R >> >> /Contents 6 0 R >>
 endobj
 16 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 8 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 10 0 R /F2 11 0 R >> >> /Contents 7 0 R >>
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 10 0 R /F2 11 0 R >> >> /Contents 8 0 R >>
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 10 0 R /F2 11 0 R >> >> /Contents 9 0 R >>
 endobj
 xref
-0 17
+0 19
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
-0000000157 00000 n 
-0000006574 00000 n 
-0000013007 00000 n 
-0000019577 00000 n 
-0000026016 00000 n 
-0000032616 00000 n 
-0000038242 00000 n 
-0000038339 00000 n 
-0000038442 00000 n 
-0000038586 00000 n 
-0000038730 00000 n 
-0000038874 00000 n 
-0000039018 00000 n 
-0000039162 00000 n 
+0000000164 00000 n 
+0000006744 00000 n 
+0000013320 00000 n 
+0000020365 00000 n 
+0000026656 00000 n 
+0000033229 00000 n 
+0000039979 00000 n 
+0000041655 00000 n 
+0000041753 00000 n 
+0000041856 00000 n 
+0000042001 00000 n 
+0000042146 00000 n 
+0000042291 00000 n 
+0000042436 00000 n 
+0000042581 00000 n 
+0000042726 00000 n 
 trailer
-<< /Size 17 /Root 1 0 R >>
+<< /Size 19 /Root 1 0 R >>
 startxref
-39306
+42871
 %%EOF

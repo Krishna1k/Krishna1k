@@ -26,7 +26,9 @@ def build_document():
            "operations (jod-ghata-guna-bhaag) simple Hinglish me samjhaye gaye hain, "
            "aur end me 22 practice questions ke STEP-BY-STEP solutions diye gaye hain.",
            color=GREY)
-    d.space(6)
+    d.space(4)
+    d.legend_exam()
+    d.space(4)
 
     # ---- 1. What is a fraction --------------------------------------
     d.h2("1. Fraction kya hota hai?")
@@ -42,6 +44,7 @@ def build_document():
 
     # ---- 2. Types ----------------------------------------------------
     d.h2("2. Fractions ke Types")
+    d.exam_tag()
     d.bullet("Proper Fraction: numerator < denominator. Jaise 3/4, 2/5.")
     d.bullet("Improper Fraction: numerator >= denominator. Jaise 7/4, 5/5.")
     d.bullet("Mixed Fraction: whole number + proper fraction. Jaise 1 3/4.")
@@ -53,6 +56,7 @@ def build_document():
 
     # ---- 3. Equivalent & simplest form ------------------------------
     d.h2("3. Equivalent Fractions aur Simplest Form")
+    d.exam_tag()
     d.label_body("Equivalent banane:", "Numerator aur denominator dono ko same number "
                  "se multiply ya divide karo. Jaise 1/2 = (1x2)/(2x2) = 2/4.")
     d.label_body("Simplest Form:", "Numerator aur denominator ko unke HCF se divide karo "
@@ -62,6 +66,7 @@ def build_document():
 
     # ---- 4. Comparing ------------------------------------------------
     d.h2("4. Fractions ki Comparison")
+    d.exam_tag()
     d.bullet("Same denominator ho to bada numerator wala fraction bada hota hai. "
              "Jaise 3/5 > 2/5.")
     d.bullet("Alag denominator ho to LCM lekar same denominator banao, fir compare karo.")
@@ -71,6 +76,7 @@ def build_document():
 
     # ---- 5. Operations ----------------------------------------------
     d.h2("5. Fractions par Operations")
+    d.exam_tag()
     d.label_body("(a) Addition / Subtraction:", "Same denominator ho to numerators jodo/"
                  "ghatao, denominator wahi rakho. Alag ho to pehle LCM se same banao.")
     d.bullet("Example: 1/2 + 1/3 -> LCM 6 -> 3/6 + 2/6 = 5/6")
@@ -90,6 +96,19 @@ def build_document():
     d.bullet("Example: 2 1/3 -> (2x3)+1 = 7 -> 7/3")
     d.label_body("Fraction -> Decimal:", "Numerator ko denominator se divide karo. "
                  "Jaise 1/4 = 0.25.")
+    d.space(6)
+
+    # ---- 6B. Reciprocal & Ordering ----------------------------------
+    d.h2("6B. Reciprocal aur Ascending/Descending Order")
+    d.exam_tag()
+    d.label_body("Reciprocal (ulta):", "Fraction ko ulta kar do - numerator aur "
+                 "denominator swap. Jaise 3/4 ka reciprocal 4/3.")
+    d.bullet("Fraction aur uske reciprocal ka product hamesha 1 hota hai: 3/4 x 4/3 = 1.")
+    d.bullet("1 ka reciprocal 1 hai; 5 (=5/1) ka reciprocal 1/5 hai.")
+    d.label_body("Ascending / Descending:", "Pehle saare fractions ko same denominator "
+                 "(LCM) me badlo, fir numerators dekh kar order lagao.")
+    d.bullet("Example: 1/2, 1/3, 1/4 ko ascending me -> LCM 12 -> 6/12, 4/12, 3/12 "
+             "-> 1/4 < 1/3 < 1/2.")
     d.space(6)
 
     # ---- Quick summary ----------------------------------------------

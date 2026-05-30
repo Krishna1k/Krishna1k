@@ -24,7 +24,9 @@ def build_document():
            "EXAMPLES (sabse HARD se sabse EASY tak, har level cover karte hue), aur end "
            "me 22 practice questions ke STEP-BY-STEP solutions diye gaye hain.",
            color=GREY)
-    d.space(6)
+    d.space(4)
+    d.legend_exam()
+    d.space(4)
 
     # ---- What is a square root --------------------------------------
     d.h2("1. Square Root kya hota hai?")
@@ -40,6 +42,7 @@ def build_document():
 
     # ---- Perfect squares --------------------------------------------
     d.h2("2. Perfect Squares")
+    d.exam_tag()
     d.label_body("Definition:", "Perfect square wo number hota hai jiska square root ek "
                  "pura (whole) number ho.")
     d.label_body("Examples:", "1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144 ...")
@@ -47,11 +50,21 @@ def build_document():
     d.bullet("Perfect squares ke square root exact whole numbers hote hain.")
     d.bullet("2, 3, 5, 7 jaise numbers perfect square nahi hain; inke root non-ending "
              "decimals (irrational) hote hain, jaise sqrt(2) = 1.414...")
-    d.bullet("Perfect square kabhi 2, 3, 7 ya 8 par khatam nahi hota.")
+    d.bullet("Pehchaan: perfect square ke end me sirf 0, 1, 4, 5, 6 ya 9 aata hai.")
+    d.bullet("Perfect square kabhi 2, 3, 7 ya 8 par khatam NAHI hota.")
+    d.space(4)
+    d.label_body("Squares Table (1 se 20) - yaad karo:", "")
+    d.box_note([
+        "1^2=1      2^2=4      3^2=9      4^2=16     5^2=25",
+        "6^2=36     7^2=49     8^2=64     9^2=81     10^2=100",
+        "11^2=121   12^2=144   13^2=169   14^2=196   15^2=225",
+        "16^2=256   17^2=289   18^2=324   19^2=361   20^2=400",
+    ])
     d.space(6)
 
     # ---- Methods -----------------------------------------------------
     d.h2("3. Square Root Nikalne ke Methods")
+    d.exam_tag()
     d.label_body("(a) Prime Factorisation:", "Number ko prime factors me todo, pairs "
                  "banao, aur har pair me se ek factor lo.")
     d.bullet("Example: 144 = 2x2 x 2x2 x 3x3  ->  2 x 2 x 3 = 12, to sqrt(144) = 12")
@@ -68,7 +81,19 @@ def build_document():
     d.bullet("sqrt(a x b) = sqrt(a) x sqrt(b)")
     d.bullet("sqrt(a / b) = sqrt(a) / sqrt(b)")
     d.bullet("sqrt(0) = 0  aur  sqrt(1) = 1")
+    d.bullet("(sqrt(a))^2 = a  aur  sqrt(a^2) = a")
     d.bullet("Negative number ka koi real square root nahi hota.")
+    d.space(6)
+
+    # ---- Pythagorean triplets ---------------------------------------
+    d.h2("4B. Pythagorean Triplets")
+    d.exam_tag()
+    d.label_body("Kya hai:", "Teen numbers (a, b, c) jinme a^2 + b^2 = c^2 ho. Right-"
+                 "angle triangle me kaam aate hain.")
+    d.bullet("Famous triplets: (3, 4, 5), (5, 12, 13), (8, 15, 17), (7, 24, 25).")
+    d.bullet("Check: 3^2 + 4^2 = 9 + 16 = 25 = 5^2. Sahi!")
+    d.bullet("Kisi triplet ko same number se multiply karne par naya triplet milta hai: "
+             "(3, 4, 5) x 2 = (6, 8, 10).")
     d.space(6)
 
     # ---- Perfect squares between 100 and 200 ------------------------

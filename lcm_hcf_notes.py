@@ -24,7 +24,9 @@ def build_document():
            "methods, relationship, fir 10 SOLVED EXAMPLES (samjho kaise solve karte "
            "hain), aur end me 22 practice questions ke STEP-BY-STEP solutions diye gaye "
            "hain.", color=GREY)
-    d.space(6)
+    d.space(4)
+    d.legend_exam()
+    d.space(4)
 
     # ---- Quick recap -------------------------------------------------
     d.h2("1. Quick Recap: Factor aur Multiple")
@@ -36,6 +38,7 @@ def build_document():
 
     # ---- HCF ---------------------------------------------------------
     d.h2("2. HCF (Highest Common Factor)")
+    d.exam_tag()
     d.label_body("Definition:", "Wo sabse bada number jo do ya zyada numbers ko exactly "
                  "divide kar de. Ise GCD (Greatest Common Divisor) bhi kehte hain.")
     d.label_body("Example:", "12 aur 18 ka HCF:")
@@ -49,6 +52,7 @@ def build_document():
 
     # ---- LCM ---------------------------------------------------------
     d.h2("3. LCM (Least Common Multiple)")
+    d.exam_tag()
     d.label_body("Definition:", "Wo sabse chhota number jo do ya zyada numbers se exactly "
                  "divide ho jaye (sabse chhota common multiple).")
     d.label_body("Example:", "4 aur 6 ka LCM:")
@@ -61,6 +65,7 @@ def build_document():
 
     # ---- Methods -----------------------------------------------------
     d.h2("4. HCF aur LCM Nikalne ke Methods")
+    d.exam_tag()
     d.label_body("(a) Prime Factorisation:", "Har number ko prime factors me todo.")
     d.bullet("HCF = common prime factors ka product (lowest power lo).")
     d.bullet("LCM = saare prime factors ka product (highest power lo).")
@@ -75,6 +80,7 @@ def build_document():
 
     # ---- Relationship ------------------------------------------------
     d.h2("5. HCF aur LCM ka Relationship")
+    d.exam_tag()
     d.body("Kisi bhi do numbers ke liye ye rule hamesha sahi hota hai:", color=GREY)
     d.space(2)
     d.box_note([
@@ -90,6 +96,24 @@ def build_document():
     d.bullet("HCF ka relation FACTORS se hai; LCM ka relation MULTIPLES se.")
     d.bullet("HCF = sabse bada common factor; LCM = sabse chhota common multiple.")
     d.bullet("HCF <= chhota number; LCM >= bada number.")
+    d.space(6)
+
+    # ---- 6B. Fractions ka HCF/LCM -----------------------------------
+    d.h2("6B. Fractions ka HCF aur LCM")
+    d.exam_tag()
+    d.label_body("HCF of fractions:", "HCF(numerators) / LCM(denominators).")
+    d.bullet("Example: 2/3 aur 4/9 ka HCF = HCF(2,4) / LCM(3,9) = 2/9.")
+    d.label_body("LCM of fractions:", "LCM(numerators) / HCF(denominators).")
+    d.bullet("Example: 2/3 aur 4/9 ka LCM = LCM(2,4) / HCF(3,9) = 4/3.")
+    d.space(6)
+
+    # ---- 6C. Word problem hints -------------------------------------
+    d.h2("6C. Word Problems - Kab HCF, Kab LCM?")
+    d.exam_tag()
+    d.bullet("'Saath bajna / ek saath milna / ghoom kar same point' -> LCM.")
+    d.bullet("'Sabse chhoti quantity jo sabse divide ho jaye' -> LCM.")
+    d.bullet("'Sabse bada number / greatest length jo poora baant de' -> HCF.")
+    d.bullet("'Max barabar groups / max students me equal baatna' -> HCF.")
     d.space(6)
 
     # ---- Solved Examples (teaching) ---------------------------------

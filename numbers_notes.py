@@ -67,6 +67,8 @@ NAVY = (0.13, 0.20, 0.45)
 ACCENT = (0.74, 0.20, 0.20)
 GREY = (0.30, 0.30, 0.30)
 BLACK = (0, 0, 0)
+GREEN = (0.0, 0.50, 0.18)
+LIGHT_GREEN = (0.88, 0.96, 0.88)
 
 
 class PDFBuilder:
@@ -205,6 +207,27 @@ class PDFBuilder:
             yy -= lead
         self.y = top - height
 
+    def exam_tag(self, note="Exam me CONSTANTLY aata hai"):
+        """Green 'EXAM' badge marking an exam-frequent topic."""
+        label = "EXAM"
+        size = 8
+        pad = 4
+        self.ensure(15)
+        bw = text_width(label, size) + pad * 2
+        x = LEFT + 16
+        y = self.y
+        # green filled badge with white text
+        self.rect(x, y - 2, bw, 12, GREEN)
+        self._draw_line_text(x + pad, y, label, "F2", size, (1, 1, 1))
+        # note text in green next to badge
+        self._draw_line_text(x + bw + 6, y, "* " + note, "F2", 8.5, GREEN)
+        self.y -= 15
+
+    def legend_exam(self):
+        """Small explanation of the green EXAM tag."""
+        self.exam_tag("aise green tag wale topics exams me baar-baar aate hain")
+        self.space(2)
+
 
 # ----------------------------------------------------------------------
 # Assemble the actual document content (Hinglish)
@@ -218,12 +241,16 @@ def build_document():
     d.space(10)
     d.body("Maths me numbers ko alag-alag families me baanta jata hai, aur har family "
            "pichli wali ke upar bani hoti hai. Is guide me har type ko simple Hinglish "
-           "me examples ke saath samjhaya gaya hai, aur end me 22 practice questions "
-           "(answer key ke saath) diye gaye hain.", color=GREY)
-    d.space(6)
+           "me examples ke saath samjhaya gaya hai, fir solved examples aur end me 22 "
+           "practice questions ke step-by-step solutions diye gaye hain.", color=GREY)
+    d.space(4)
+    d.legend_exam()
+    d.space(4)
 
-    def section(title, definition, symbol, examples, notes):
+    def section(title, definition, symbol, examples, notes, exam=False):
         d.h2(title)
+        if exam:
+            d.exam_tag()
         d.label_body("Definition:", definition)
         if symbol:
             d.label_body("Symbol:", symbol)
@@ -268,6 +295,7 @@ def build_document():
             "Integers me koi fraction ya decimal nahi hota.",
             "Zero ek integer hai jo na positive hai na negative.",
         ],
+        exam=True,
     )
 
     section(
@@ -281,6 +309,7 @@ def build_document():
             "Har integer bhi ek rational number hai.",
             "Denominator q kabhi 0 nahi ho sakta.",
         ],
+        exam=True,
     )
 
     section(
@@ -294,6 +323,7 @@ def build_document():
             "Non-perfect squares ke square root irrational hote hain (sqrt2, sqrt3, sqrt5).",
             "pi aur e sabse famous irrational numbers hain.",
         ],
+        exam=True,
     )
 
     section(
@@ -307,6 +337,7 @@ def build_document():
             "Roz-marra ke lagbhag saare numbers real numbers hote hain.",
             "sqrt(-1) jaise numbers real NAHI hote - unhe imaginary numbers kehte hain.",
         ],
+        exam=True,
     )
 
     section(
@@ -333,7 +364,24 @@ def build_document():
             "1 na prime hai na composite.",
             "Sabse chhota prime 2 hai; sabse chhota composite 4 hai.",
         ],
+        exam=True,
     )
+
+    # ---- 9. More important types ------------------------------------
+    d.h2("9. Aur Zaroori Types (Exam Favourite)")
+    d.exam_tag()
+    d.label_body("Co-prime Numbers:", "Do numbers jinka HCF sirf 1 ho. Jaroori nahi ki "
+                 "wo khud prime hon. Jaise (8, 9), (15, 16).")
+    d.label_body("Consecutive Numbers:", "Lagatar aane wale numbers jaise 5, 6, 7. Do "
+                 "consecutive numbers ka antar hamesha 1 hota hai.")
+    d.label_body("Twin Primes:", "Aise do prime numbers jinke beech sirf 2 ka antar ho. "
+                 "Jaise (3, 5), (11, 13), (17, 19).")
+    d.label_body("Perfect Numbers:", "Wo number jiske apne factors ka jod (khud ko "
+                 "chhodkar) usi number ke barabar ho. Jaise 6 = 1 + 2 + 3.")
+    d.label_body("Number Line:", "Ek seedhi line jisme left me negative, beech me 0, "
+                 "aur right me positive numbers hote hain. Har real number is par ek "
+                 "point hota hai.")
+    d.space(6)
 
     d.h2("Quick Revision Summary")
     d.body("Number families ek dusre ke andar aise fit hoti hain:", color=GREY)
@@ -346,10 +394,66 @@ def build_document():
     ])
     d.space(6)
 
+    # ---- Solved Examples --------------------------------------------
+    d.h2("Solved Examples - Samjho Kaise Pehchante Hain")
+    d.body("Neeche 10 examples step-by-step solve karke dikhaye gaye hain, taaki number "
+           "classify karna aur reasoning clear ho jaye.", color=GREY)
+    d.space(3)
+
+    examples = [
+        ("Example 1:  -7 kis type ka number hai?",
+         ["Negative hai, isliye natural ya whole nahi.",
+          "Bina fraction ke poora number hai -> Integer.",
+          "-7 = -7/1 likh sakte hain -> Rational bhi hai."],
+         "Integer (aur Rational)"),
+        ("Example 2:  sqrt(16) rational hai ya irrational?",
+         ["Pehle value nikalo: sqrt(16) = 4.",
+          "4 ek whole number hai -> 4/1 (p/q form).",
+          "(Trick: 16 perfect square hai, isliye root rational nikla!)"],
+         "Rational"),
+        ("Example 3:  0.1010010001... rational ya irrational?",
+         ["Decimal kabhi khatam nahi hota aur koi pattern repeat nahi karta."],
+         "Irrational"),
+        ("Example 4:  0.6 ko p/q form me likho.",
+         ["0.6 = 6/10.",
+          "HCF 2 se simplify: 6/10 = 3/5."],
+         "3/5"),
+        ("Example 5:  Kya 14 aur 15 co-prime hain?",
+         ["14 = 2 x 7,  15 = 3 x 5.",
+          "Koi common factor nahi -> HCF = 1."],
+         "Haan, co-prime hain"),
+        ("Example 6:  1 prime hai, composite hai, ya dono nahi?",
+         ["Prime ke 2 factors hote hain; composite ke 2 se zyada.",
+          "1 ka sirf ek factor hai (khud)."],
+         "Dono nahi (neither)"),
+        ("Example 7:  1/3 aur 1/2 ke beech ek rational number batao.",
+         ["Dono ka average lo: (1/3 + 1/2) / 2.",
+          "= (5/6) / 2 = 5/12 (ye 1/3 aur 1/2 ke beech hai)."],
+         "5/12"),
+        ("Example 8:  Sabse chhota 2-digit prime number?",
+         ["10 composite hai (2 x 5).",
+          "11 ke factors sirf 1 aur 11."],
+         "11"),
+        ("Example 9:  Kya 2 ke alawa koi even prime hai?",
+         ["Har dusra even number 2 se divide hota hai.",
+          "Isliye uske 2 se zyada factors -> composite."],
+         "Nahi, sirf 2"),
+        ("Example 10:  pi ko classify karo.",
+         ["pi = 3.14159... non-terminating, non-repeating.",
+          "Isliye Irrational; aur number line par hai to Real bhi."],
+         "Irrational (aur Real)"),
+    ]
+    for q, steps, ans in examples:
+        d.label_body(q, "")
+        for s in steps:
+            d.bullet(f"Step: {s}")
+        d.label_body("   Answer:", ans)
+        d.space(5)
+
     # ---- Practice Questions -----------------------------------------
-    d.h2("Practice Questions (Khud Try Karo!)")
-    d.body("In 22 questions ko khud solve karne ki koshish karo. Answers neeche answer "
-           "key me diye gaye hain.", color=GREY)
+    d.h2("Practice Questions")
+    d.body("Pehle khud solve karne ki koshish karo. Neeche har question ka step-by-step "
+           "solution diya gaya hai.", color=GREY)
     d.space(3)
 
     questions = [
@@ -380,34 +484,61 @@ def build_document():
         d.label_body(f"Q{i}.", q)
         d.space(2)
 
-    # ---- Answer Key --------------------------------------------------
-    d.h2("Answer Key")
-    answers = [
-        "1   (sabse chhota natural number)",
-        "0   (sabse chhota whole number)",
-        "Nahi   (0 natural number nahi hai)",
-        "Haan   (0 whole number hai)",
-        "Integer   (negative hone ke kaaran natural/whole nahi)",
-        "Haan   (par 0 whole hai, natural nahi)",
-        "Rational number   (p/q form me likha ja sakta hai)",
-        "Irrational   (p/q form me nahi likh sakte)",
-        "Irrational   (non-terminating, non-repeating)",
-        "7/1",
-        "Haan   (0.75 terminating decimal hai)",
-        "2",
-        "Dono nahi - 1 na prime hai na composite",
-        "Nahi - 2 hi ekmatra even prime hai",
-        "Composite   (sabke 2 se zyada factors hain)",
-        "Even   (0 even number hai)",
-        "Prime   (factors sirf 1 aur 17)",
-        "Rational + Irrational numbers",
-        "Nahi   (ye imaginary number hai)",
-        "Integers",
-        "Factors: 1, 3, 9 - Haan, 9 composite hai (2 se zyada factors)",
-        "Rational   (repeating decimal = 1/3)",
+    # ---- Step-by-Step Solutions -------------------------------------
+    d.h2("Step-by-Step Solutions")
+    solutions = [
+        ("Sabse chhota natural number?",
+         ["Natural numbers 1 se shuru hote hain."], "1"),
+        ("Sabse chhota whole number?",
+         ["Whole numbers 0 se shuru hote hain."], "0"),
+        ("Kya 0 ek natural number hai?",
+         ["Natural 1 se shuru; 0 unme nahi aata."], "Nahi"),
+        ("Kya 0 ek whole number hai?",
+         ["Whole = Natural + 0, isliye 0 whole hai."], "Haan"),
+        ("-5 kis type ka number hai?",
+         ["Negative hai -> natural/whole nahi.", "Bina fraction ke poora -> Integer."],
+         "Integer (aur Rational)"),
+        ("Kya har natural number whole hota hai?",
+         ["Whole = Natural + 0, to har natural whole hai."], "Haan"),
+        ("3/4 kis type ka number hai?",
+         ["p/q form me hai (q != 0)."], "Rational"),
+        ("sqrt(2) rational ya irrational?",
+         ["sqrt(2) = 1.414... non-terminating, non-repeating."], "Irrational"),
+        ("pi rational ya irrational?",
+         ["pi = 3.14159... kabhi khatam/repeat nahi hota."], "Irrational"),
+        ("7 ko p/q form me likho.",
+         ["Kisi whole number ko /1 likh sakte hain."], "7/1"),
+        ("Kya 0.75 rational hai?",
+         ["0.75 = 75/100 = 3/4 (terminating decimal)."], "Haan"),
+        ("Sabse chhota prime number?",
+         ["1 prime nahi; 2 ke sirf 2 factors (1, 2)."], "2"),
+        ("1 prime hai ya composite?",
+         ["1 ka sirf ek factor hai (khud)."], "Dono nahi (neither)"),
+        ("2 ke alawa koi even prime?",
+         ["Baaki even numbers 2 se divisible -> 2 se zyada factors."], "Nahi"),
+        ("4, 6, 8 prime ya composite?",
+         ["Sabke 2 se zyada factors hain."], "Composite"),
+        ("0 even hai ya odd?",
+         ["0 ko 2 poora divide karta hai (0/2 = 0)."], "Even"),
+        ("17 prime ya composite?",
+         ["17 ke factors sirf 1 aur 17."], "Prime"),
+        ("Real numbers kis-kis se bante hain?",
+         ["Real = Rational + Irrational."], "Rational + Irrational"),
+        ("Kya sqrt(-1) real number hai?",
+         ["Kisi real number ka square negative nahi hota."], "Nahi (imaginary)"),
+        ("-3, 0, 5 kis category me aate hain?",
+         ["Teeno bina fraction ke poore numbers hain."], "Integers"),
+        ("9 ke factors; kya 9 composite hai?",
+         ["Factors: 1, 3, 9 -> 2 se zyada factors."], "1,3,9; Haan composite"),
+        ("0.333... rational ya irrational?",
+         ["Repeating decimal = 1/3, p/q form me likha ja sakta hai."], "Rational"),
     ]
-    for i, a in enumerate(answers, start=1):
-        d.bullet(f"Q{i}: {a}")
+    for i, (q, steps, ans) in enumerate(solutions, start=1):
+        d.label_body(f"Q{i}.", q)
+        for s in steps:
+            d.bullet(f"Step: {s}")
+        d.label_body("   Answer:", ans)
+        d.space(4)
 
     return d
 
