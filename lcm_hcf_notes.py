@@ -20,9 +20,10 @@ def build_document():
     d.hline(LEFT, PAGE_W - RIGHT, d.y + 4, NAVY, 1.2)
     d.space(10)
     d.body("HCF aur LCM do important concepts hain jo numbers ke factors aur multiples "
-           "par based hain. Is guide me dono ko simple Hinglish me examples ke saath "
-           "samjhaya gaya hai - methods, relationship, aur end me 22 practice questions "
-           "(answer key ke saath) diye gaye hain.", color=GREY)
+           "par based hain. Is guide me dono ko simple Hinglish me samjhaya gaya hai - "
+           "methods, relationship, fir 10 SOLVED EXAMPLES (samjho kaise solve karte "
+           "hain), aur end me 22 practice questions ke STEP-BY-STEP solutions diye gaye "
+           "hain.", color=GREY)
     d.space(6)
 
     # ---- Quick recap -------------------------------------------------
@@ -91,10 +92,84 @@ def build_document():
     d.bullet("HCF <= chhota number; LCM >= bada number.")
     d.space(6)
 
+    # ---- Solved Examples (teaching) ---------------------------------
+    d.h2("7. Solved Examples - Samjho Kaise Solve Karte Hain")
+    d.body("Neeche 10 examples step-by-step solve karke dikhaye gaye hain, taaki HCF/LCM "
+           "ke saare methods clear ho jayein (prime factorisation, division method, "
+           "relationship aur word problems).", color=GREY)
+    d.space(3)
+
+    examples = [
+        ("Example 1:  12 aur 18 ka HCF  (Prime Factorisation)",
+         ["12 = 2 x 2 x 3",
+          "18 = 2 x 3 x 3",
+          "Common factors chuno (jo dono me hain): ek 2 aur ek 3.",
+          "HCF = 2 x 3"],
+         "HCF = 6"),
+        ("Example 2:  12 aur 18 ka LCM  (Prime Factorisation)",
+         ["12 = 2^2 x 3",
+          "18 = 2 x 3^2",
+          "Har prime ki HIGHEST power lo: 2^2 aur 3^2.",
+          "LCM = 2^2 x 3^2 = 4 x 9"],
+         "LCM = 36"),
+        ("Example 3:  24 aur 36 ka HCF",
+         ["24 = 2^3 x 3",
+          "36 = 2^2 x 3^2",
+          "Common primes ki LOWEST power: 2^2 aur 3.",
+          "HCF = 2^2 x 3 = 4 x 3"],
+         "HCF = 12"),
+        ("Example 4:  48 aur 36 ka HCF  (Division Method)",
+         ["Bade ko chhote se divide: 48 div 36 = 1, remainder 12.",
+          "Ab divisor (36) ko remainder (12) se: 36 div 12 = 3, remainder 0.",
+          "Remainder 0 aa gaya -> last divisor hi HCF hai."],
+         "HCF = 12"),
+        ("Example 5:  8, 12, 16 ka LCM  (Common Division)",
+         ["2 | 8, 12, 16   ->   4, 6, 8",
+          "2 | 4, 6, 8     ->   2, 3, 4",
+          "2 | 2, 3, 4     ->   1, 3, 2",
+          "3 | 1, 3, 2     ->   1, 1, 2",
+          "2 | 1, 1, 2     ->   1, 1, 1",
+          "Saare divisors multiply: 2 x 2 x 2 x 3 x 2"],
+         "LCM = 48"),
+        ("Example 6:  10 aur 15 ka LCM",
+         ["10 = 2 x 5",
+          "15 = 3 x 5",
+          "Saare primes (highest power): 2, 3, 5.",
+          "LCM = 2 x 3 x 5"],
+         "LCM = 30"),
+        ("Example 7:  HCF=6, LCM=36, ek number=12 -> dusra?",
+         ["Rule: HCF x LCM = dono numbers ka product.",
+          "6 x 36 = 12 x dusra   ->   216 = 12 x dusra.",
+          "dusra = 216 / 12"],
+         "Dusra number = 18"),
+        ("Example 8:  Bells 9 aur 12 min par bajti hain, saath kab?",
+         ["'Saath bajna' matlab LCM nikalo.",
+          "9 = 3^2,  12 = 2^2 x 3.",
+          "LCM = 2^2 x 3^2"],
+         "36 minute baad"),
+        ("Example 9:  Sabse bada number jo 28 aur 42 ko divide kare",
+         ["'Sabse bada divide karne wala' = HCF.",
+          "28 = 2^2 x 7,  42 = 2 x 3 x 7.",
+          "Common = 2 x 7"],
+         "HCF = 14"),
+        ("Example 10:  8 aur 9 ka HCF aur LCM  (co-prime)",
+         ["8 = 2^3,  9 = 3^2.",
+          "Koi common prime factor nahi -> HCF = 1.",
+          "LCM = dono ka product = 8 x 9"],
+         "HCF = 1,  LCM = 72"),
+    ]
+
+    for q, steps, ans in examples:
+        d.label_body(q, "")
+        for s in steps:
+            d.bullet(f"Step: {s}")
+        d.label_body("   Answer:", ans)
+        d.space(5)
+
     # ---- Practice Questions -----------------------------------------
-    d.h2("7. Practice Questions (Khud Try Karo!)")
-    d.body("In 22 questions ko khud solve karne ki koshish karo. Answers neeche answer "
-           "key me diye gaye hain.", color=GREY)
+    d.h2("8. Practice Questions")
+    d.body("Pehle khud solve karne ki koshish karo. Neeche har question ka step-by-step "
+           "solution diya gaya hai.", color=GREY)
     d.space(3)
 
     questions = [
@@ -126,34 +201,91 @@ def build_document():
         d.label_body(f"Q{i}.", q)
         d.space(2)
 
-    # ---- Answer Key --------------------------------------------------
-    d.h2("8. Answer Key")
-    answers = [
-        "HCF = 4   (12 = 2^2 x 3, 16 = 2^4, common = 2^2 = 4)",
-        "LCM = 18  (6 = 2 x 3, 9 = 3^2, LCM = 2 x 3^2 = 18)",
-        "HCF = 12  (24 = 2^3 x 3, 36 = 2^2 x 3^2, common = 2^2 x 3 = 12)",
-        "LCM = 24  (8 = 2^3, 12 = 2^2 x 3, LCM = 2^3 x 3 = 24)",
-        "HCF = 5   (15 = 3 x 5, 25 = 5^2, common = 5)",
-        "LCM = 30  (10 = 2 x 5, 15 = 3 x 5, LCM = 2 x 3 x 5 = 30)",
-        "HCF = 9   (18 = 2 x 3^2, 27 = 3^3, common = 3^2 = 9)",
-        "LCM = 36  (9 = 3^2, 12 = 2^2 x 3, LCM = 2^2 x 3^2 = 36)",
-        "HCF = 10  (20 = 2^2 x 5, 30 = 2 x 3 x 5, common = 2 x 5 = 10)",
-        "LCM = 60  (4 = 2^2, 5 = 5, 6 = 2 x 3, LCM = 2^2 x 3 x 5 = 60)",
-        "HCF = 8   (16 = 2^4, 24 = 2^3 x 3, common = 2^3 = 8)",
-        "LCM = 42  (14 = 2 x 7, 21 = 3 x 7, LCM = 2 x 3 x 7 = 42)",
-        "HCF = 7   (7 = 7, 14 = 2 x 7, common = 7)",
-        "LCM = 18  (3, 6 = 2 x 3, 9 = 3^2, LCM = 2 x 3^2 = 18)",
-        "HCF = 12  (36 = 2^2 x 3^2, 48 = 2^4 x 3, common = 2^2 x 3 = 12)",
-        "LCM = 35  (5 aur 7 co-prime hain, LCM = 5 x 7 = 35)",
-        "Dusra number = 12   ((HCF x LCM) / 16 = (4 x 48) / 16 = 192 / 16 = 12)",
-        "36 minute baad   (LCM of 9 aur 12 = 36)",
-        "HCF = 14  (28 = 2^2 x 7, 42 = 2 x 3 x 7, common = 2 x 7 = 14)",
-        "LCM = 40  (8 = 2^3, 10 = 2 x 5, LCM = 2^3 x 5 = 40)",
-        "HCF = 15  (30 = 2 x 3 x 5, 45 = 3^2 x 5, common = 3 x 5 = 15)",
-        "LCM = 24  (6 = 2 x 3, 8 = 2^3, 12 = 2^2 x 3, LCM = 2^3 x 3 = 24)",
+    # ---- Step-by-Step Solutions -------------------------------------
+    d.h2("9. Step-by-Step Solutions")
+
+    solutions = [
+        ("12 aur 16 ka HCF",
+         ["12 = 2 x 2 x 3 = 2^2 x 3", "16 = 2 x 2 x 2 x 2 = 2^4",
+          "Common (lowest power) = 2^2"],
+         "HCF = 4"),
+        ("6 aur 9 ka LCM",
+         ["6 = 2 x 3", "9 = 3^2", "Highest powers: 2 aur 3^2 -> 2 x 3^2"],
+         "LCM = 18"),
+        ("24 aur 36 ka HCF",
+         ["24 = 2^3 x 3", "36 = 2^2 x 3^2", "Common (lowest) = 2^2 x 3"],
+         "HCF = 12"),
+        ("8 aur 12 ka LCM",
+         ["8 = 2^3", "12 = 2^2 x 3", "Highest powers: 2^3 x 3"],
+         "LCM = 24"),
+        ("15 aur 25 ka HCF",
+         ["15 = 3 x 5", "25 = 5^2", "Common = 5"],
+         "HCF = 5"),
+        ("10 aur 15 ka LCM",
+         ["10 = 2 x 5", "15 = 3 x 5", "Saare primes: 2 x 3 x 5"],
+         "LCM = 30"),
+        ("18 aur 27 ka HCF",
+         ["18 = 2 x 3^2", "27 = 3^3", "Common (lowest) = 3^2"],
+         "HCF = 9"),
+        ("9 aur 12 ka LCM",
+         ["9 = 3^2", "12 = 2^2 x 3", "Highest powers: 2^2 x 3^2"],
+         "LCM = 36"),
+        ("20 aur 30 ka HCF",
+         ["20 = 2^2 x 5", "30 = 2 x 3 x 5", "Common (lowest) = 2 x 5"],
+         "HCF = 10"),
+        ("4, 5 aur 6 ka LCM",
+         ["4 = 2^2,  5 = 5,  6 = 2 x 3", "Highest powers: 2^2, 3, 5",
+          "LCM = 2^2 x 3 x 5"],
+         "LCM = 60"),
+        ("16 aur 24 ka HCF",
+         ["16 = 2^4", "24 = 2^3 x 3", "Common (lowest) = 2^3"],
+         "HCF = 8"),
+        ("14 aur 21 ka LCM",
+         ["14 = 2 x 7", "21 = 3 x 7", "Saare primes: 2 x 3 x 7"],
+         "LCM = 42"),
+        ("7 aur 14 ka HCF",
+         ["7 = 7 (prime)", "14 = 2 x 7", "Common = 7"],
+         "HCF = 7"),
+        ("3, 6 aur 9 ka LCM",
+         ["3 = 3,  6 = 2 x 3,  9 = 3^2", "Highest powers: 2, 3^2",
+          "LCM = 2 x 3^2"],
+         "LCM = 18"),
+        ("36 aur 48 ka HCF",
+         ["36 = 2^2 x 3^2", "48 = 2^4 x 3", "Common (lowest) = 2^2 x 3"],
+         "HCF = 12"),
+        ("5 aur 7 ka LCM",
+         ["5 aur 7 dono prime (co-prime) hain", "Koi common factor nahi",
+          "LCM = 5 x 7"],
+         "LCM = 35"),
+        ("HCF=4, LCM=48, ek number=16 -> dusra?",
+         ["Rule: HCF x LCM = pehla x dusra", "4 x 48 = 16 x dusra -> 192 = 16 x dusra",
+          "dusra = 192 / 16"],
+         "Dusra number = 12"),
+        ("Bells 9 aur 12 min, saath kab?",
+         ["'Saath bajna' = LCM nikalo", "9 = 3^2,  12 = 2^2 x 3",
+          "LCM = 2^2 x 3^2"],
+         "36 minute baad"),
+        ("Sabse bada number jo 28 aur 42 ko divide kare",
+         ["Ye HCF hota hai", "28 = 2^2 x 7,  42 = 2 x 3 x 7",
+          "Common = 2 x 7"],
+         "HCF = 14"),
+        ("8 aur 10 ka LCM",
+         ["8 = 2^3", "10 = 2 x 5", "Highest powers: 2^3 x 5"],
+         "LCM = 40"),
+        ("30 aur 45 ka HCF",
+         ["30 = 2 x 3 x 5", "45 = 3^2 x 5", "Common (lowest) = 3 x 5"],
+         "HCF = 15"),
+        ("6, 8 aur 12 ka LCM",
+         ["6 = 2 x 3,  8 = 2^3,  12 = 2^2 x 3", "Highest powers: 2^3, 3",
+          "LCM = 2^3 x 3"],
+         "LCM = 24"),
     ]
-    for i, a in enumerate(answers, start=1):
-        d.bullet(f"Q{i}: {a}")
+    for i, (q, steps, ans) in enumerate(solutions, start=1):
+        d.label_body(f"Q{i}.", q)
+        for s in steps:
+            d.bullet(f"Step: {s}")
+        d.label_body("   Answer:", ans)
+        d.space(4)
 
     return d
 
