@@ -1,0 +1,2486 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Length 6399 >>
+stream
+BT
+/F2 26.00 Tf
+0.130 0.200 0.450 rg
+60.00 790.00 Td
+(Polynomials) Tj
+ET
+BT
+/F1 13.00 Tf
+0.300 0.300 0.300 rg
+60.00 758.00 Td
+(Aasan Hinglish Notes, Examples aur Step-by-Step Solutions) Tj
+ET
+1.20 w
+0.130 0.200 0.450 RG
+60.00 742.00 m 535.28 742.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 728.00 Td
+(Polynomial ek algebraic expression hai jisme variables aur constants hote hain. Is guide me) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 712.00 Td
+(variable/constant se lekar degree, coefficient, zeros, factorisation aur graph tak sab kuch simple) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 696.00 Td
+(Hinglish me samjhaya gaya hai - solved examples aur 20 practice questions ke step-by-step) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 680.00 Td
+(solutions ke saath.) Tj
+ET
+0.000 0.500 0.180 rg
+76.00 658.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 660.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 660.00 Td
+(* aise green tag wale topics exams me baar-baar aate hain) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 630.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 633.00 Td
+(1. Variable aur Constant) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 617.00 m 535.28 617.00 l S
+0.000 0.500 0.180 rg
+76.00 605.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 607.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 607.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 592.00 Td
+(Variable:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+106.46 592.00 Td
+(Badalne wala \(unknown\) number, jaise x, y, z.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 576.00 Td
+(Constant:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+110.14 576.00 Td
+(Fixed number jiski value nahi badalti, jaise 5, -3, 1/2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 560.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 560.00 Td
+(Example: 4x + 7 me 'x' variable hai aur '7' constant hai.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 530.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 533.00 Td
+(2. Power / Exponent) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 517.00 m 535.28 517.00 l S
+0.000 0.500 0.180 rg
+76.00 505.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 507.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 507.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 492.00 Td
+(Matlab:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+99.13 492.00 Td
+(Power batata hai ki number ko kitni baar khud se multiply karna hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 476.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 476.00 Td
+(x^2 = x times x  \(ise 'x square' bolte hain\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 461.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 461.00 Td
+(x^3 = x times x times x  \(ise 'x cube' bolte hain\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 446.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 446.00 Td
+(Koi bhi number ki power 0 ho to value 1 hoti hai \(x^0 = 1\).) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 416.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 419.00 Td
+(3. Polynomial Kya Hai?) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 403.00 m 535.28 403.00 l S
+0.000 0.500 0.180 rg
+76.00 391.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 393.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 393.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 378.00 Td
+(Definition:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 378.00 Td
+(Aisa expression jisme variable ke power SIRF whole numbers \(0, 1, 2, 3...\) hon -) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 362.00 Td
+(negative ya fraction power nahi.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 346.00 Td
+(Polynomial Hai:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+139.46 346.00 Td
+(2x + 3,   x^2 - 5x + 6,   7) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 330.00 Td
+(Polynomial Nahi:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+145.58 330.00 Td
+(x^\(-1\) + 2,   sqrt\(x\) + 1   \(in me galat power hai\)) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 299.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 302.00 Td
+(4. Degree) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 286.00 m 535.28 286.00 l S
+0.000 0.500 0.180 rg
+76.00 274.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 276.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 276.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 261.00 Td
+(Definition:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 261.00 Td
+(Polynomial ka sabse bada power hi uska degree hota hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 245.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 245.00 Td
+(2x + 5  ->  degree 1) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 230.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 230.00 Td
+(x^2 - 3x + 1  ->  degree 2) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 215.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 215.00 Td
+(5x^3 - 2x  ->  degree 3) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 185.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 188.00 Td
+(5. Types \(Degree ke Hisaab se\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 172.00 m 535.28 172.00 l S
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 162.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 162.00 Td
+(Degree 0 = CONSTANT polynomial  \(jaise 7\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 147.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 147.00 Td
+(Degree 1 = LINEAR     :  ax + b) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 132.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 132.00 Td
+(Degree 2 = QUADRATIC  :  ax^2 + bx + c) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 117.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 117.00 Td
+(Degree 3 = CUBIC      :  ax^3 + bx^2 + cx + d) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 102.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 102.00 Td
+(\(In sab me 'a' hamesha != 0 hona chahiye.\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 87.00 Td
+(Terms ke hisaab se:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+162.09 87.00 Td
+() Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 6442 >>
+stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Monomial = 1 term \(3x\),  Binomial = 2 terms \(x + 2\),  Trinomial = 3 terms \(x^2 + 2x + 1\).) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 760.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 763.00 Td
+(6. Coefficient) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 747.00 m 535.28 747.00 l S
+0.000 0.500 0.180 rg
+76.00 735.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 737.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 737.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 722.00 Td
+(Definition:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 722.00 Td
+(Variable ke aage wala number hi coefficient hota hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 706.00 Td
+(Example:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+108.91 706.00 Td
+(3x^2 - 5x + 7 me:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 690.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 690.00 Td
+(x^2 ka coefficient \(a\) = 3) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 675.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 675.00 Td
+(x ka coefficient \(b\) = -5) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 660.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 660.00 Td
+(constant \(c\) = 7) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 630.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 633.00 Td
+(7. p\(x\) Notation aur Substitution) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 617.00 m 535.28 617.00 l S
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 607.00 Td
+(p\(x\):) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+85.06 607.00 Td
+(Polynomial ka naam \(jaise function\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 591.00 Td
+(p\(2\):) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+85.67 591.00 Td
+(x ki jagah 2 daal kar value nikalna.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 575.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 575.00 Td
+(Example: p\(x\) = x^2 - 4  ->  p\(2\) = 2^2 - 4 = 0.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 545.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 548.00 Td
+(8. Zero / Root of Polynomial) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 532.00 m 535.28 532.00 l S
+0.000 0.500 0.180 rg
+76.00 520.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 522.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 522.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 507.00 Td
+(Definition:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 507.00 Td
+(Wo value of x jiske liye p\(x\) = 0 ho jaye, usi ko polynomial ka ZERO \(ya root\) kehte) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 491.00 Td
+(hain.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 475.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 475.00 Td
+(Example: p\(x\) = 2x - 6  ->  2x - 6 = 0  ->  x = 3. So zero = 3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 460.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 460.00 Td
+(Graph jahan x-axis ko cut kare, wahi zero hota hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 445.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 445.00 Td
+(Linear ka 1 zero, Quadratic ke 2 zeros, Cubic ke 3 zeros \(maximum\).) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 415.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 418.00 Td
+(9. Factorisation \(Splitting the Middle Term\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 402.00 m 535.28 402.00 l S
+0.000 0.500 0.180 rg
+76.00 390.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 392.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 392.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 377.00 Td
+(Idea:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+87.52 377.00 Td
+(ax^2 + bx + c ko \(..\)\(..\) ke product me todna.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 361.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 361.00 Td
+(Middle term 'b' ko aise 2 numbers p, q me todo jahan:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 346.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 346.00 Td
+(p + q = b   AND   p x q = a x c.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 331.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 331.00 Td
+(Example: x^2 + 5x + 6 -> p+q=5, pxq=6 -> 2,3 -> \(x+2\)\(x+3\).) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 301.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 304.00 Td
+(10. Graph Basics) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 288.00 m 535.28 288.00 l S
+0.000 0.500 0.180 rg
+76.00 276.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 278.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 278.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 263.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 263.00 Td
+(X-axis = leti \(horizontal\) line,  Y-axis = khadi \(vertical\) line.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 248.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 248.00 Td
+(Linear polynomial ka graph = seedhi line.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 233.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 233.00 Td
+(Quadratic ka graph = 'U' ya ulta 'U' \(ise PARABOLA kehte hain\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 218.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 218.00 Td
+(Graph jahan x-axis ko touch/cut kare = wahi zero hota hai.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 188.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 191.00 Td
+(Quick Revision) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 175.00 m 535.28 175.00 l S
+0.930 0.950 1.000 rg
+60.00 75.00 475.28 96.00 re
+f
+0.130 0.200 0.450 rg
+60.00 75.00 4.00 96.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 153.00 Td
+(Degree = sabse bada power.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 137.00 Td
+(Coefficient = variable ke aage ka number.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 121.00 Td
+(Zero = jahan p\(x\) = 0  \(graph x-axis ko cut kare\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 105.00 Td
+(Split middle term: p + q = b  AND  p x q = a x c.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 89.00 Td
+(Linear -> line,  Quadratic -> parabola.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 6746 >>
+stream
+0.740 0.200 0.200 rg
+60.00 781.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 784.00 Td
+(Solved Examples - Samjho Kaise Solve Karte Hain) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 768.00 m 535.28 768.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 758.00 Td
+(Neeche 10 examples step-by-step solve karke dikhaye gaye hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 739.00 Td
+(Example 1:  3x^4 - 2x^2 + 7 ka degree?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+256.50 739.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 723.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 723.00 Td
+(Step: Saare terms ke power dekho: 4, 2, 0.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 708.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 708.00 Td
+(Step: Sabse bada power = 4.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 693.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 693.00 Td
+(Degree = 4) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 672.00 Td
+(Example 2:  Kya sqrt\(x\) + 2 polynomial hai?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+275.50 672.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 656.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 656.00 Td
+(Step: sqrt\(x\) = x^\(1/2\), yani power 1/2 \(fraction\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 641.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 641.00 Td
+(Step: Polynomial me fraction power allowed nahi.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 626.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 626.00 Td
+(Nahi) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 605.00 Td
+(Example 3:  5x^2 - 3x + 8 me x ka coefficient?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+287.40 605.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 589.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 589.00 Td
+(Step: x \(yani x^1\) ke aage wala number dekho.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 574.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 574.00 Td
+(Step: Wo -3 hai \(minus ke saath\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 559.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 559.00 Td
+(-3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 538.00 Td
+(Example 4:  p\(x\) = x^2 - 4, to p\(3\) = ?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+244.91 538.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 522.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 522.00 Td
+(Step: x ki jagah 3 daal do: 3^2 - 4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 507.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 507.00 Td
+(Step: = 9 - 4.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 492.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 492.00 Td
+(5) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 471.00 Td
+(Example 5:  p\(x\) = 2x - 6 ka zero?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+228.43 471.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 455.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 455.00 Td
+(Step: Zero ke liye p\(x\) = 0 rakho: 2x - 6 = 0.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 440.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 440.00 Td
+(Step: 2x = 6  ->  x = 3.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 425.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 425.00 Td
+(Zero = 3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 404.00 Td
+(Example 6:  4x^3 + 2x - 1 ko classify karo.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+268.44 404.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 388.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 388.00 Td
+(Step: Sabse bada power = 3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 373.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 373.00 Td
+(Step: Degree 3 wale polynomial ko CUBIC kehte hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 358.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 358.00 Td
+(Cubic) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 337.00 Td
+(Example 7:  x^2 + 5x + 6 ko factorise karo.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+270.60 337.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 321.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 321.00 Td
+(Step: Yahan a=1, b=5, c=6. a x c = 6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 306.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 306.00 Td
+(Step: p+q = 5 aur p x q = 6 -> p=2, q=3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 291.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 291.00 Td
+(Step: x^2 + 2x + 3x + 6 = x\(x+2\) + 3\(x+2\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 276.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 276.00 Td
+(\(x + 2\)\(x + 3\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 255.00 Td
+(Example 8:  x^2 - 5x + 6 ke zeros?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+231.76 255.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 239.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 239.00 Td
+(Step: Factorise: \(x-2\)\(x-3\) = 0.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 224.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 224.00 Td
+(Step: x - 2 = 0 -> x = 2;  x - 3 = 0 -> x = 3.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 209.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 209.00 Td
+(Zeros = 2 aur 3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 188.00 Td
+(Example 9:  Kya 7 polynomial hai? Iska degree?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+298.45 188.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 172.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 172.00 Td
+(Step: 7 ko 7x^0 likh sakte hain \(power 0\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 157.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 157.00 Td
+(Step: Ye ek constant polynomial hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 142.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 142.00 Td
+(Haan, degree = 0) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 121.00 Td
+(Example 10:  x^2 - 9 ko factorise karo.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+249.79 121.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 105.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 105.00 Td
+(Step: Ye a^2 - b^2 form hai: x^2 - 3^2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 90.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 90.00 Td
+(Step: Rule: a^2 - b^2 = \(a - b\)\(a + b\).) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 6349 >>
+stream
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 790.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 790.00 Td
+(\(x - 3\)\(x + 3\)) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 760.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 763.00 Td
+(Practice Questions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 747.00 m 535.28 747.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 737.00 Td
+(Pehle khud solve karne ki koshish karo. Neeche har question ka step-by-step solution diya gaya) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 721.00 Td
+(hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 702.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 702.00 Td
+(5x^3 - 2x + 1 ka degree kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 684.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 684.00 Td
+(3x^2 - 7x + 2 me x^2 ka coefficient kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 666.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 666.00 Td
+(4x + 9 me constant kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 648.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 648.00 Td
+(Kya x^\(-2\) + 3 ek polynomial hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 630.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 630.00 Td
+(p\(x\) = x^2 + 1, to p\(0\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 612.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 612.00 Td
+(p\(x\) = 2x - 8 ka zero kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 594.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 594.00 Td
+(ax^2 + bx + c kis type ka polynomial hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 576.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 576.00 Td
+(6x ka degree kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 558.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 558.00 Td
+(9 \(sirf constant\) ka degree kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 540.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 540.00 Td
+(x^2 - 9 ko factorise karo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 522.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 522.00 Td
+(Quadratic polynomial me maximum kitne zeros hote hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 504.00 Td
+(Q12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 504.00 Td
+(x^2 + 7x + 12 ko factorise karo.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 486.00 Td
+(Q13.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 486.00 Td
+(Linear polynomial ka graph kaisa hota hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 468.00 Td
+(Q14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 468.00 Td
+(Quadratic polynomial ka graph kya kehlata hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 450.00 Td
+(Q15.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 450.00 Td
+(p\(x\) = x^2 - 3x + 2, to p\(1\) = ?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 432.00 Td
+(Q16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 432.00 Td
+(5x^3 - 2x^2 me x^3 ka coefficient kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 414.00 Td
+(Q17.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 414.00 Td
+(Monomial, Binomial aur Trinomial kya hote hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 396.00 Td
+(Q18.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 396.00 Td
+(x^2 - 5x + 6 ke zeros kya hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 378.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 378.00 Td
+(Splitting middle term me kaunsi 2 conditions chahiye?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 360.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 360.00 Td
+(Graph jahan x-axis ko cut kare, wo kya hota hai?) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 333.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 336.00 Td
+(Step-by-Step Solutions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 320.00 m 535.28 320.00 l S
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 310.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 310.00 Td
+(5x^3 - 2x + 1 ka degree?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 294.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 294.00 Td
+(Step: Sabse bada power dhoondo: 3, 1, 0.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 279.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 279.00 Td
+(Step: Sabse bada = 3.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 264.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 264.00 Td
+(3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 244.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 244.00 Td
+(3x^2 - 7x + 2 me x^2 ka coefficient?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 228.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 228.00 Td
+(Step: x^2 ke aage wala number = 3.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 213.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 213.00 Td
+(3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 193.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 193.00 Td
+(4x + 9 me constant?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 177.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 177.00 Td
+(Step: Bina variable wala number = 9.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 162.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 162.00 Td
+(9) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 142.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 142.00 Td
+(Kya x^\(-2\) + 3 polynomial hai?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 126.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 126.00 Td
+(Step: Power -2 \(negative\) hai, jo allowed nahi.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 111.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 111.00 Td
+(Nahi) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 91.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 91.00 Td
+(p\(x\) = x^2 + 1, p\(0\)?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 75.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 75.00 Td
+(Step: x ki jagah 0: 0^2 + 1 = 0 + 1.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 6452 >>
+stream
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 790.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 790.00 Td
+(1) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 770.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 770.00 Td
+(p\(x\) = 2x - 8 ka zero?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 754.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 754.00 Td
+(Step: 2x - 8 = 0 -> 2x = 8 -> x = 4.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 739.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 739.00 Td
+(4) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 719.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 719.00 Td
+(ax^2 + bx + c kis type ka?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 703.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 703.00 Td
+(Step: Sabse bada power 2 hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 688.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 688.00 Td
+(Quadratic) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 668.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 668.00 Td
+(6x ka degree?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 652.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 652.00 Td
+(Step: 6x = 6x^1, power = 1.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 637.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 637.00 Td
+(1) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 617.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 617.00 Td
+(9 ka degree?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 601.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 601.00 Td
+(Step: 9 = 9x^0, power = 0.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 586.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 586.00 Td
+(0) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 566.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 566.00 Td
+(x^2 - 9 factorise?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 550.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 550.00 Td
+(Step: x^2 - 3^2 form hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 535.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 535.00 Td
+(Step: a^2 - b^2 = \(a-b\)\(a+b\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 520.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 520.00 Td
+(\(x-3\)\(x+3\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 500.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 500.00 Td
+(Quadratic me max zeros?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 484.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 484.00 Td
+(Step: Degree 2 -> maximum 2 zeros.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 469.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 469.00 Td
+(2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 449.00 Td
+(Q12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 449.00 Td
+(x^2 + 7x + 12 factorise?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 433.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 433.00 Td
+(Step: a x c = 12, p+q=7, pxq=12 -> 3,4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 418.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 418.00 Td
+(Step: \(x+3\)\(x+4\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 403.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 403.00 Td
+(\(x+3\)\(x+4\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 383.00 Td
+(Q13.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 383.00 Td
+(Linear ka graph?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 367.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 367.00 Td
+(Step: Degree 1 ka graph seedhi line hoti hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 352.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 352.00 Td
+(Seedhi \(straight\) line) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 332.00 Td
+(Q14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 332.00 Td
+(Quadratic ka graph?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 316.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 316.00 Td
+(Step: Degree 2 ka graph U ya ulta U hota hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 301.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 301.00 Td
+(Parabola) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 281.00 Td
+(Q15.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 281.00 Td
+(p\(x\) = x^2 - 3x + 2, p\(1\)?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 265.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 265.00 Td
+(Step: x=1: 1 - 3 + 2 = 0.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 250.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 250.00 Td
+(0) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 230.00 Td
+(Q16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 230.00 Td
+(5x^3 - 2x^2 me x^3 ka coefficient?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 214.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 214.00 Td
+(Step: x^3 ke aage = 5.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 199.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 199.00 Td
+(5) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 179.00 Td
+(Q17.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 179.00 Td
+(Monomial / Binomial / Trinomial?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 163.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 163.00 Td
+(Step: Terms ki ginti se: 1, 2, aur 3 terms.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 148.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 148.00 Td
+(1 term, 2 terms, 3 terms) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 128.00 Td
+(Q18.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 128.00 Td
+(x^2 - 5x + 6 ke zeros?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 112.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 112.00 Td
+(Step: Factorise: \(x-2\)\(x-3\) = 0.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 97.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 97.00 Td
+(Step: x = 2 ya x = 3.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 82.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 82.00 Td
+(2 aur 3) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 958 >>
+stream
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 790.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 790.00 Td
+(Splitting middle term ki 2 conditions?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 774.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 774.00 Td
+(Step: Do numbers p, q chahiye.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 759.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 759.00 Td
+(p + q = b  AND  p x q = a x c) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 739.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 739.00 Td
+(Graph jahan x-axis ko cut kare wo?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 723.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 723.00 Td
+(Step: Us point par p\(x\) = 0 hota hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 708.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 708.00 Td
+(Zero \(root\)) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+10 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 3 0 R >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 4 0 R >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 5 0 R >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 6 0 R >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 7 0 R >>
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000157 00000 n 
+0000006608 00000 n 
+0000013102 00000 n 
+0000019900 00000 n 
+0000026301 00000 n 
+0000032805 00000 n 
+0000033814 00000 n 
+0000033911 00000 n 
+0000034014 00000 n 
+0000034158 00000 n 
+0000034302 00000 n 
+0000034446 00000 n 
+0000034590 00000 n 
+0000034734 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+34878
+%%EOF
