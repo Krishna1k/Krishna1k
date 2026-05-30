@@ -1,0 +1,2354 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Length 6027 >>
+stream
+BT
+/F2 26.00 Tf
+0.130 0.200 0.450 rg
+60.00 790.00 Td
+(Areas Related to Circles) Tj
+ET
+BT
+/F1 13.00 Tf
+0.300 0.300 0.300 rg
+60.00 758.00 Td
+(Chapter 11 - Hinglish Notes, Area, Sector, Segment + Solutions) Tj
+ET
+1.20 w
+0.130 0.200 0.450 RG
+60.00 742.00 m 535.28 742.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 728.00 Td
+(Ye Chapter 11 \(Areas Related to Circles\) ka complete guide hai. Pehle red-page ke core basics) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 712.00 Td
+(\(circle parts, pi, area vs perimeter, sector, angle, fraction of circle\), fir chapter ka main content -) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 696.00 Td
+(circumference, area, sector aur segment ke formulas. End me solved examples aur 20 practice) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 680.00 Td
+(questions ke step-by-step solutions hain.) Tj
+ET
+0.000 0.500 0.180 rg
+76.00 658.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 660.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 660.00 Td
+(* aise green tag wale topics exams me baar-baar aate hain) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 630.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 633.00 Td
+(PART A - Core Basics \(Miss Mat Karna\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 617.00 m 535.28 617.00 l S
+0.740 0.200 0.200 rg
+60.00 596.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 599.00 Td
+(1. Circle - Radius, Diameter) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 583.00 m 535.28 583.00 l S
+0.000 0.500 0.180 rg
+76.00 571.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 573.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 573.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 558.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 558.00 Td
+(Radius \(r\) = centre se circle tak ki doori.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 543.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 543.00 Td
+(Diameter = 2r \(circle ke aar-paar, centre se hokar\).) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 513.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 516.00 Td
+(2. pi \(PI\) Kya Hai?) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 500.00 m 535.28 500.00 l S
+0.000 0.500 0.180 rg
+76.00 488.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 490.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 490.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 475.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 475.00 Td
+(pi = circumference / diameter = 3.14 \(ya 22/7\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 460.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 460.00 Td
+(Radius 7 ka multiple ho to 22/7 use karo, warna 3.14.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 430.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 433.00 Td
+(3. Area vs Perimeter) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 417.00 m 535.28 417.00 l S
+0.000 0.500 0.180 rg
+76.00 405.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 407.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 407.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 392.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 392.00 Td
+(Area = andar ki jagah \(unit: cm^2\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 377.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 377.00 Td
+(Perimeter / circumference = boundary ki length \(unit: cm\).) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 347.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 350.00 Td
+(4. Circle ke 2 Formula) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 334.00 m 535.28 334.00 l S
+0.000 0.500 0.180 rg
+76.00 322.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 324.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 324.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 309.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 309.00 Td
+(Circumference = 2 pi r.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 294.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 294.00 Td
+(Area = pi r^2.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 264.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 267.00 Td
+(5. Angle \(degree\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 251.00 m 535.28 251.00 l S
+0.000 0.500 0.180 rg
+76.00 239.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 241.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 241.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 226.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 226.00 Td
+(Pura circle = 360 degree.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 211.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 211.00 Td
+(Sector ek hissa hai jiska apna angle theta hota hai.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 181.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 184.00 Td
+(6. Fraction of Circle) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 168.00 m 535.28 168.00 l S
+0.000 0.500 0.180 rg
+76.00 156.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 158.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 158.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 143.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 143.00 Td
+(Sector = circle ka theta/360 hissa.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 128.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 128.00 Td
+(Isi se sector ka area aur arc length nikalte hain.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 98.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 101.00 Td
+(7. Square / Units) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 85.00 m 535.28 85.00 l S
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 75.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 75.00 Td
+(r^2 = r x r.) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 5154 >>
+stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Area ka unit hamesha square hota hai \(cm^2\).) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 760.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 763.00 Td
+(PART B - Chapter 11 ka Main Content) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 747.00 m 535.28 747.00 l S
+0.740 0.200 0.200 rg
+60.00 726.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 729.00 Td
+(8. Circumference aur Area of Circle) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 713.00 m 535.28 713.00 l S
+0.000 0.500 0.180 rg
+76.00 701.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 703.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 703.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+0.930 0.950 1.000 rg
+60.00 614.00 475.28 80.00 re
+f
+0.130 0.200 0.450 rg
+60.00 614.00 4.00 80.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 676.00 Td
+(Circumference = 2 pi r) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 660.00 Td
+(Area = pi r^2) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 644.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 628.00 Td
+(pi = 22/7 \(ya 3.14\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 608.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 608.00 Td
+(Example: r=7 -> Circumference = 2 x 22/7 x 7 = 44 cm.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 578.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 581.00 Td
+(9. Length of an Arc) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 565.00 m 535.28 565.00 l S
+0.000 0.500 0.180 rg
+76.00 553.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 555.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 555.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+0.930 0.950 1.000 rg
+60.00 482.00 475.28 64.00 re
+f
+0.130 0.200 0.450 rg
+60.00 482.00 4.00 64.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 528.00 Td
+(Arc length = \(theta / 360\) x 2 pi r) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 512.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 496.00 Td
+(theta = sector ka angle \(degree me\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 476.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 476.00 Td
+(Yani poori circumference ka theta/360 hissa.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 446.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 449.00 Td
+(10. Area of a Sector) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 433.00 m 535.28 433.00 l S
+0.000 0.500 0.180 rg
+76.00 421.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 423.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 423.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+0.930 0.950 1.000 rg
+60.00 350.00 475.28 64.00 re
+f
+0.130 0.200 0.450 rg
+60.00 350.00 4.00 64.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 396.00 Td
+(Area of sector = \(theta / 360\) x pi r^2) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 380.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 364.00 Td
+(= poore circle ke area ka theta/360 hissa.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 344.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 344.00 Td
+(Minor sector = chhota hissa; Major sector = bada hissa.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 314.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 317.00 Td
+(11. Area of a Segment) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 301.00 m 535.28 301.00 l S
+0.000 0.500 0.180 rg
+76.00 289.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 291.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 291.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+0.930 0.950 1.000 rg
+60.00 218.00 475.28 64.00 re
+f
+0.130 0.200 0.450 rg
+60.00 218.00 4.00 64.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 264.00 Td
+(Area of segment = Area of sector - Area of triangle) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 248.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 232.00 Td
+(\(triangle = do radii aur chord se banta hai\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 212.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 212.00 Td
+(Minor segment chord ke ek taraf, major segment doosri taraf hota hai.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 182.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 185.00 Td
+(12. Combination / Shaded Area) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 169.00 m 535.28 169.00 l S
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 159.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 159.00 Td
+(Shaded area = badi shape ka area - chhoti shape ka area.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 144.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 144.00 Td
+(Jaise square me circle, ya do circles ka antar \(ring\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 129.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 129.00 Td
+(Ring \(annulus\) area = pi\(R^2 - r^2\).) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 99.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 102.00 Td
+(Quick Revision) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 86.00 m 535.28 86.00 l S
+endstream
+endobj
+5 0 obj
+<< /Length 6409 >>
+stream
+0.930 0.950 1.000 rg
+60.00 700.00 475.28 96.00 re
+f
+0.130 0.200 0.450 rg
+60.00 700.00 4.00 96.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 778.00 Td
+(Circumference = 2 pi r;  Area = pi r^2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 762.00 Td
+(Arc length = \(theta/360\) x 2 pi r.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 746.00 Td
+(Sector area = \(theta/360\) x pi r^2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 730.00 Td
+(Segment = sector - triangle.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 714.00 Td
+(pi = 22/7 \(r me 7 ho\) warna 3.14.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 679.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 682.00 Td
+(Solved Examples - Samjho Kaise Solve Karte Hain) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 666.00 m 535.28 666.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 656.00 Td
+(Neeche 10 examples step-by-step solve karke dikhaye gaye hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 637.00 Td
+(Example 1:  r = 7 cm. Area of circle? \(pi = 22/7\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+293.54 637.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 621.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 621.00 Td
+(Step: Area = pi r^2 = \(22/7\) x 7 x 7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 606.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 606.00 Td
+(Step: = 22 x 7.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 591.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 591.00 Td
+(Area = 154 cm^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 570.00 Td
+(Example 2:  r = 7 cm. Circumference? \(pi = 22/7\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+300.87 570.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 554.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 554.00 Td
+(Step: Circumference = 2 pi r = 2 x \(22/7\) x 7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 539.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 539.00 Td
+(Step: = 2 x 22.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 524.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 524.00 Td
+(44 cm) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 503.00 Td
+(Example 3:  r = 14 cm. Area? \(pi = 22/7\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+258.70 503.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 487.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 487.00 Td
+(Step: Area = \(22/7\) x 14 x 14 = 22 x 2 x 14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 472.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 472.00 Td
+(Step: = 22 x 28.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 457.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 457.00 Td
+(616 cm^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 436.00 Td
+(Example 4:  Sector theta=90, r=14. Area? \(pi=22/7\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+312.84 436.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 420.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 420.00 Td
+(Step: Sector area = \(90/360\) x pi r^2 = \(1/4\) x \(22/7\) x 196.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 405.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 405.00 Td
+(Step: = \(1/4\) x 616.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 390.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 390.00 Td
+(154 cm^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 369.00 Td
+(Example 5:  Arc length, theta=60, r=21. \(pi=22/7\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+301.22 369.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 353.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 353.00 Td
+(Step: Arc = \(60/360\) x 2 pi r = \(1/6\) x 2 x \(22/7\) x 21.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 338.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 338.00 Td
+(Step: = \(1/6\) x 132.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 323.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 323.00 Td
+(22 cm) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 302.00 Td
+(Example 6:  Diameter = 28 cm. Radius aur area? \(pi=22/7\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+348.56 302.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 286.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 286.00 Td
+(Step: r = 28/2 = 14.  Area = \(22/7\) x 14 x 14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 271.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 271.00 Td
+(Step: = 616.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 256.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 256.00 Td
+(r=14, Area=616 cm^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 235.00 Td
+(Example 7:  Sector theta=180 \(half\), r=7. Area? \(pi=22/7\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+340.95 235.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 219.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 219.00 Td
+(Step: \(180/360\) x pi r^2 = \(1/2\) x \(22/7\) x 49.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 204.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 204.00 Td
+(Step: = \(1/2\) x 154.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 189.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 189.00 Td
+(77 cm^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 168.00 Td
+(Example 8:  Ring: R=7, r=conf... r=  inner 0? Outer 7 area.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+346.45 168.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 152.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 152.00 Td
+(Step: Area of circle = pi R^2 = \(22/7\) x 49.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 137.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 137.00 Td
+(Step: = 154.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 122.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 122.00 Td
+(154 cm^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 101.00 Td
+(Example 9:  theta=90, r=10. Arc length? \(pi=3.14\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+304.28 101.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 85.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 85.00 Td
+(Step: Arc = \(90/360\) x 2 x 3.14 x 10 = \(1/4\) x 62.8.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 6095 >>
+stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Step: = 15.7.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 775.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 775.00 Td
+(15.7 cm) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 754.00 Td
+(Example 10:  Quarter circle area, r=4. \(pi=3.14\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+293.54 754.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 738.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 738.00 Td
+(Step: Quarter = \(1/4\) pi r^2 = \(1/4\) x 3.14 x 16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 723.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 723.00 Td
+(Step: = \(1/4\) x 50.24.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 708.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 708.00 Td
+(12.56 cm^2) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 678.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 681.00 Td
+(Practice Questions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 665.00 m 535.28 665.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 655.00 Td
+(Pehle khud solve karne ki koshish karo. Neeche har question ka step-by-step solution diya gaya) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 639.00 Td
+(hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 620.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 620.00 Td
+(Circle ke area ka formula kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 602.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 602.00 Td
+(Circle ke circumference ka formula kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 584.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 584.00 Td
+(pi ka value kya hota hai \(2 forms\)?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 566.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 566.00 Td
+(Pura circle kitne degree ka hota hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 548.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 548.00 Td
+(Sector ka area formula kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 530.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 530.00 Td
+(Arc length ka formula kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 512.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 512.00 Td
+(Segment ka area kaise nikalte hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 494.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 494.00 Td
+(r=7, pi=22/7 -> area?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 476.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 476.00 Td
+(r=7, pi=22/7 -> circumference?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 458.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 458.00 Td
+(Diameter=14 ho to radius?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 440.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 440.00 Td
+(Sector theta=90, r=14 -> area? \(pi=22/7\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 422.00 Td
+(Q12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 422.00 Td
+(Area ka unit kya hota hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 404.00 Td
+(Q13.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 404.00 Td
+(Perimeter/circumference ka unit kya hota hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 386.00 Td
+(Q14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 386.00 Td
+(theta=180 ka sector circle ka kitna hissa hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 368.00 Td
+(Q15.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 368.00 Td
+(Ring \(annulus\) ka area formula?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 350.00 Td
+(Q16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 350.00 Td
+(r=14, pi=22/7 -> area?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 332.00 Td
+(Q17.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 332.00 Td
+(Half circle \(r=7\) ka area? \(pi=22/7\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 314.00 Td
+(Q18.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 314.00 Td
+(Sector circle ka kitna fraction hota hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 296.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 296.00 Td
+(Quarter circle ka angle kitna hota hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 278.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 278.00 Td
+(Shaded area kaise nikalte hain \(general rule\)?) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 251.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 254.00 Td
+(Step-by-Step Solutions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 238.00 m 535.28 238.00 l S
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 228.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 228.00 Td
+(Circle area formula?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 212.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 212.00 Td
+(Step: Standard formula.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 197.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 197.00 Td
+(pi r^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 177.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 177.00 Td
+(Circumference formula?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 161.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 161.00 Td
+(Step: Standard formula.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 146.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 146.00 Td
+(2 pi r) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 126.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 126.00 Td
+(pi ka value?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 110.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 110.00 Td
+(Step: Do common forms.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 95.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 95.00 Td
+(22/7 ya 3.14) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 6399 >>
+stream
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 790.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 790.00 Td
+(Pura circle kitne degree?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 774.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 774.00 Td
+(Step: Full angle.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 759.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 759.00 Td
+(360 degree) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 739.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 739.00 Td
+(Sector area formula?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 723.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 723.00 Td
+(Step: theta/360 hissa of pi r^2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 708.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 708.00 Td
+(\(theta/360\) x pi r^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 688.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 688.00 Td
+(Arc length formula?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 672.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 672.00 Td
+(Step: theta/360 hissa of 2 pi r.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 657.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 657.00 Td
+(\(theta/360\) x 2 pi r) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 637.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 637.00 Td
+(Segment area?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 621.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 621.00 Td
+(Step: Sector me se triangle ghatao.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 606.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 606.00 Td
+(Sector area - triangle area) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 586.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 586.00 Td
+(r=7, pi=22/7 -> area?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 570.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 570.00 Td
+(Step: \(22/7\) x 49 = 22 x 7.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 555.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 555.00 Td
+(154 cm^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 535.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 535.00 Td
+(r=7 -> circumference?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 519.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 519.00 Td
+(Step: 2 x \(22/7\) x 7 = 44.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 504.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 504.00 Td
+(44 cm) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 484.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 484.00 Td
+(Diameter=14 -> radius?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 468.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 468.00 Td
+(Step: r = d/2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 453.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 453.00 Td
+(7) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 433.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 433.00 Td
+(Sector theta=90, r=14 -> area?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 417.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 417.00 Td
+(Step: \(1/4\) x \(22/7\) x 196 = \(1/4\) x 616.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 402.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 402.00 Td
+(154 cm^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 382.00 Td
+(Q12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 382.00 Td
+(Area ka unit?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 366.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 366.00 Td
+(Step: 2-D jagah.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 351.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 351.00 Td
+(cm^2 \(square\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 331.00 Td
+(Q13.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 331.00 Td
+(Circumference ka unit?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 315.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 315.00 Td
+(Step: Length.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 300.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 300.00 Td
+(cm) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 280.00 Td
+(Q14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 280.00 Td
+(theta=180 sector hissa?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 264.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 264.00 Td
+(Step: 180/360 = 1/2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 249.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 249.00 Td
+(Aadha \(half\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 229.00 Td
+(Q15.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 229.00 Td
+(Ring area formula?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 213.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 213.00 Td
+(Step: Bahar - andar.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 198.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 198.00 Td
+(pi\(R^2 - r^2\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 178.00 Td
+(Q16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 178.00 Td
+(r=14, pi=22/7 -> area?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 162.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 162.00 Td
+(Step: \(22/7\) x 196 = 22 x 28.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 147.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 147.00 Td
+(616 cm^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 127.00 Td
+(Q17.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 127.00 Td
+(Half circle r=7 area?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 111.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 111.00 Td
+(Step: \(1/2\) x \(22/7\) x 49 = \(1/2\) x 154.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 96.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 96.00 Td
+(77 cm^2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 76.00 Td
+(Q18.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 76.00 Td
+(Sector fraction?) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 1177 >>
+stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Step: Angle ratio.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 775.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 775.00 Td
+(theta/360) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 755.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 755.00 Td
+(Quarter circle angle?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 739.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 739.00 Td
+(Step: 360/4.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 724.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 724.00 Td
+(90 degree) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 704.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 704.00 Td
+(Shaded area rule?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 688.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 688.00 Td
+(Step: Bade me se chhota ghatao.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 673.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 673.00 Td
+(Badi shape - chhoti shape) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+10 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 3 0 R >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 4 0 R >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 5 0 R >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 6 0 R >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 7 0 R >>
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000157 00000 n 
+0000006236 00000 n 
+0000011442 00000 n 
+0000017903 00000 n 
+0000024050 00000 n 
+0000030501 00000 n 
+0000031730 00000 n 
+0000031827 00000 n 
+0000031930 00000 n 
+0000032074 00000 n 
+0000032218 00000 n 
+0000032362 00000 n 
+0000032506 00000 n 
+0000032650 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+32794
+%%EOF
