@@ -1,0 +1,2459 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Length 5898 >>
+stream
+BT
+/F2 26.00 Tf
+0.130 0.200 0.450 rg
+60.00 790.00 Td
+(Arithmetic Progressions \(AP\)) Tj
+ET
+BT
+/F1 13.00 Tf
+0.300 0.300 0.300 rg
+60.00 758.00 Td
+(Chapter 5 - Hinglish Notes, Formulas, Examples + Solutions) Tj
+ET
+1.20 w
+0.130 0.200 0.450 RG
+60.00 742.00 m 535.28 742.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 728.00 Td
+(Ye Chapter 5 \(Arithmetic Progressions\) ka complete guide hai. Pehle red-page ke core basics) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 712.00 Td
+(\(sequence, term, common difference, a/d/n/an/Sn\), fir chapter ka main content - nth term aur sum) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 696.00 Td
+(ke formulas. End me solved examples aur 20 practice questions ke step-by-step solutions hain.) Tj
+ET
+0.000 0.500 0.180 rg
+76.00 674.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 676.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 676.00 Td
+(* aise green tag wale topics exams me baar-baar aate hain) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 646.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 649.00 Td
+(PART A - Core Basics \(Miss Mat Karna\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 633.00 m 535.28 633.00 l S
+0.740 0.200 0.200 rg
+60.00 612.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 615.00 Td
+(1. Sequence Kya Hai?) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 599.00 m 535.28 599.00 l S
+0.000 0.500 0.180 rg
+76.00 587.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 589.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 589.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 574.00 Td
+(Definition:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 574.00 Td
+(Numbers ki list jo ek pattern me ho.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 558.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 558.00 Td
+(Jaise 2, 4, 6, 8, ...  ya  1, 4, 9, 16, ...) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 528.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 531.00 Td
+(2. Term) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 515.00 m 535.28 515.00 l S
+0.000 0.500 0.180 rg
+76.00 503.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 505.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 505.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 490.00 Td
+(Definition:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 490.00 Td
+(Sequence ka har number ek 'term' hota hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 474.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 474.00 Td
+(Pehla term, doosra term, ... nth term.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 444.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 447.00 Td
+(3. Difference Nikaalna) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 431.00 m 535.28 431.00 l S
+0.000 0.500 0.180 rg
+76.00 419.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 421.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 421.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 406.00 Td
+(Rule:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+88.73 406.00 Td
+(Do terms ka antar = baad wala - pehle wala.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 390.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 390.00 Td
+(Example: 5, 9  ->  9 - 5 = 4.  \(Antar negative bhi ho sakta hai.\)) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 360.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 363.00 Td
+(4. Variable / Formula Samajhna) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 347.00 m 535.28 347.00 l S
+0.000 0.500 0.180 rg
+76.00 335.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 337.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 337.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 322.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 322.00 Td
+(a  = pehla term \(first term\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 307.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 307.00 Td
+(d  = common difference) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 292.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 292.00 Td
+(n  = term number) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 277.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 277.00 Td
+(an = nth term \(n-wa term\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 262.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 262.00 Td
+(Sn = pehle n terms ka sum) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 232.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 235.00 Td
+(5. Substitution) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 219.00 m 535.28 219.00 l S
+0.000 0.500 0.180 rg
+76.00 207.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 209.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 209.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 194.00 Td
+(Matlab:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+99.13 194.00 Td
+(Formula me values daal kar calculate karna.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 178.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 178.00 Td
+(an = a + \(n-1\)d  me  a, d, n  ki values daal do.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 148.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 151.00 Td
+(6. Basic Algebra \(Do Equations\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 135.00 m 535.28 135.00 l S
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 125.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 125.00 Td
+(Kabhi a aur d ke liye 2 equations milti hain.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 110.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 110.00 Td
+(Unhe subtract karke ek variable gayab \(eliminate\) kar do, fir solve karo.) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 5895 >>
+stream
+0.740 0.200 0.200 rg
+60.00 781.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 784.00 Td
+(7. Negative Numbers \(Ghatti AP\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 768.00 m 535.28 768.00 l S
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 758.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 758.00 Td
+(Agar d negative ho to sequence ghatti \(decrease\) hoti hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 743.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 743.00 Td
+(Example: 10, 7, 4, 1, ...  \(d = -3\).) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 713.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 716.00 Td
+(PART B - Chapter 5 ka Main Content) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 700.00 m 535.28 700.00 l S
+0.740 0.200 0.200 rg
+60.00 679.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 682.00 Td
+(8. Arithmetic Progression \(AP\) Kya Hai?) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 666.00 m 535.28 666.00 l S
+0.000 0.500 0.180 rg
+76.00 654.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 656.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 656.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 641.00 Td
+(Definition:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 641.00 Td
+(Aisi sequence jisme har do lagatar terms ka antar \(difference\) HAMESHA same ho.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 625.00 Td
+(Usi same antar ko common difference \(d\) kehte hain.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 609.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 609.00 Td
+(Example: 3, 7, 11, 15, ...  \(har baar +4, to d = 4\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 594.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 594.00 Td
+(General AP: a, a+d, a+2d, a+3d, ...) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 564.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 567.00 Td
+(9. Common Difference \(d\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 551.00 m 535.28 551.00 l S
+0.000 0.500 0.180 rg
+76.00 539.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 541.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 541.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 526.00 Td
+(Formula:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+106.45 526.00 Td
+(d = a2 - a1 = a3 - a2  \(kisi bhi term me se uska pichla term ghatao\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 510.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 510.00 Td
+(Agar d same nahi aaye to wo AP nahi hai.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 480.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 483.00 Td
+(10. nth Term ka Formula) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 467.00 m 535.28 467.00 l S
+0.000 0.500 0.180 rg
+76.00 455.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 457.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 457.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+0.930 0.950 1.000 rg
+60.00 384.00 475.28 64.00 re
+f
+0.130 0.200 0.450 rg
+60.00 384.00 4.00 64.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 430.00 Td
+(an = a + \(n - 1\) d) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 414.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 398.00 Td
+(a = pehla term,  d = common difference,  n = term number.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 378.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 378.00 Td
+(Example: 2, 5, 8, ... ka 10-wa term = 2 + \(10-1\) x 3 = 29.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 348.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 351.00 Td
+(11. Sum of First n Terms) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 335.00 m 535.28 335.00 l S
+0.000 0.500 0.180 rg
+76.00 323.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 325.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 325.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+0.930 0.950 1.000 rg
+60.00 236.00 475.28 80.00 re
+f
+0.130 0.200 0.450 rg
+60.00 236.00 4.00 80.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 298.00 Td
+(Sn = n/2 [ 2a + \(n - 1\) d ]) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 282.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 266.00 Td
+(Agar last term 'l' pata ho to:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 250.00 Td
+(Sn = n/2 \( a + l \)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 230.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 230.00 Td
+(Example: 1 + 2 + 3 + ... + 100 = 100/2 \(1 + 100\) = 5050.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 200.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 203.00 Td
+(12. AP Hai ya Nahi - Kaise Check Karein) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 187.00 m 535.28 187.00 l S
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 177.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 177.00 Td
+(Lagatar terms ka difference nikalo: a2-a1, a3-a2, a4-a3 ...) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 162.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 162.00 Td
+(Agar saare difference same hain -> AP hai; warna nahi.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 132.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 135.00 Td
+(13. Word Problems) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 119.00 m 535.28 119.00 l S
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 109.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 109.00 Td
+(Pehle a \(first term\) aur d \(common difference\) pehchaano.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 94.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 94.00 Td
+(Fir question ke hisaab se an ya Sn ka formula lagao.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 79.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 79.00 Td
+(Common: savings/salary badhna, seats in rows, etc.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 6237 >>
+stream
+0.740 0.200 0.200 rg
+60.00 775.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 778.00 Td
+(Quick Revision) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 762.00 m 535.28 762.00 l S
+0.930 0.950 1.000 rg
+60.00 662.00 475.28 96.00 re
+f
+0.130 0.200 0.450 rg
+60.00 662.00 4.00 96.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 740.00 Td
+(AP = constant common difference \(d\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 724.00 Td
+(d = baad wala term - pehle wala term.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 708.00 Td
+(nth term:  an = a + \(n-1\)d.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 692.00 Td
+(Sum:  Sn = n/2 [2a + \(n-1\)d]  ya  n/2 \(a + l\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 676.00 Td
+(d positive -> badhti AP; d negative -> ghatti AP.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 641.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 644.00 Td
+(Solved Examples - Samjho Kaise Solve Karte Hain) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 628.00 m 535.28 628.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 618.00 Td
+(Neeche 10 examples step-by-step solve karke dikhaye gaye hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 599.00 Td
+(Example 1:  AP 3, 7, 11, 15 ... ka common difference?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+326.58 599.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 583.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 583.00 Td
+(Step: d = baad wala - pehle wala.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 568.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 568.00 Td
+(Step: d = 7 - 3 = 4.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 553.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 553.00 Td
+(d = 4) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 532.00 Td
+(Example 2:  2, 5, 8, ... ka 10-wa term \(a10\)?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+277.66 532.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 516.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 516.00 Td
+(Step: a = 2, d = 5 - 2 = 3, n = 10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 501.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 501.00 Td
+(Step: an = a + \(n-1\)d = 2 + \(10-1\) x 3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 486.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 486.00 Td
+(Step: = 2 + 27.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 471.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 471.00 Td
+(a10 = 29) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 450.00 Td
+(Example 3:  5, 8, 11, ... ka kaunsa term 50 hai?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+293.57 450.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 434.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 434.00 Td
+(Step: a = 5, d = 3. an = 50 rakho.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 419.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 419.00 Td
+(Step: 5 + \(n-1\)3 = 50 -> \(n-1\)3 = 45.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 404.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 404.00 Td
+(Step: n - 1 = 15 -> n = 16.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 389.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 389.00 Td
+(16-wa term) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 368.00 Td
+(Example 4:  2, 4, 6, ... ke pehle 10 terms ka sum?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+305.18 368.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 352.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 352.00 Td
+(Step: a = 2, d = 2, n = 10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 337.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 337.00 Td
+(Step: Sn = n/2[2a + \(n-1\)d] = 10/2[2x2 + 9x2].) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 322.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 322.00 Td
+(Step: = 5[4 + 18] = 5 x 22.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 307.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 307.00 Td
+(S10 = 110) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 286.00 Td
+(Example 5:  1 + 2 + 3 + ... + 100 ka sum?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+264.85 286.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 270.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 270.00 Td
+(Step: a = 1, last term l = 100, n = 100.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 255.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 255.00 Td
+(Step: Sn = n/2 \(a + l\) = 100/2 \(1 + 100\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 240.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 240.00 Td
+(Step: = 50 x 101.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 225.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 225.00 Td
+(5050) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 204.00 Td
+(Example 6:  Kya 1, 4, 9, 16 ek AP hai?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+251.39 204.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 188.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 188.00 Td
+(Step: Differences: 4-1=3, 9-4=5, 16-9=7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 173.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 173.00 Td
+(Step: Difference same nahi \(3, 5, 7\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 158.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 158.00 Td
+(Nahi \(AP nahi hai\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 137.00 Td
+(Example 7:  10, 7, 4, 1 ka common difference?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+290.50 137.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 121.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 121.00 Td
+(Step: d = 7 - 10 = -3 \(negative\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 106.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 106.00 Td
+(d = -3 \(ghatti AP\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 85.00 Td
+(Example 8:  Ek AP ka 3rd term 5 aur 7th term 9 hai. a aur d?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+358.36 85.00 Td
+() Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 6465 >>
+stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Step: a + 2d = 5  ... \(i\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 775.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 775.00 Td
+(Step: a + 6d = 9  ... \(ii\)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 760.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 760.00 Td
+(Step: \(ii\)-\(i\): 4d = 4 -> d = 1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 745.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 745.00 Td
+(Step: a + 2\(1\) = 5 -> a = 3.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 730.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 730.00 Td
+(a = 3, d = 1) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 709.00 Td
+(Example 9:  a = 7, d = -2 -> a5?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+218.07 709.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 693.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 693.00 Td
+(Step: an = a + \(n-1\)d = 7 + \(5-1\)\(-2\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 678.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 678.00 Td
+(Step: = 7 - 8.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 663.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 663.00 Td
+(a5 = -1) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 642.00 Td
+(Example 10 \(Word\):  Pehle mahine Rs 100 bachat, har mahine Rs 50 zyada. 12-we mahine?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+514.86 642.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 626.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 626.00 Td
+(Step: a = 100, d = 50, n = 12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 611.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 611.00 Td
+(Step: an = 100 + \(12-1\) x 50 = 100 + 550.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 596.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 596.00 Td
+(Rs 650) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 566.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 569.00 Td
+(Practice Questions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 553.00 m 535.28 553.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 543.00 Td
+(Pehle khud solve karne ki koshish karo. Neeche har question ka step-by-step solution diya gaya) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 527.00 Td
+(hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 508.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 508.00 Td
+(AP \(Arithmetic Progression\) kya hota hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 490.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 490.00 Td
+(AP me common difference \(d\) kaise nikalte hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 472.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 472.00 Td
+(nth term ka formula kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 454.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 454.00 Td
+(Sum of n terms ka formula kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 436.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 436.00 Td
+(2, 5, 8, 11 ka common difference kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 418.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 418.00 Td
+(3, 7, 11, ... ka 10-wa term kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 400.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 400.00 Td
+(1, 2, 3, ..., 50 ka sum kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 382.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 382.00 Td
+(Kya 2, 4, 8, 16 ek AP hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 364.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 364.00 Td
+(10, 8, 6, 4 ka common difference kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 346.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 346.00 Td
+(a = 5, d = 3, n = 4 -> a4 kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 328.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 328.00 Td
+(AP 7, 10, 13, ... ka 20-wa term?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 310.00 Td
+(Q12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 310.00 Td
+(Pehle 5 even numbers \(2,4,6,8,10\) ka sum?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 292.00 Td
+(Q13.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 292.00 Td
+(a = 3, d = 2 ho to pehle 3 terms kya honge?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 274.00 Td
+(Q14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 274.00 Td
+(d negative ho to sequence badhti hai ya ghatti?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 256.00 Td
+(Q15.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 256.00 Td
+(Sum formula me 'l' \(last term\) ka kya matlab hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 238.00 Td
+(Q16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 238.00 Td
+(Last term l ke saath sum ka formula kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 220.00 Td
+(Q17.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 220.00 Td
+(AP 2, 4, 6, ..., 20 ka sum kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 202.00 Td
+(Q18.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 202.00 Td
+(3, 6, 9, ... ka kaunsa term 30 hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 184.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 184.00 Td
+(a = 1, d = 1 ho to S10 kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 166.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 166.00 Td
+(5, 2, -1, -4 ka common difference?) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 139.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 142.00 Td
+(Step-by-Step Solutions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 126.00 m 535.28 126.00 l S
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 116.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 116.00 Td
+(AP kya hota hai?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 100.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 100.00 Td
+(Step: Aisi sequence jisme har do terms ka antar same ho.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 85.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 85.00 Td
+(Constant common difference wali sequence) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 6413 >>
+stream
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 790.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 790.00 Td
+(Common difference kaise?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 774.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 774.00 Td
+(Step: Kisi term me se uska pichla term ghatao.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 759.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 759.00 Td
+(d = a2 - a1) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 739.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 739.00 Td
+(nth term ka formula?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 723.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 723.00 Td
+(Step: Standard AP formula.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 708.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 708.00 Td
+(an = a + \(n-1\)d) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 688.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 688.00 Td
+(Sum of n terms?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 672.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 672.00 Td
+(Step: Standard sum formula.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 657.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 657.00 Td
+(Sn = n/2 [2a + \(n-1\)d]) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 637.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 637.00 Td
+(2,5,8,11 ka d?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 621.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 621.00 Td
+(Step: 5 - 2 = 3.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 606.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 606.00 Td
+(d = 3) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 586.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 586.00 Td
+(3,7,11,... ka 10-wa term?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 570.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 570.00 Td
+(Step: a=3, d=4. a10 = 3 + 9x4 = 3 + 36.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 555.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 555.00 Td
+(39) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 535.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 535.00 Td
+(1+2+...+50 ka sum?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 519.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 519.00 Td
+(Step: n=50, a=1, l=50. S = 50/2\(1+50\) = 25x51.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 504.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 504.00 Td
+(1275) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 484.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 484.00 Td
+(Kya 2,4,8,16 AP hai?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 468.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 468.00 Td
+(Step: Diff: 2, 4, 8 \(same nahi\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 453.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 453.00 Td
+(Nahi) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 433.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 433.00 Td
+(10,8,6,4 ka d?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 417.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 417.00 Td
+(Step: 8 - 10 = -2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 402.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 402.00 Td
+(d = -2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 382.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 382.00 Td
+(a=5,d=3,n=4 -> a4?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 366.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 366.00 Td
+(Step: 5 + \(4-1\)3 = 5 + 9.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 351.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 351.00 Td
+(14) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 331.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 331.00 Td
+(7,10,13,... ka 20-wa term?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 315.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 315.00 Td
+(Step: a=7,d=3. a20 = 7 + 19x3 = 7 + 57.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 300.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 300.00 Td
+(64) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 280.00 Td
+(Q12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 280.00 Td
+(Pehle 5 even numbers ka sum?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 264.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 264.00 Td
+(Step: a=2,d=2,n=5. S = 5/2[4 + 4x2] = 5/2[12].) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 249.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 249.00 Td
+(30) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 229.00 Td
+(Q13.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 229.00 Td
+(a=3,d=2 ke pehle 3 terms?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 213.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 213.00 Td
+(Step: 3, 3+2, 5+2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 198.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 198.00 Td
+(3, 5, 7) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 178.00 Td
+(Q14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 178.00 Td
+(d negative ho to?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 162.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 162.00 Td
+(Step: Terms chhote hote jaate hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 147.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 147.00 Td
+(Ghatti \(decreasing\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 127.00 Td
+(Q15.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 127.00 Td
+('l' ka matlab?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 111.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 111.00 Td
+(Step: Sequence ka aakhri term.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 96.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 96.00 Td
+(Last term) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 76.00 Td
+(Q16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 76.00 Td
+(Last term ke saath sum?) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 2092 >>
+stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Step: Chhota formula.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 775.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 775.00 Td
+(Sn = n/2 \(a + l\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 755.00 Td
+(Q17.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 755.00 Td
+(2,4,6,...,20 ka sum?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 739.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 739.00 Td
+(Step: a=2,l=20,n=10. S = 10/2\(2+20\) = 5x22.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 724.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 724.00 Td
+(110) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 704.00 Td
+(Q18.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 704.00 Td
+(3,6,9,... ka kaunsa term 30?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 688.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 688.00 Td
+(Step: a=3,d=3. 3+\(n-1\)3=30 -> \(n-1\)=9 -> n=10.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 673.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 673.00 Td
+(10-wa term) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 653.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 653.00 Td
+(a=1,d=1 -> S10?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 637.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 637.00 Td
+(Step: S = 10/2[2 + 9] = 5 x 11.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 622.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 622.00 Td
+(55) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 602.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 602.00 Td
+(5,2,-1,-4 ka d?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 586.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 586.00 Td
+(Step: 2 - 5 = -3.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 571.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 571.00 Td
+(d = -3) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+10 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 3 0 R >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 4 0 R >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 5 0 R >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 6 0 R >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 7 0 R >>
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000157 00000 n 
+0000006107 00000 n 
+0000012054 00000 n 
+0000018343 00000 n 
+0000024860 00000 n 
+0000031325 00000 n 
+0000033469 00000 n 
+0000033566 00000 n 
+0000033669 00000 n 
+0000033813 00000 n 
+0000033957 00000 n 
+0000034101 00000 n 
+0000034245 00000 n 
+0000034389 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+34533
+%%EOF
