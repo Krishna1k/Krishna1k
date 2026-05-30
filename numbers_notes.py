@@ -69,6 +69,7 @@ GREY = (0.30, 0.30, 0.30)
 BLACK = (0, 0, 0)
 GREEN = (0.0, 0.50, 0.18)
 LIGHT_GREEN = (0.88, 0.96, 0.88)
+RED = (0.85, 0.11, 0.11)
 
 
 class PDFBuilder:
@@ -227,6 +228,37 @@ class PDFBuilder:
         """Small explanation of the green EXAM tag."""
         self.exam_tag("aise green tag wale topics exams me baar-baar aate hain")
         self.space(2)
+
+    def red_heading(self, s):
+        """Bold RED numbered heading for the Core Basics 'red page' style."""
+        size, lead = 15, 22
+        self.ensure(lead + 10)
+        self.y -= 6
+        self._draw_line_text(LEFT, self.y, s, "F2", size, RED)
+        self.y -= lead
+
+    def red_body(self, s):
+        """Red wrapped body text (indented), red-page style."""
+        size, lead = 11.5, 16
+        indent = 16
+        text_x = LEFT + indent
+        max_w = CONTENT_W - indent
+        lines = wrap_text(s, size, max_w)
+        if not lines:
+            lines = ['']
+        for ln in lines:
+            self.ensure(lead)
+            self._draw_line_text(text_x, self.y, ln, "F1", size, RED)
+            self.y -= lead
+
+    def red_title_bar(self, s):
+        """Top banner heading for the red page (with rules above/below)."""
+        self.hline(LEFT, PAGE_W - RIGHT, self.y + 6, BLACK, 1.0)
+        self.space(6)
+        self._draw_line_text(LEFT, self.y, s, "F2", 17, RED)
+        self.y -= 22
+        self.hline(LEFT, PAGE_W - RIGHT, self.y + 6, BLACK, 1.0)
+        self.y -= 8
 
 
 # ----------------------------------------------------------------------
