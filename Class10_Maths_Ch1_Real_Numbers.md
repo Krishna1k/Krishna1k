@@ -1,0 +1,280 @@
+# Class 10 NCERT Maths — Chapter 1: Real Numbers (Core-Basics Edition)
+
+> Special edition for students who skipped Class 7-8-9.
+> 🔴 **RED / 🔴-marked = CORE BASIC (prerequisite)** — Class 7-8-9 ka jo tujhe pehle se aana chahiye tha.
+> 🟢 **GREEN / 🟢-marked = EXAM mein BAAR-BAAR aata hai** — zaroor yaad rakh.
+>
+> *(In the PDF: RED text = core basics, GREEN text = frequently-asked. On GitHub they're marked 🔴 / 🟢.)*
+
+---
+
+# 🔴 PAGE 1 — CORE BASICS (MISS MAT KARNA)
+
+> Ye saari cheezein Class 7-8-9 ki hain. Pura Chapter 1 inhi pe khada hai. Pehle ye samajh, phir aage badh.
+
+🔴 **1) Factor kya hota hai?**
+Factor = jo number kisi doosre number ko **poora** (bina remainder) divide kar de.
+Example: 12 ke factors = 1, 2, 3, 4, 6, 12.
+
+🔴 **2) Multiple kya hota hai?**
+Multiple = number ki "table" ke numbers.
+Example: 3 ke multiples = 3, 6, 9, 12, 15, ...
+(Factor chhota hota hai, multiple bada.)
+
+🔴 **3) Prime, Composite, aur 1**
+- **Prime** = sirf 2 factors (1 aur khud): 2, 3, 5, 7, 11...
+- **Composite** = 2 se zyada factors: 4, 6, 8, 9, 10...
+- **1 na prime hai na composite** (sirf 1 factor hai).
+- **2 ekloti even prime** number hai.
+
+🔴 **4) Power / Exponent (chhota upar wala number)**
+`2³` ka matlab 2 ko 3 baar multiply = 2×2×2 = 8.
+Yahan 2 = base, 3 = power. `a²` = "a square", `a³` = "a cube".
+
+🔴 **5) Square Root (√ — the root symbol)**
+Square root = power ka **ulta**.
+√9 = 3 (kyunki 3×3 = 9), √25 = 5 (kyunki 5×5 = 25).
+Is guide mein hum `sqrt(n)` ya `√n` likhte hain (jaise √2).
+
+🔴 **6) p/q mein q = 0 kyun nahi ho sakta?**
+`p/q` ka matlab p ko q se **divide** karna. Kisi cheez ko **0 se divide karna allowed nahi** (5/0 ka koi answer hi nahi — undefined). Isliye rational number `p/q` mein hamesha **q ≠ 0**.
+
+🔴 **7) HCF (Highest Common Factor)**
+HCF = do numbers ka sabse **bada common factor**.
+12 = {1,2,3,4,6,12}, 18 = {1,2,3,6,9,18} → common {1,2,3,6} → **HCF = 6**.
+
+🔴 **8) LCM (Least Common Multiple)**
+LCM = do numbers ka sabse **chhota common multiple**.
+12 → 12,24,36,48...  18 → 18,36,54... → common chhota = **36 = LCM**.
+
+🔴 **9) Number Types (recap)**
+- Natural (N): 1,2,3,...  | Whole (W): 0,1,2,3,...
+- Integers (Z): ...-2,-1,0,1,2...
+- Rational (Q): p/q form (q≠0): 1/2, 0.25
+- Irrational: p/q mein nahi aata: √2, π
+- Real (R): rational + irrational dono.
+
+🔴 **10) Terminating vs Non-terminating decimal**
+- Terminating = khatam ho jaye: 0.5, 0.25
+- Non-terminating repeating = pattern repeat: 0.333...
+- Non-terminating non-repeating = na khatam na pattern: √2 = 1.41421356... (ye **irrational**)
+
+🔴 **11) Co-prime Numbers**
+Co-prime = do numbers jinka **HCF = 1** (1 ke alawa koi common factor nahi).
+Example: 8 aur 15 → common factor sirf 1 → co-prime.
+(Dono ka khud prime hona zaroori nahi — 8 aur 15 dono composite hain par phir bhi co-prime.)
+
+---
+
+# CHAPTER 1 — ASLI CONTENT
+
+## Topic 1: Fundamental Theorem of Arithmetic
+
+**Statement:** Har composite number ko prime numbers ke **product** (multiplication) ke roop mein likha ja sakta hai, aur ye tareeka **unique** hota hai (order chhod ke).
+
+> 🔴 *[CORE]* "Product of primes" matlab prime numbers ko multiply karna. (Prime/factor wala RED page point 1 & 3 dekh.)
+
+**Example 1:** 156 ka prime factorisation
+```
+156 / 2 = 78
+ 78 / 2 = 39
+ 39 / 3 = 13
+ 13 / 13 = 1
+```
+**156 = 2 × 2 × 3 × 13 = 2² × 3 × 13**
+
+> 🔴 *[CORE]* `2²` ka matlab 2×2 (power wala RED page point 4).
+
+**Example 2:** 3825 ka prime factorisation
+```
+3825 / 3 = 1275
+1275 / 3 = 425
+ 425 / 5 = 85
+  85 / 5 = 17
+  17 / 17 = 1
+```
+**3825 = 3² × 5² × 17**
+
+## Topic 2: HCF and LCM by Prime Factorisation
+
+**Method:**
+- HCF = common prime factors × **lowest** power
+- LCM = all prime factors × **highest** power
+
+> 🔴 *[CORE]* HCF/LCM ka basic matlab RED page (point 7 & 8). Pehle wo samajh.
+
+**Example 3:** 96 aur 404 ka HCF aur LCM
+```
+96  = 2⁵ × 3
+404 = 2² × 101
+
+HCF = 2² = 4              (common prime 2, lowest power)
+LCM = 2⁵ × 3 × 101 = 9696 (all primes, highest power)
+
+Verify: HCF × LCM = 4 × 9696 = 38784 ; 96 × 404 = 38784 ✓
+```
+
+> 🔴 *[CORE]* Sirf 2 numbers ke liye: **HCF × LCM = product of the two numbers**. (3 numbers pe ye rule nahi chalta.)
+
+**Example 4:** Ek diya ho toh doosra nikaalo
+Do numbers ka HCF = 9, LCM = 90, ek number = 18. Doosra = ?
+```
+HCF × LCM = number1 × number2
+9 × 90 = 18 × number2
+810 = 18 × number2
+number2 = 810 / 18 = 45
+```
+
+## Topic 2B: HCF / LCM Word Problems (EXAM IMPORTANT)
+
+> 🟢 **EXAM ALERT:** Ye topic exam mein **baar-baar** aata hai (har saal lagbhag). Word problems pakka tayyar rakh.
+
+**Pehchaan — kaunsa use karna hai:**
+> 🔴 *[CORE]* "Ek saath / together / same time" → **LCM**
+> 🔴 *[CORE]* "Sabse bada / maximum / largest" → **HCF**
+
+**Example 5:** Bells (ek saath bajna) → LCM
+Teen ghantiyan 6, 12, 18 second pe bajti hain. Kab dobara ek saath bajengi?
+```
+LCM of 6, 12, 18:
+6 = 2×3, 12 = 2²×3, 18 = 2×3²
+LCM = 2² × 3² = 36
+```
+**Answer: 36 second baad ek saath.**
+
+**Example 6:** Sabse badi tape (exact measure) → HCF
+Do rassiyan 18 m aur 24 m. Sabse badi tape jo dono ko exact naap sake?
+```
+HCF of 18, 24:
+18 = 2×3², 24 = 2³×3
+HCF = 2 × 3 = 6
+```
+**Answer: 6 m ki tape.**
+
+## Topic 3: Irrational Numbers (√2 is irrational)
+
+> 🟢 **EXAM ALERT:** "Prove that √p is irrational" aur "a + b√p is irrational" — ye 2-3 marks ka question lagbhag **har exam** mein aata hai.
+
+> 🔴 *[CORE]* √2 = "woh number jisko square karne pe 2 aaye". (Root symbol RED page point 5.)
+
+**Theorem used:** Agar prime `p`, `a²` ko divide karta hai, toh `p`, `a` ko bhi divide karta hai.
+
+**Proof: √2 is irrational (Proof by Contradiction)**
+
+1. Maan le √2 rational hai. Toh √2 = p/q, where **q ≠ 0** aur HCF(p,q) = 1 (simplest form).
+   > 🔴 *[CORE]* q ≠ 0 kyun? RED page point 6. HCF(p,q)=1 matlab simplest form.
+2. Square dono side: `2 = p²/q²` → `2q² = p²` ...(i)
+3. 2 divides p² → **2 divides p**.
+4. So p = 2c.
+5. (i) mein daal: `2q² = 4c²` → `q² = 2c²`
+6. 2 divides q² → **2 divides q**.
+7. Ab p aur q dono ko 2 divide karta hai, par HCF = 1 tha. **Contradiction!**
+
+**Conclusion:** Assumption galat. **√2 irrational hai.** ∎
+
+**Example 7:** √3 bhi irrational hai (same method)
+1. Maan le √3 = p/q (HCF=1, q≠0)
+2. `3q² = p²` → 3 divides p² → 3 divides p
+3. p = 3c → `3q² = 9c²` → `q² = 3c²` → 3 divides q
+4. p, q dono ko 3 divide kar raha → HCF=1 toot gaya → **Contradiction**
+5. So **√3 irrational hai.** ∎
+
+**Quick results (yaad rakh):**
+- √p irrational hota hai jab p prime ho.
+- Rational + Irrational = Irrational
+- (non-zero) Rational × Irrational = Irrational
+
+---
+
+# 🧮 SOLVED EXAMPLES — Hardest → Easiest
+
+> 🟢 Ye 8 examples poori tarah **solve karke** dikhaye hain — step-by-step padh ke samajh "kaise solve karte hain". Upar **hardest**, neeche **easiest**.
+
+### Solved Example 1 (HARDEST) — √2 + √3 is irrational 🟢
+1. Maan le √2 + √3 rational hai = r.
+2. √3 = r − √2. Square dono side: `3 = r² − 2r√2 + 2`
+3. `2r√2 = r² − 1` → `√2 = (r² − 1)/(2r)`
+4. RHS rational hai → √2 rational ban gaya. Par √2 irrational hai → **Contradiction!**
+5. So **√2 + √3 irrational hai.** ∎
+
+### Solved Example 2 — Largest number, remainders bachein 🟢
+Sabse bada number jo 2053 aur 967 ko divide kare aur remainder 5, 7 bachein.
+**Trick: pehle remainder ghatao, phir HCF.**
+```
+2053 − 5 = 2048 = 2¹¹
+967  − 7 = 960  = 2⁶ × 3 × 5
+HCF = 2⁶ = 64
+```
+**Answer: 64**
+
+### Solved Example 3 — Smallest number, remainders type 🟢
+Sabse chhota number jo 28 aur 32 se divide hone par remainder 8, 12 chhode.
+**Trick: shortfall same? 28−8=20, 32−12=20 → same! So number = LCM − 20.**
+```
+LCM(28, 32): 28 = 2²×7, 32 = 2⁵ → LCM = 2⁵×7 = 224
+Number = 224 − 20 = 204
+Check: 204÷28 → rem 8 ✓ ; 204÷32 → rem 12 ✓
+```
+
+### Solved Example 4 — 6ⁿ kabhi 0 pe khatam nahi hota 🟢
+0 pe khatam hone ke liye factor **5** chahiye.
+`6ⁿ = (2×3)ⁿ = 2ⁿ × 3ⁿ` — isme 5 hai hi nahi → **6ⁿ kabhi 0 pe end nahi hoga.** (Fundamental Theorem se pakka.)
+
+### Solved Example 5 — Traffic lights (clock time) 🟢
+Lights 48, 72, 108 sec pe badalti hain, 8:00:00 pe saath. Dobara kab?
+```
+48 = 2⁴×3, 72 = 2³×3², 108 = 2²×3³
+LCM = 2⁴ × 3³ = 432 sec = 7 min 12 sec
+```
+**Answer: 8:07:12**
+
+### Solved Example 6 — HCF & LCM of THREE numbers (+verify)
+```
+6 = 2×3, 72 = 2³×3², 120 = 2³×3×5
+HCF = 2×3 = 6
+LCM = 2³×3²×5 = 360
+```
+> 🔴 *[CORE]* 3 numbers pe `HCF × LCM = product` **nahi** chalta (sirf 2 numbers ke liye).
+
+### Solved Example 7 — 5 − √3 is irrational 🟢
+1. Maan le 5 − √3 rational = r.
+2. √3 = 5 − r (rational − rational = rational) → √3 rational ban gaya.
+3. Par √3 irrational hai → **Contradiction!**
+4. So **5 − √3 irrational hai.** ∎
+
+### Solved Example 8 (EASIEST) — HCF & LCM of 12 and 15
+```
+12 = 2²×3, 15 = 3×5
+HCF = 3
+LCM = 2²×3×5 = 60
+Verify: HCF×LCM = 3×60 = 180 ; 12×15 = 180 ✓
+```
+
+---
+
+## Q&A TIME (khud try kar, phir bhej — main check karunga)
+
+**Q1.** 140 ko prime factors ke product mein likho.
+**Q2.** 26 aur 91 ka HCF aur LCM nikaal (prime factorisation se).
+**Q3.** √5 ko irrational prove kar (√2 wala method copy kar).
+**Q4.** 🔴 CORE CHECK: 1 prime hai ya composite? Kyun?
+**Q5.** 🔴 CORE CHECK: 5/0 ka answer kya hai? p/q mein q ke baare mein kya rule hai?
+**Q6.** 3 + 2√5 ko irrational dikhao.
+**Q7.** Word problem: Do ghantiyan 8 aur 12 minute pe bajti hain. Kab dobara ek saath bajengi? (HCF ya LCM?)
+**Q8.** 🔴 CORE CHECK: 14 aur 25 co-prime hain ya nahi? Kyun?
+
+---
+
+## SUMMARY
+
+1. **Fundamental Theorem:** har composite number = unique product of primes.
+2. **HCF** = common primes × lowest power; **LCM** = all primes × highest power.
+3. 2 numbers ke liye: **HCF × LCM = product of numbers**.
+4. **√p irrational** hai jab p prime ho.
+5. **Rational + Irrational = Irrational**.
+
+> 🔴 **CORE BASICS (RED page) ek baar aur revise kar lena** — factor, multiple, prime, power, root, q≠0, HCF, LCM. Inke bina ye chapter adhoora rahega.
+
+---
+
+Generated by Kiro for Krishna1k
