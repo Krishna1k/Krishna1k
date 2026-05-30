@@ -6,7 +6,9 @@ This version is rebuilt for a student who skipped Class 7-8-9:
   - Core/extra concepts highlighted in RED throughout (lines marked '@@').
   - Detailed but trimmed of unnecessary clutter.
 
-Uses shared pdf_utils.py (supports red text via '@@' and page breaks).
+Uses shared pdf_utils.py (red via '@@', green via '$$', page breaks).
+  - RED  = core basics / prerequisites (Class 7-8-9).
+  - GREEN = topics asked in exams again and again (frequently asked).
 """
 
 from pathlib import Path
@@ -23,13 +25,14 @@ Special edition for students who skipped Class 7-8-9
 Core basics (RED) ko miss mat karna!
 ==========================================
 
-   IS PDF MEIN RED RANG KA MATLAB:
+   IS PDF MEIN RANG KA MATLAB:
 @@ RED text = core basic / prerequisite (Class 7-8-9 ka).
 @@ Ye woh cheezein hain jo tujhe pehle se aani chahiye thi.
-@@ Inhe DHYAAN se padh - inke bina chapter samajh nahi aayega.
+$$ GREEN text = exam mein BAAR-BAAR aata hai (zaroor yaad rakh).
+   (Aur black = normal explanation.)
 
-   Agle page pe SAARE core basics ek saath diye hain.
-   Phir asli Chapter 1 shuru hota hai.
+   Agle page pe SAARE core basics (RED) ek saath diye hain.
+   Phir asli Chapter 1, solved examples, aur Q&A.
 
 <<<PAGEBREAK>>>
 
@@ -200,6 +203,9 @@ TOPIC 2: HCF AND LCM BY PRIME FACTORISATION
 TOPIC 2B: HCF / LCM WORD PROBLEMS (EXAM IMPORTANT)
 --------------------------------------------------
 
+$$ EXAM ALERT: Ye topic exam mein BAAR-BAAR aata hai
+$$ (har saal lagbhag). Word problems pakka tayyar rakh.
+
    PEHCHAAN (kaunsa use karna hai):
 @@   - "Ek saath", "together", "same time" -> LCM
 @@   - "Sabse bada", "maximum", "largest" -> HCF
@@ -234,6 +240,10 @@ TOPIC 2B: HCF / LCM WORD PROBLEMS (EXAM IMPORTANT)
 
 TOPIC 3: IRRATIONAL NUMBERS (sqrt2 is irrational)
 -------------------------------------------------
+
+$$ EXAM ALERT: "Prove that sqrt(p) is irrational" aur
+$$ "a + b*sqrt(p) is irrational" - ye 2-3 marks ka
+$$ question lagbhag HAR exam mein aata hai. Ratta maar.
 
 @@   [CORE] sqrt(2) ka matlab "woh number jisko square
 @@   karne pe 2 aaye". Root symbol RED page point 5 mein.
@@ -277,6 +287,149 @@ TOPIC 3: IRRATIONAL NUMBERS (sqrt2 is irrational)
      - sqrt(p) irrational hota hai jab p prime ho.
      - Rational + Irrational = Irrational
      - (non-zero) Rational x Irrational = Irrational
+
+<<<PAGEBREAK>>>
+
+==========================================
+SOLVED EXAMPLES: HARDEST -> EASIEST
+==========================================
+
+$$ Ye 8 examples poori tarah solve karke dikhaye hain.
+$$ Step-by-step padh - "kaise solve karte hain" samajh aayega.
+   (Upar HARDEST, neeche jaake EASIEST hote jaate hain.)
+
+
+   ------------------------------------------------
+   Solved Example 1 (HARDEST) - sqrt2 + sqrt3 irrational
+   ------------------------------------------------
+$$ (Exam favourite - thoda twist wala proof)
+
+   Prove: sqrt2 + sqrt3 is irrational.
+
+   Step 1: Maan le sqrt2 + sqrt3 RATIONAL hai = r.
+   Step 2: sqrt3 = r - sqrt2. Dono side square karo:
+           3 = r^2 - 2 r sqrt2 + 2
+           3 = r^2 + 2 - 2 r sqrt2
+   Step 3: 2 r sqrt2 = r^2 + 2 - 3 = r^2 - 1
+           sqrt2 = (r^2 - 1) / (2r)
+   Step 4: RHS rational hai (r rational hai). Toh sqrt2
+           rational ban gaya. Par sqrt2 IRRATIONAL hai
+           (proved). CONTRADICTION!
+   Step 5: So sqrt2 + sqrt3 IRRATIONAL hai. (Proved)
+
+
+   ------------------------------------------------
+   Solved Example 2 - Largest number, remainders bachein
+   ------------------------------------------------
+$$ (Exam favourite - "leaving remainder" type = HCF)
+
+   Sabse bada number jo 2053 aur 967 ko divide kare aur
+   remainder 5 aur 7 bachein.
+
+   Trick: pehle remainder GHATA do, phir HCF nikaalo.
+     2053 - 5 = 2048
+     967  - 7 = 960
+   Ab HCF(2048, 960):
+     2048 = 2^11
+     960  = 2^6 x 3 x 5
+     HCF  = 2^6 = 64
+
+   Answer: 64.
+
+
+   ------------------------------------------------
+   Solved Example 3 - Smallest number, remainders type
+   ------------------------------------------------
+$$ (Exam favourite - "same shortfall" type = LCM)
+
+   Sabse chhota number jo 28 aur 32 se divide hone par
+   remainder 8 aur 12 chhode.
+
+   Trick: dono mein shortfall same? 28-8=20, 32-12=20.
+     Same (20)! Toh: number = LCM - 20.
+   LCM(28, 32):
+     28 = 2^2 x 7
+     32 = 2^5
+     LCM = 2^5 x 7 = 224
+   Number = 224 - 20 = 204
+
+   Check: 204/28 = 7 baar (196), remainder 8. (ok)
+          204/32 = 6 baar (192), remainder 12. (ok)
+
+
+   ------------------------------------------------
+   Solved Example 4 - 6^n kabhi 0 pe khatam nahi hota
+   ------------------------------------------------
+$$ (Exam favourite - Fundamental Theorem ka use)
+
+   Dikhao: 6^n kisi bhi natural n ke liye digit 0 pe
+   khatam nahi ho sakta.
+
+   Logic: kisi number ko 0 pe khatam hone ke liye usme
+   prime factor 5 (aur 2) hona zaroori hai.
+     6^n = (2 x 3)^n = 2^n x 3^n
+   Isme 5 hai hi nahi! Isliye 6^n kabhi 0 pe end nahi hoga.
+   (Unique prime factorisation se ye pakka hai.)
+
+
+   ------------------------------------------------
+   Solved Example 5 - Traffic lights (clock time)
+   ------------------------------------------------
+$$ (Exam favourite - LCM word problem with time)
+
+   Teen lights 48, 72, 108 second pe badalti hain. 8:00:00
+   pe saath badli. Dobara saath kab badlengi?
+
+   LCM(48, 72, 108):
+     48  = 2^4 x 3
+     72  = 2^3 x 3^2
+     108 = 2^2 x 3^3
+     LCM = 2^4 x 3^3 = 16 x 27 = 432 second
+   432 sec = 7 min 12 sec.
+
+   Answer: 8:07:12 baje dobara saath badlengi.
+
+
+   ------------------------------------------------
+   Solved Example 6 - HCF & LCM of THREE numbers (+verify)
+   ------------------------------------------------
+
+   6, 72, 120 ka HCF aur LCM.
+     6   = 2 x 3
+     72  = 2^3 x 3^2
+     120 = 2^3 x 3 x 5
+     HCF = 2 x 3 = 6        (common, lowest power)
+     LCM = 2^3 x 3^2 x 5 = 360  (all, highest power)
+
+@@ NOTE: 3 numbers pe HCF x LCM = product wala rule
+@@ NAHI chalta (sirf 2 numbers ke liye). Yaad rakh!
+
+
+   ------------------------------------------------
+   Solved Example 7 - 5 - sqrt3 irrational
+   ------------------------------------------------
+$$ (Exam favourite - a + b*sqrt(p) type)
+
+   Prove: 5 - sqrt3 is irrational.
+
+   Step 1: Maan le 5 - sqrt3 RATIONAL = r.
+   Step 2: sqrt3 = 5 - r.
+   Step 3: 5 - r rational hai (rational - rational).
+           Toh sqrt3 rational ban gaya.
+   Step 4: Par sqrt3 IRRATIONAL hai. CONTRADICTION!
+   Step 5: So 5 - sqrt3 IRRATIONAL hai. (Proved)
+
+
+   ------------------------------------------------
+   Solved Example 8 (EASIEST) - HCF & LCM of 12 and 15
+   ------------------------------------------------
+
+   12 = 2^2 x 3
+   15 = 3 x 5
+   HCF = 3              (common prime, lowest power)
+   LCM = 2^2 x 3 x 5 = 60   (all primes, highest power)
+
+   Verify: HCF x LCM = 3 x 60 = 180 ; 12 x 15 = 180 (match!)
 
 
 ==========================================

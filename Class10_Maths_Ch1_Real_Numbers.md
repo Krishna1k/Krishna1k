@@ -1,9 +1,10 @@
 # Class 10 NCERT Maths — Chapter 1: Real Numbers (Core-Basics Edition)
 
 > Special edition for students who skipped Class 7-8-9.
-> 🔴 **RED / 🔴-marked text = CORE BASIC (prerequisite)** — Class 7-8-9 ka jo tujhe pehle se aana chahiye tha. Inhe miss mat karna!
+> 🔴 **RED / 🔴-marked = CORE BASIC (prerequisite)** — Class 7-8-9 ka jo tujhe pehle se aana chahiye tha.
+> 🟢 **GREEN / 🟢-marked = EXAM mein BAAR-BAAR aata hai** — zaroor yaad rakh.
 >
-> *(In the PDF these appear in actual RED color. On GitHub, they're marked with 🔴.)*
+> *(In the PDF: RED text = core basics, GREEN text = frequently-asked. On GitHub they're marked 🔴 / 🟢.)*
 
 ---
 
@@ -126,6 +127,8 @@ number2 = 810 / 18 = 45
 
 ## Topic 2B: HCF / LCM Word Problems (EXAM IMPORTANT)
 
+> 🟢 **EXAM ALERT:** Ye topic exam mein **baar-baar** aata hai (har saal lagbhag). Word problems pakka tayyar rakh.
+
 **Pehchaan — kaunsa use karna hai:**
 > 🔴 *[CORE]* "Ek saath / together / same time" → **LCM**
 > 🔴 *[CORE]* "Sabse bada / maximum / largest" → **HCF**
@@ -149,6 +152,8 @@ HCF = 2 × 3 = 6
 **Answer: 6 m ki tape.**
 
 ## Topic 3: Irrational Numbers (√2 is irrational)
+
+> 🟢 **EXAM ALERT:** "Prove that √p is irrational" aur "a + b√p is irrational" — ye 2-3 marks ka question lagbhag **har exam** mein aata hai.
 
 > 🔴 *[CORE]* √2 = "woh number jisko square karne pe 2 aaye". (Root symbol RED page point 5.)
 
@@ -178,6 +183,72 @@ HCF = 2 × 3 = 6
 - √p irrational hota hai jab p prime ho.
 - Rational + Irrational = Irrational
 - (non-zero) Rational × Irrational = Irrational
+
+---
+
+# 🧮 SOLVED EXAMPLES — Hardest → Easiest
+
+> 🟢 Ye 8 examples poori tarah **solve karke** dikhaye hain — step-by-step padh ke samajh "kaise solve karte hain". Upar **hardest**, neeche **easiest**.
+
+### Solved Example 1 (HARDEST) — √2 + √3 is irrational 🟢
+1. Maan le √2 + √3 rational hai = r.
+2. √3 = r − √2. Square dono side: `3 = r² − 2r√2 + 2`
+3. `2r√2 = r² − 1` → `√2 = (r² − 1)/(2r)`
+4. RHS rational hai → √2 rational ban gaya. Par √2 irrational hai → **Contradiction!**
+5. So **√2 + √3 irrational hai.** ∎
+
+### Solved Example 2 — Largest number, remainders bachein 🟢
+Sabse bada number jo 2053 aur 967 ko divide kare aur remainder 5, 7 bachein.
+**Trick: pehle remainder ghatao, phir HCF.**
+```
+2053 − 5 = 2048 = 2¹¹
+967  − 7 = 960  = 2⁶ × 3 × 5
+HCF = 2⁶ = 64
+```
+**Answer: 64**
+
+### Solved Example 3 — Smallest number, remainders type 🟢
+Sabse chhota number jo 28 aur 32 se divide hone par remainder 8, 12 chhode.
+**Trick: shortfall same? 28−8=20, 32−12=20 → same! So number = LCM − 20.**
+```
+LCM(28, 32): 28 = 2²×7, 32 = 2⁵ → LCM = 2⁵×7 = 224
+Number = 224 − 20 = 204
+Check: 204÷28 → rem 8 ✓ ; 204÷32 → rem 12 ✓
+```
+
+### Solved Example 4 — 6ⁿ kabhi 0 pe khatam nahi hota 🟢
+0 pe khatam hone ke liye factor **5** chahiye.
+`6ⁿ = (2×3)ⁿ = 2ⁿ × 3ⁿ` — isme 5 hai hi nahi → **6ⁿ kabhi 0 pe end nahi hoga.** (Fundamental Theorem se pakka.)
+
+### Solved Example 5 — Traffic lights (clock time) 🟢
+Lights 48, 72, 108 sec pe badalti hain, 8:00:00 pe saath. Dobara kab?
+```
+48 = 2⁴×3, 72 = 2³×3², 108 = 2²×3³
+LCM = 2⁴ × 3³ = 432 sec = 7 min 12 sec
+```
+**Answer: 8:07:12**
+
+### Solved Example 6 — HCF & LCM of THREE numbers (+verify)
+```
+6 = 2×3, 72 = 2³×3², 120 = 2³×3×5
+HCF = 2×3 = 6
+LCM = 2³×3²×5 = 360
+```
+> 🔴 *[CORE]* 3 numbers pe `HCF × LCM = product` **nahi** chalta (sirf 2 numbers ke liye).
+
+### Solved Example 7 — 5 − √3 is irrational 🟢
+1. Maan le 5 − √3 rational = r.
+2. √3 = 5 − r (rational − rational = rational) → √3 rational ban gaya.
+3. Par √3 irrational hai → **Contradiction!**
+4. So **5 − √3 irrational hai.** ∎
+
+### Solved Example 8 (EASIEST) — HCF & LCM of 12 and 15
+```
+12 = 2²×3, 15 = 3×5
+HCF = 3
+LCM = 2²×3×5 = 60
+Verify: HCF×LCM = 3×60 = 180 ; 12×15 = 180 ✓
+```
 
 ---
 

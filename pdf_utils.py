@@ -6,10 +6,10 @@ Type1 fonts, so no font file embedding is needed.
 
 Special content markers (backward compatible):
     - A line starting with "@@" is rendered in RED (the "@@" is stripped).
-      Indentation before "@@" is preserved. Used to highlight core basics /
-      prerequisite concepts that a student must not miss.
-    - A line that is exactly "<<<PAGEBREAK>>>" forces a new page. Used to put
-      the "Core Basics" section on its own dedicated page.
+      Used for core basics / prerequisite concepts (must not miss).
+    - A line starting with "$$" is rendered in GREEN (the "$$" is stripped).
+      Used for topics that are asked in exams again and again (frequently asked).
+    - A line that is exactly "<<<PAGEBREAK>>>" forces a new page.
 
 Usage:
     from pdf_utils import build_pdf
@@ -30,6 +30,7 @@ HEADER_FONT_SIZE = 14
 TITLE_FONT_SIZE = 20
 
 RED_MARKER = "@@"
+GREEN_MARKER = "$$"
 PAGEBREAK_MARKER = "<<<PAGEBREAK>>>"
 
 
@@ -69,12 +70,19 @@ def build_pages(content: str):
             lines.append(("pagebreak", ""))
             continue
 
-        # Red marker detection (strip the marker, keep indentation)
-        is_red = False
+        # Color marker detection (strip the marker, keep indentation)
+        # color in {None, "red", "green"}
+        color = None
+        marker = None
         if stripped.startswith(RED_MARKER):
-            is_red = True
-            idx = ln.find(RED_MARKER)
-            rest = ln[idx + len(RED_MARKER):]
+            color = "red"
+            marker = RED_MARKER
+        elif stripped.startswith(GREEN_MARKER):
+            color = "green"
+            marker = GREEN_MARKER
+        if marker:
+            idx = ln.find(marker)
+            rest = ln[idx + len(marker):]
             if rest.startswith(" "):
                 rest = rest[1:]
             ln = ln[:idx] + rest
@@ -85,10 +93,20 @@ def build_pages(content: str):
         elif (stripped and stripped == stripped.upper() and len(stripped) > 5
                 and not stripped.startswith("-") and not stripped.startswith("*")
                 and re.match(r"^[A-Z0-9 &/().,'\-:]+$", stripped)):
-            lines.append(("header_red" if is_red else "header", stripped))
+            if color == "red":
+                lines.append(("header_red", stripped))
+            elif color == "green":
+                lines.append(("header_green", stripped))
+            else:
+                lines.append(("header", stripped))
         else:
             for w in wrap_line(ln):
-                lines.append(("body_red" if is_red else "body", w))
+                if color == "red":
+                    lines.append(("body_red", w))
+                elif color == "green":
+                    lines.append(("body_green", w))
+                else:
+                    lines.append(("body", w))
 
     pages = []
     cur_page = []
@@ -100,7 +118,7 @@ def build_pages(content: str):
                 cur_page = []
             y = PAGE_H - MARGIN_T
             continue
-        is_header = kind in ("header", "header_red")
+        is_header = kind in ("header", "header_red", "header_green")
         size = HEADER_FONT_SIZE if is_header else FONT_SIZE
         lh = LINE_HEIGHT + (4 if is_header else 0)
         if y - lh < MARGIN_B:
@@ -137,13 +155,19 @@ def make_content_stream(page_lines, title, subtitle, is_first=False) -> bytes:
         if not text.strip():
             continue
         is_red = kind in ("body_red", "header_red")
-        is_header = kind in ("header", "header_red")
+        is_green = kind in ("body_green", "header_green")
+        is_header = kind in ("header", "header_red", "header_green")
         font = "/F2" if is_header else "/F1"
         safe = escape_pdf_text(text)
         if is_red:
             # Set red fill, draw text, reset to black
             parts.append(
                 f"1 0 0 rg BT {font} {size} Tf {MARGIN_L} {y} Td ({safe}) Tj ET 0 0 0 rg"
+            )
+        elif is_green:
+            # Set dark-green fill, draw text, reset to black
+            parts.append(
+                f"0 0.5 0 rg BT {font} {size} Tf {MARGIN_L} {y} Td ({safe}) Tj ET 0 0 0 rg"
             )
         else:
             parts.append(f"BT {font} {size} Tf {MARGIN_L} {y} Td ({safe}) Tj ET")
