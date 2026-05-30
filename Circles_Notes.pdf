@@ -1,0 +1,2291 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Length 6148 >>
+stream
+BT
+/F2 26.00 Tf
+0.130 0.200 0.450 rg
+60.00 790.00 Td
+(Circles) Tj
+ET
+BT
+/F1 13.00 Tf
+0.300 0.300 0.300 rg
+60.00 758.00 Td
+(Chapter 10 - Hinglish Notes, Tangents, Theorems + Solutions) Tj
+ET
+1.20 w
+0.130 0.200 0.450 RG
+60.00 742.00 m 535.28 742.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 728.00 Td
+(Ye Chapter 10 \(Circles\) ka complete guide hai. Pehle red-page ke core basics \(circle ke parts,) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 712.00 Td
+(perpendicular, Pythagoras, tangent vs secant\), fir chapter ka main content - tangent ke theorems) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 696.00 Td
+(aur tangent ki length. End me solved examples aur 20 practice questions ke step-by-step) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 680.00 Td
+(solutions hain.) Tj
+ET
+0.000 0.500 0.180 rg
+76.00 658.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 660.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 660.00 Td
+(* aise green tag wale topics exams me baar-baar aate hain) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 630.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 633.00 Td
+(PART A - Core Basics \(Miss Mat Karna\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 617.00 m 535.28 617.00 l S
+0.740 0.200 0.200 rg
+60.00 596.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 599.00 Td
+(1. Circle ke Parts) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 583.00 m 535.28 583.00 l S
+0.000 0.500 0.180 rg
+76.00 571.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 573.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 573.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 558.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 558.00 Td
+(Centre = beech ka point.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 543.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 543.00 Td
+(Radius \(r\) = centre se circle tak ki doori.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 528.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 528.00 Td
+(Diameter = 2r \(circle ke aar-paar, centre se hokar\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 513.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 513.00 Td
+(Chord = circle pe do points ko jodne wali line.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 483.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 486.00 Td
+(2. Perpendicular \(90 degree\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 470.00 m 535.28 470.00 l S
+0.000 0.500 0.180 rg
+76.00 458.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 460.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 460.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 445.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 445.00 Td
+(Do lines jo 90 degree par milti hain.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 430.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 430.00 Td
+(Symbol: corner par chhota square banate hain.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 400.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 403.00 Td
+(3. Right Triangle + Pythagoras) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 387.00 m 535.28 387.00 l S
+0.000 0.500 0.180 rg
+76.00 375.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 377.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 377.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 362.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 362.00 Td
+(90 degree wale triangle me: hyp^2 = side1^2 + side2^2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 347.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 347.00 Td
+(Tangent ki length nikaalne me use hota hai.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 317.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 320.00 Td
+(4. Square / Square Root) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 304.00 m 535.28 304.00 l S
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 294.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 294.00 Td
+(a^2 = a x a.  sqrt\(100\) = 10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 279.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 279.00 Td
+(Tangent ki length nikaalne me sqrt use hota hai.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 249.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 252.00 Td
+(5. Tangent vs Secant \(Is Chapter ka Dil\)) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 236.00 m 535.28 236.00 l S
+0.000 0.500 0.180 rg
+76.00 224.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 226.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 226.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 211.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 211.00 Td
+(SECANT = line jo circle ko 2 points par CUT kare.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 196.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 196.00 Td
+(TANGENT = line jo circle ko sirf 1 point par TOUCH kare.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 181.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 181.00 Td
+(Touch point = 'point of contact'.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 151.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 154.00 Td
+(6. Number of Tangents) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 138.00 m 535.28 138.00 l S
+0.000 0.500 0.180 rg
+76.00 126.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 128.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 128.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 113.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 113.00 Td
+(Circle ke ANDAR ke point se: 0 tangent.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 98.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 98.00 Td
+(Circle PE point se: 1 tangent.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 83.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 83.00 Td
+(Circle ke BAHAR ke point se: 2 tangent.) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 5429 >>
+stream
+0.740 0.200 0.200 rg
+60.00 781.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 784.00 Td
+(7. Angle Bisector) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 768.00 m 535.28 768.00 l S
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 758.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 758.00 Td
+(Ek line jo kisi angle ko 2 barabar hisson me baant-ti hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 743.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 743.00 Td
+(Centre aur external point ko jodne wali line tangents ke angle ko bisect karti hai.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 713.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 716.00 Td
+(PART B - Chapter 10 ka Main Content) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 700.00 m 535.28 700.00 l S
+0.740 0.200 0.200 rg
+60.00 679.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 682.00 Td
+(8. Tangent to a Circle) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 666.00 m 535.28 666.00 l S
+0.000 0.500 0.180 rg
+76.00 654.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 656.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 656.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 641.00 Td
+(Definition:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 641.00 Td
+(Wo line jo circle ko sirf ek hi point par touch kare. Us point ko point of contact kehte) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 625.00 Td
+(hain.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 594.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 597.00 Td
+(9. Theorem 1 - Radius Tangent par Perpendicular) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 581.00 m 535.28 581.00 l S
+0.000 0.500 0.180 rg
+76.00 569.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 571.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 571.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+0.930 0.950 1.000 rg
+60.00 498.00 475.28 64.00 re
+f
+0.130 0.200 0.450 rg
+60.00 498.00 4.00 64.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 544.00 Td
+(Point of contact par radius, tangent ke PERPENDICULAR \(90 degree\) hoti hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 528.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 512.00 Td
+(Yani: OP \(radius\) _|_ tangent at P.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 492.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 492.00 Td
+(Isliye OP, tangent ke saath right-angle triangle banata hai.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 462.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 465.00 Td
+(10. Theorem 2 - Do Tangents Barabar) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 449.00 m 535.28 449.00 l S
+0.000 0.500 0.180 rg
+76.00 437.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 439.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 439.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+0.930 0.950 1.000 rg
+60.00 366.00 475.28 64.00 re
+f
+0.130 0.200 0.450 rg
+60.00 366.00 4.00 64.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 412.00 Td
+(Bahar ke ek point se khinchi gayi do tangents ki length BARABAR hoti hai.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 396.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 380.00 Td
+(Yani: PA = PB  \(P bahar ka point, A aur B contact points\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 360.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 360.00 Td
+(Aur wo tangents centre wali line ke saath barabar angle banati hain.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 330.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 333.00 Td
+(11. Length of Tangent) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 317.00 m 535.28 317.00 l S
+0.000 0.500 0.180 rg
+76.00 305.00 30.67 12.00 re
+f
+BT
+/F2 8.00 Tf
+1.000 1.000 1.000 rg
+80.00 307.00 Td
+(EXAM) Tj
+ET
+BT
+/F2 8.50 Tf
+0.000 0.500 0.180 rg
+112.67 307.00 Td
+(* Exam me CONSTANTLY aata hai) Tj
+ET
+0.930 0.950 1.000 rg
+60.00 234.00 475.28 64.00 re
+f
+0.130 0.200 0.450 rg
+60.00 234.00 4.00 64.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 280.00 Td
+(Tangent length = sqrt\( OP^2 - r^2 \)) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 264.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 248.00 Td
+(OP = centre se external point ki doori,  r = radius.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 228.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 228.00 Td
+(Ye Pythagoras se aata hai \(kyunki radius _|_ tangent\).) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 198.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 201.00 Td
+(12. Extra Important Facts) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 185.00 m 535.28 185.00 l S
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 175.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 175.00 Td
+(Do parallel tangents ke beech ki doori = diameter \(2r\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 160.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 160.00 Td
+(Diameter ke dono sire par tangents aapas me parallel hoti hain.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 145.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 145.00 Td
+(Chord ke perpendicular bisector hamesha centre se hokar jaata hai.) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 115.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 118.00 Td
+(Quick Revision) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 102.00 m 535.28 102.00 l S
+endstream
+endobj
+5 0 obj
+<< /Length 6411 >>
+stream
+0.930 0.950 1.000 rg
+60.00 700.00 475.28 96.00 re
+f
+0.130 0.200 0.450 rg
+60.00 700.00 4.00 96.00 re
+f
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 778.00 Td
+(Tangent = 1 point touch; Secant = 2 points cut.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 762.00 Td
+(Tangents: andar 0, pe 1, bahar 2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 746.00 Td
+(Radius _|_ tangent at point of contact \(90 degree\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 730.00 Td
+(Bahar ke point se 2 tangents barabar \(PA = PB\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.130 0.200 0.450 rg
+74.00 714.00 Td
+(Tangent length = sqrt\(OP^2 - r^2\).) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 679.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 682.00 Td
+(Solved Examples - Samjho Kaise Solve Karte Hain) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 666.00 m 535.28 666.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 656.00 Td
+(Neeche 10 examples step-by-step solve karke dikhaye gaye hain.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 637.00 Td
+(Example 1:  r=6, OP=10. Tangent ki length?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+277.68 637.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 621.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 621.00 Td
+(Step: Tangent = sqrt\(OP^2 - r^2\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 606.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 606.00 Td
+(Step: = sqrt\(10^2 - 6^2\) = sqrt\(100 - 36\).) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 591.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 591.00 Td
+(Step: = sqrt\(64\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 576.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 576.00 Td
+(Tangent = 8) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 555.00 Td
+(Example 2:  r=5, tangent length=12. OP \(centre se doori\)?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+346.15 555.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 539.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 539.00 Td
+(Step: OP^2 = r^2 + tangent^2 = 25 + 144.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 524.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 524.00 Td
+(Step: OP = sqrt\(169\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 509.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 509.00 Td
+(OP = 13) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 488.00 Td
+(Example 3:  Bahar ke point se kitni tangents?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+283.78 488.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 472.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 472.00 Td
+(Step: Rule: bahar ke point se 2 tangents.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 457.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 457.00 Td
+(2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 436.00 Td
+(Example 4:  PA = 7 \(ek tangent\). Doosri tangent PB?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+320.78 436.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 420.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 420.00 Td
+(Step: Bahar ke point se do tangents barabar.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 405.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 405.00 Td
+(Step: PB = PA.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 390.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 390.00 Td
+(PB = 7) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 369.00 Td
+(Example 5:  Radius aur tangent ke beech ka angle?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+315.59 369.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 353.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 353.00 Td
+(Step: Point of contact par radius _|_ tangent.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 338.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 338.00 Td
+(90 degree) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 317.00 Td
+(Example 6:  r=8, OP=17. Tangent length?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+266.68 317.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 301.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 301.00 Td
+(Step: sqrt\(17^2 - 8^2\) = sqrt\(289 - 64\) = sqrt\(225\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 286.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 286.00 Td
+(15) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 265.00 Td
+(Example 7:  Circle pe point se kitni tangent?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+277.66 265.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 249.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 249.00 Td
+(Step: Circle PE point se exactly 1 tangent.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 234.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 234.00 Td
+(1) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 213.00 Td
+(Example 8:  Andar ke point se kitni tangent?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+278.28 213.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 197.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 197.00 Td
+(Step: Andar ke point se 0 tangent \(line cut karegi\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 182.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 182.00 Td
+(0) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 161.00 Td
+(Example 9:  Diameter = 14. Do parallel tangents ke beech doori?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+378.85 161.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 145.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 145.00 Td
+(Step: Parallel tangents ke beech doori = diameter.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 130.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 130.00 Td
+(14) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 109.00 Td
+(Example 10:  r=9, OP=15. Tangent length?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+272.79 109.00 Td
+() Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 93.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 93.00 Td
+(Step: sqrt\(15^2 - 9^2\) = sqrt\(225 - 81\) = sqrt\(144\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 78.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 78.00 Td
+(12) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 6227 >>
+stream
+0.740 0.200 0.200 rg
+60.00 776.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 779.00 Td
+(Practice Questions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 763.00 m 535.28 763.00 l S
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 753.00 Td
+(Pehle khud solve karne ki koshish karo. Neeche har question ka step-by-step solution diya gaya) Tj
+ET
+BT
+/F1 11.00 Tf
+0.300 0.300 0.300 rg
+60.00 737.00 Td
+(hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 718.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 718.00 Td
+(Radius aur diameter me kya relation hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 700.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 700.00 Td
+(Chord kya hota hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 682.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 682.00 Td
+(Tangent kya hota hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 664.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 664.00 Td
+(Secant kya hota hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 646.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 646.00 Td
+(Bahar ke point se kitni tangents khinch sakte hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 628.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 628.00 Td
+(Circle pe point se kitni tangents?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 610.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 610.00 Td
+(Andar ke point se kitni tangents?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 592.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 592.00 Td
+(Point of contact par radius aur tangent ke beech angle?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 574.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 574.00 Td
+(Tangent ki length ka formula kya hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 556.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 556.00 Td
+(r=3, OP=5 -> tangent length?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 538.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 538.00 Td
+(r=8, tangent=6 -> OP?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 520.00 Td
+(Q12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 520.00 Td
+(Bahar ke point se do tangents ke beech kya relation?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 502.00 Td
+(Q13.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 502.00 Td
+(Point of contact kise kehte hain?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 484.00 Td
+(Q14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 484.00 Td
+(Do parallel tangents ke beech doori kiske barabar hoti hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 466.00 Td
+(Q15.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 466.00 Td
+(r=12, OP=13 -> tangent length?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 448.00 Td
+(Q16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 448.00 Td
+(Tangent length formula kis theorem se aata hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 430.00 Td
+(Q17.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 430.00 Td
+(PA=9 ek tangent ho to doosri PB?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 412.00 Td
+(Q18.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 412.00 Td
+(Diameter 10 ho to radius?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 394.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 394.00 Td
+(Secant circle ko kitne points par cut karti hai?) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 376.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 376.00 Td
+(Centre se chord par dali gayi perpendicular chord ko kya karti hai?) Tj
+ET
+0.740 0.200 0.200 rg
+60.00 349.00 4.00 16.00 re
+f
+BT
+/F2 15.00 Tf
+0.130 0.200 0.450 rg
+72.00 352.00 Td
+(Step-by-Step Solutions) Tj
+ET
+0.60 w
+0.800 0.800 0.800 RG
+60.00 336.00 m 535.28 336.00 l S
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 326.00 Td
+(Q1.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 326.00 Td
+(Radius aur diameter relation?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 310.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 310.00 Td
+(Step: Diameter centre se hokar dono taraf radius.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 295.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 295.00 Td
+(Diameter = 2r) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 275.00 Td
+(Q2.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 275.00 Td
+(Chord kya hota hai?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 259.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 259.00 Td
+(Step: Circle pe 2 points jodne wali line.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 244.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 244.00 Td
+(Do points jodne wali line) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 224.00 Td
+(Q3.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 224.00 Td
+(Tangent kya hota hai?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 208.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 208.00 Td
+(Step: Circle ko 1 point par touch.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 193.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 193.00 Td
+(1 point touch karne wali line) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 173.00 Td
+(Q4.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 173.00 Td
+(Secant kya hota hai?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 157.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 157.00 Td
+(Step: Circle ko 2 points par cut.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 142.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 142.00 Td
+(2 points par cut karne wali line) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 122.00 Td
+(Q5.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 122.00 Td
+(Bahar ke point se tangents?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 106.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 106.00 Td
+(Step: Rule.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 91.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 91.00 Td
+(2) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 6401 >>
+stream
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 790.00 Td
+(Q6.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 790.00 Td
+(Circle pe point se tangents?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 774.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 774.00 Td
+(Step: Rule.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 759.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 759.00 Td
+(1) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 739.00 Td
+(Q7.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 739.00 Td
+(Andar ke point se tangents?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 723.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 723.00 Td
+(Step: Line cut karegi.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 708.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 708.00 Td
+(0) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 688.00 Td
+(Q8.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 688.00 Td
+(Radius-tangent angle?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 672.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 672.00 Td
+(Step: Theorem 1.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 657.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 657.00 Td
+(90 degree) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 637.00 Td
+(Q9.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+80.79 637.00 Td
+(Tangent length formula?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 621.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 621.00 Td
+(Step: Pythagoras se.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 606.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 606.00 Td
+(sqrt\(OP^2 - r^2\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 586.00 Td
+(Q10.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 586.00 Td
+(r=3, OP=5 -> tangent?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 570.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 570.00 Td
+(Step: sqrt\(25 - 9\) = sqrt\(16\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 555.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 555.00 Td
+(4) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 535.00 Td
+(Q11.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 535.00 Td
+(r=8, tangent=6 -> OP?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 519.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 519.00 Td
+(Step: OP = sqrt\(64 + 36\) = sqrt\(100\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 504.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 504.00 Td
+(10) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 484.00 Td
+(Q12.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 484.00 Td
+(Do tangents \(bahar se\) relation?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 468.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 468.00 Td
+(Step: Theorem 2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 453.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 453.00 Td
+(Barabar \(PA = PB\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 433.00 Td
+(Q13.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 433.00 Td
+(Point of contact?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 417.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 417.00 Td
+(Step: Jahan tangent circle ko touch kare.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 402.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 402.00 Td
+(Touch karne wala point) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 382.00 Td
+(Q14.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 382.00 Td
+(Parallel tangents ke beech doori?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 366.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 366.00 Td
+(Step: Diameter ke barabar.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 351.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 351.00 Td
+(Diameter \(2r\)) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 331.00 Td
+(Q15.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 331.00 Td
+(r=12, OP=13 -> tangent?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 315.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 315.00 Td
+(Step: sqrt\(169 - 144\) = sqrt\(25\).) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 300.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 300.00 Td
+(5) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 280.00 Td
+(Q16.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 280.00 Td
+(Tangent formula kis theorem se?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 264.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 264.00 Td
+(Step: Radius _|_ tangent -> Pythagoras.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 249.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 249.00 Td
+(Pythagoras theorem) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 229.00 Td
+(Q17.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 229.00 Td
+(PA=9 -> PB?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 213.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 213.00 Td
+(Step: Do tangents barabar.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 198.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 198.00 Td
+(9) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 178.00 Td
+(Q18.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 178.00 Td
+(Diameter 10 -> radius?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 162.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 162.00 Td
+(Step: r = diameter/2.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 147.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 147.00 Td
+(5) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 127.00 Td
+(Q19.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 127.00 Td
+(Secant kitne points cut?) Tj
+ET
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 111.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 111.00 Td
+(Step: Do points par.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 96.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 96.00 Td
+(2) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 76.00 Td
+(Q20.) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+86.91 76.00 Td
+(Centre se chord par perpendicular?) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 333 >>
+stream
+BT
+/F1 11.00 Tf
+0.740 0.200 0.200 rg
+64.00 790.00 Td
+(-) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+76.00 790.00 Td
+(Step: Chord ko do barabar hisson me baant-ti hai.) Tj
+ET
+BT
+/F2 11.00 Tf
+0.000 0.000 0.000 rg
+60.00 775.00 Td
+(   Answer:) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+111.96 775.00 Td
+(Chord ko bisect karti hai) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+10 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 3 0 R >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 4 0 R >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 5 0 R >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 6 0 R >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 7 0 R >>
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000157 00000 n 
+0000006357 00000 n 
+0000011838 00000 n 
+0000018301 00000 n 
+0000024580 00000 n 
+0000031033 00000 n 
+0000031417 00000 n 
+0000031514 00000 n 
+0000031617 00000 n 
+0000031761 00000 n 
+0000031905 00000 n 
+0000032049 00000 n 
+0000032193 00000 n 
+0000032337 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+32481
+%%EOF
